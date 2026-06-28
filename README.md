@@ -2,6 +2,15 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [que-documentacion-necesitas-para-vender-tu-propiedad-en-caba](contenido/que-documentacion-necesitas-para-vender-tu-propiedad-en-caba.md) → https://re.bercovich.com/articulos/que-documentacion-necesitas-para-vender-tu-propiedad-en-caba
+- [como-preparar-tu-departamento-para-venderlo-mas-rapido-home-stag](contenido/como-preparar-tu-departamento-para-venderlo-mas-rapido-home-stag.md) → https://re.bercovich.com/articulos/como-preparar-tu-departamento-para-venderlo-mas-rapido-home-stag
+- [como-tasar-tu-propiedad-los-factores-que-determinan-el-precio-en](contenido/como-tasar-tu-propiedad-los-factores-que-determinan-el-precio-en.md) → https://re.bercovich.com/articulos/como-tasar-tu-propiedad-los-factores-que-determinan-el-precio-en
+- [es-buen-momento-para-vender-tu-propiedad-en-caba-lo-que-muestra](contenido/es-buen-momento-para-vender-tu-propiedad-en-caba-lo-que-muestra.md) → https://re.bercovich.com/articulos/es-buen-momento-para-vender-tu-propiedad-en-caba-lo-que-muestra
+- [cuanto-cuesta-un-departamento-en-caba-en-mayo-de-2026](contenido/cuanto-cuesta-un-departamento-en-caba-en-mayo-de-2026.md) → https://re.bercovich.com/articulos/cuanto-cuesta-un-departamento-en-caba-en-mayo-de-2026
+- [villa-crespo-por-que-es-uno-de-los-barrios-mas-buscados-de-caba](contenido/villa-crespo-por-que-es-uno-de-los-barrios-mas-buscados-de-caba.md) → https://re.bercovich.com/articulos/villa-crespo-por-que-es-uno-de-los-barrios-mas-buscados-de-caba
+- [precio-del-m-en-caba-mayo-2026](contenido/precio-del-m-en-caba-mayo-2026.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-mayo-2026
+- [comprar-departamento-en-palermo-guia-para-palermo-norte-y-alto-p](contenido/comprar-departamento-en-palermo-guia-para-palermo-norte-y-alto-p.md) → https://re.bercovich.com/articulos/comprar-departamento-en-palermo-guia-para-palermo-norte-y-alto-p
+- [parque-chacabuco-comprar-departamento-para-vivir-o-invertir](contenido/parque-chacabuco-comprar-departamento-para-vivir-o-invertir.md) → https://re.bercovich.com/articulos/parque-chacabuco-comprar-departamento-para-vivir-o-invertir
 - [comprar-departamento-en-recoleta-que-tener-en-cuenta-en-2026](contenido/comprar-departamento-en-recoleta-que-tener-en-cuenta-en-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-recoleta-que-tener-en-cuenta-en-2026
 - [comprar-departamento-en-palermo-guia-de-palermo-norte-y-alto-pal](contenido/comprar-departamento-en-palermo-guia-de-palermo-norte-y-alto-pal.md) → https://re.bercovich.com/articulos/comprar-departamento-en-palermo-guia-de-palermo-norte-y-alto-pal
 - [boleto-de-compraventa-vs-escritura-que-firmas-y-en-que-momento](contenido/boleto-de-compraventa-vs-escritura-que-firmas-y-en-que-momento.md) → https://re.bercovich.com/articulos/boleto-de-compraventa-vs-escritura-que-firmas-y-en-que-momento
