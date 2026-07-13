@@ -2,6 +2,14 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [comprar-departamento-en-nunez-guia-2026](contenido/comprar-departamento-en-nunez-guia-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-nunez-guia-2026
+- [comprar-departamento-en-palermo-guia-para-vivir-y-invertir](contenido/comprar-departamento-en-palermo-guia-para-vivir-y-invertir.md) → https://re.bercovich.com/articulos/comprar-departamento-en-palermo-guia-para-vivir-y-invertir
+- [comprar-departamento-en-belgrano-guia-para-2026](contenido/comprar-departamento-en-belgrano-guia-para-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-belgrano-guia-para-2026
+- [comprar-departamento-en-belgrano-guia-para-vivir-o-invertir](contenido/comprar-departamento-en-belgrano-guia-para-vivir-o-invertir.md) → https://re.bercovich.com/articulos/comprar-departamento-en-belgrano-guia-para-vivir-o-invertir
+- [comprar-departamento-en-colegiales-guia-2026](contenido/comprar-departamento-en-colegiales-guia-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-colegiales-guia-2026
+- [comprar-departamento-en-capital-federal-guia-2026](contenido/comprar-departamento-en-capital-federal-guia-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-capital-federal-guia-2026
+- [comprar-departamento-en-nunez-guia-para-vivir-o-invertir](contenido/comprar-departamento-en-nunez-guia-para-vivir-o-invertir.md) → https://re.bercovich.com/articulos/comprar-departamento-en-nunez-guia-para-vivir-o-invertir
+- [comprar-departamento-en-palermo-guia-2026](contenido/comprar-departamento-en-palermo-guia-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-palermo-guia-2026
 - [que-documentacion-necesitas-para-vender-tu-propiedad-en-caba](contenido/que-documentacion-necesitas-para-vender-tu-propiedad-en-caba.md) → https://re.bercovich.com/articulos/que-documentacion-necesitas-para-vender-tu-propiedad-en-caba
 - [como-preparar-tu-departamento-para-venderlo-mas-rapido-home-stag](contenido/como-preparar-tu-departamento-para-venderlo-mas-rapido-home-stag.md) → https://re.bercovich.com/articulos/como-preparar-tu-departamento-para-venderlo-mas-rapido-home-stag
 - [como-tasar-tu-propiedad-los-factores-que-determinan-el-precio-en](contenido/como-tasar-tu-propiedad-los-factores-que-determinan-el-precio-en.md) → https://re.bercovich.com/articulos/como-tasar-tu-propiedad-los-factores-que-determinan-el-precio-en
