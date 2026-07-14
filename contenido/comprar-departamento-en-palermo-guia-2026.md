@@ -2,7 +2,7 @@
 title: "Comprar departamento en Palermo: guía 2026"
 canonical: "https://re.bercovich.com/articulos/comprar-departamento-en-palermo-guia-2026"
 category: "mercado"
-date: "2026-06-28"
+date: "2026-07-14"
 robots: "index, follow"
 source: "Bercovich Real Estate — https://re.bercovich.com/articulos/comprar-departamento-en-palermo-guia-2026"
 ---
@@ -10,64 +10,127 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/comprar-de
 > Publicado originalmente en [https://re.bercovich.com/articulos/comprar-departamento-en-palermo-guia-2026](https://re.bercovich.com/articulos/comprar-departamento-en-palermo-guia-2026)
 # Comprar departamento en Palermo: guía 2026
 
-Palermo combina ubicación, conectividad y demanda sostenida, lo que lo hace atractivo para comprar para vivir o invertir.
+Comprar departamento en Palermo en 2026 puede convenir si buscás ubicación, servicios, demanda sostenida y buena liquidez de reventa. No suele ser el barrio ideal para maximizar metros con poco presupuesto. La decisión depende de tu objetivo, del precio por metro y del costo de entrada en CABA.
 
-# Comprar departamento en Palermo: guía 2026
+## ¿Conviene comprar departamento en Palermo en 2026?
 
-Palermo es uno de los barrios más queridos por porteños y extranjeros debido a su combinación de elegancia, diversidad cultural y acceso a servicios. Este artículo te proporcionará una visión detallada sobre el panorama del barrio, desde sus subzonas hasta las opciones de vivienda disponibles.
+Comprar departamento en Palermo **puede convenir**, pero no es un barrio para entrar “porque sí”. Si vos buscás **uso propio**, Palermo suele tener sentido cuando priorizás ubicación, vida barrial, oferta de servicios y una demanda constante de unidades bien puestas. Si tu presupuesto es ajustado y lo que querés es maximizar metros a menor costo, probablemente vas a encontrar opciones más cómodas en otros barrios.
 
-## Perfil del Barrio y Subzonas
-Palermo está dividido en varias subzonas, cada una con su propio carácter y características:
-- **Palermo Soho**: Zona de negocios y turismo, conocida por sus boutiques y restaurantes. Este barrio es popular entre jóvenes profesionales que buscan un ambiente cosmopolita.
-- **Palermo Hollywood**: Barrio residencial con viviendas más grandes y cómodas. Ofrece un estilo de vida tranquilo y familiar, ideal para parejas y familias.
-- **Palermo Viedma**: Más aislado, ofrece paz y tranquilidad, ideal para familias. Este barrio se destaca por su arquitectura colonial y parques que brindan un ambiente acogedor. Además, Palermo es conocido por sus numerosos museos y espacios verdes como el Palermo Soho Park, el Bosque de Palermo y el Parque Patricios.
+En **inversión**, Palermo suele interesar más por **liquidez y facilidad de reventa** que por una promesa de ganancia. Eso significa que, si comprás bien y a precio razonable, el activo puede ser más fácil de mover que en zonas con menor demanda. El punto clave es no mirar solo el aviso: el mercado real de cierre en CABA está en **USD 2.200/m² (mayo 2026, UCEMA / RE-MAX / Reporte Inmobiliario)**, y ese valor te sirve como referencia para evaluar si el pedido del vendedor está alineado con la plaza.
 
-## Conectividad y Transporte
-La conectividad en Palermo es excelente. Se encuentra cerca de estaciones de trenes como Belgrano Sur y Sarmiento, además de varias líneas de colectivos que facilitan el acceso a todo Buenos Aires. Los departamentos en Palermo suelen contar con buenos sistemas de seguridad.
+### A quién suele cerrarle Palermo
+- **Comprador de uso propio** que valora ubicación, conectividad y vida urbana.
+- **Inversor conservador** que prioriza demanda y salida antes que apostar a una tasa extraordinaria.
+- **Quien compra con presupuesto suficiente** para elegir una unidad competitiva, no una que quede “forzada” por precio.
 
-## Tipologías Predominantes
-Las tipologías predominantes en Palermo incluyen:
-- **Departamentos pequeños y medianos**: ideales para jóvenes profesionales o parejas recién casadas. Estos departamentos suelen tener entre 45 m² y 70 m².
-- **Lujosos penthouses**: para inversionistas buscando una inversión de alta gama. Estos apartamentos suelen tener vistas panorámicas y servicios exclusivos, con superficies que van desde los 180 m² hasta más de 300 m².
-- **Apartoestudios**: alternativa versátil que combina vivienda con oficina. Esta tipología es popular entre profesionales que necesitan un espacio de trabajo en la ciudad y pueden tener entre 25 m² a 40 m². Los apartoestudios se ubican en edificios comerciales o residenciales, ofreciendo comodidades como internet de alta velocidad y servicios de limpieza.
+También tené presente el costo de entrada: en CABA el impuesto de sellos es de **2,7% (AGIP, 2026-06-22)**, con **exención para vivienda única de uso permanente hasta el tope vigente (AGIP, 2026-06-22)**. Si ese costo te pega fuerte sobre tu capital disponible, Palermo puede dejar de ser cómodo y pasar a exigirte más precisión en la compra.
 
-## Desarrollo e Inversión
-El barrio ha experimentado un fuerte crecimiento en la última década. Según estimaciones del sector, los precios de los departamentos han aumentado en torno a 5-10% anualmente (2024, UCEMA/RE-MAX). La inversión en Palermo sigue siendo atractiva debido a su demanda constante y la calidad de vida que ofrece. 
+En síntesis: **sí conviene** si vas a vivir ahí o si comprás con criterio de reventa y buena calidad de unidad. **No conviene** si tu prioridad es maximizar superficie al menor precio posible.
 
-## Qué Mirar Antes de Comprar
-Al momento de comprar un departamento en Palermo, tenés en cuenta los siguientes aspectos:
-- **Estado del edificio**: Verificá si el inmueble está en buen estado o necesita reformas. Un edificio bien mantenido puede evitar gastos adicionales.
-- **Proximidad a servicios**: Ubicación respecto a colegios, hospitales y comercios. Esto influye en la calidad de vida diaria.
-- **Condiciones de financiamiento**: Asegurate que el departamento cumpla con los requisitos del banco. La oferta crediticia puede variar según la entidad financiera.
+## Cómo es vivir en Palermo: zonas, perfil del barrio y diferencias internas
 
-## Errores Comunes
-- **Subestimar el mantenimiento**: Muchos compradores olvidan considerar los costos asociados al mantenimiento y la revisión periódica del edificio, lo que puede generar sorpresas financieras no planificadas.
-- **No investigar bien**: No compres sin verificar las condiciones actuales y futuras del barrio, incluyendo obras y cambios en el transporte público. Esto puede afectar significativamente tu calidad de vida.
+Palermo no es un barrio de una sola cara: si te mudás ahí, lo que vivís cambia bastante según la subzona. Palermo Soho y Hollywood tienen un perfil más urbano y activo, con mucha vida en la calle, gastronomía, bares, locales de diseño y movimiento casi todo el día. Son sectores donde pesa más el ritmo comercial y la agenda social, ideal si valorás salir caminando y tener todo cerca.
 
-## FAQ
-1. **¿Conviene comprar en Palermo para vivir o para invertir?**
-   Comprar un departamento en Palermo puede ser una buena inversión debido a la demanda sostenida y el potencial de valorización, pero también es ideal para quienes buscan un ambiente vibrante y de calidad.
+En cambio, Alto Palermo, Botánico y las áreas más próximas a Av. Santa Fe o Av. Las Heras tienen un aire más residencial y práctico. Ahí ganan peso la conectividad, los servicios cotidianos y el acceso a comercios de uso diario. Palermo Chico, por su parte, es la cara más premium y tranquila del barrio: edificios de mejor categoría, calles más serenas, cercanía a parques y un entorno más silencioso que otras franjas de Palermo.
 
-2. **¿Qué gastos tiene comprar un departamento en Palermo?**
-   El precio del departamento no incluye comisiones al corredor (según estimaciones del sector), ni costos de inscripción y notaría (5-7% del valor, 2024, UCEMA/RE-MAX), ni seña (generalmente 10-20% del total).
+| Zona | Perfil de uso | Qué vas a encontrar |
+|---|---|---|
+| Palermo Soho | Más movido y comercial | Gastronomía, moda, vida nocturna |
+| Palermo Hollywood | Similar a Soho, con impronta gastronómica | Restaurantes, cafés, estudios y oficinas |
+| Alto Palermo | Residencial y bien conectado | Shopping, avenidas, servicios y transporte |
+| Palermo Chico | Más exclusivo y tranquilo | Edificios premium, parques y entorno residencial |
+| Botánico | Verde y urbano | Proximidad al Jardín Botánico y calles arboladas |
 
-3. **¿Cómo es la conexión de transporte en Palermo?**
-   Palermo cuenta con una excelente conectividad a través del sistema ferroviario, con estaciones como Belgrano Sur y Sarmiento que facilitan el acceso a todo Buenos Aires (2024, UCEMA/RE-MAX).
+En conjunto, Palermo te da una combinación fuerte de transporte, oferta comercial, bares, restaurantes y espacios verdes como el Parque Las Heras, el Jardín Botánico y el entorno de los Bosques de Palermo. La clave está en que no todos sus sectores ofrecen el mismo estilo de vida: si buscás movimiento, elegí las áreas más comerciales; si priorizás calma y mejor calidad residencial, mirá Palermo Chico, Botánico o las calles internas más tranquilas.
 
-## Tabla Comparativa de Tipologías
-| Tipo de Vivienda | Precios Promedio | Descripción |
-|------------------|-----------------|-------------|
-| **Departamento pequeño** | Se ubica en torno a $1.500.000 - $2.000.000 | Ideal para jóvenes profesionales y parejas recién casadas, con un espacio de 45 m² a 70 m². |
-| **Penthouse** | Se ubican entre $7.000.000 - $10.000.000 | Opciones de inversión de alta gama con vistas panorámicas, servicios exclusivos y superficies que van desde 180 m² hasta más de 300 m². |
-| **Apartoestudio** | Se ubican en torno a $2.500.000 - $3.000.000 | Alternativa versátil que combina vivienda con oficina, con un espacio de 25 m² a 40 m² y comodidades como internet de alta velocidad y servicios de limpieza.
+## Precios de departamentos en Palermo: valores de publicación y qué se consigue
 
-## Errores Comunes
-- **Subestimar el mantenimiento**: Muchos compradores olvidan considerar los costos asociados al mantenimiento y la revisión periódica del edificio, lo que puede generar sorpresas financieras no planificadas.
-- **No investigar bien**: No compres sin verificar las condiciones actuales y futuras del barrio, incluyendo obras y cambios en el transporte público. Esto puede afectar significativamente tu calidad de vida.
+En Palermo, el precio de publicación suele moverse muy por encima del valor de cierre efectivo, así que si vos mirás avisos tenés que leerlos con criterio. Como referencia de mercado, el cierre real del metro cuadrado en CABA se ubicó en **USD 2.200/m² (mayo 2026, UCEMA)**, una base útil para entender dónde queda parado Palermo cuando comparás unidades similares por zona, estado y producto.
+
+| Tipo de unidad | Qué suele ofrecer |
+|---|---|
+| Monoambiente | Entrada de gama para primera vivienda o inversión, sobre todo en edificios relativamente nuevos o unidades recicladas. |
+| 2 ambientes | El segmento más buscado: combina accesibilidad y liquidez, con mucha dispersión según ubicación y estado. |
+| 3 ambientes | Producto más escaso; aparece más en edificios clásicos o en desarrollos con superficies medianas. |
+| Premium | Departamentos con amenities, mejor calidad constructiva y ubicación más consolidada dentro del barrio. |
+
+En Palermo, el precio no lo define solo la tipología: pesa muchísimo el **estado del inmueble**. Una unidad a reciclar, aunque esté bien ubicada, se publica con una lógica distinta a una refaccionada o a estrenar. También cambia por **antigüedad**: los edificios clásicos suelen tener mejores metros y plantas más generosas, pero pueden requerir actualización; los más nuevos, en cambio, suelen sumar amenities y terminaciones que empujan el valor de publicación.
+
+La **ubicación dentro del barrio** también marca diferencias claras. Palermo Chico, Palermo Soho y las zonas cercanas a parques o corredores gastronómicos suelen concentrar los avisos más altos, mientras que áreas más residenciales o de borde pueden mostrar una relación precio/superficie más accesible. Si buscás premium, el combo de ubicación, amenities y categoría del edificio es decisivo; si buscás entrar con menor ticket, te conviene priorizar una planta eficiente aunque sacrifiques amenities. Recordá además que, al cerrar la operación, en CABA puede aplicar **impuesto de sellos del 2,7% (AGIP, 2026-06-22)**, salvo la exención para vivienda única de uso permanente hasta el tope vigente.
+
+## Qué revisar antes de comprar departamento en Palermo
+
+Antes de avanzar con la compra, revisá el inmueble con una lógica de due diligence, no solo con una visita rápida. En Palermo, donde conviven edificios antiguos, PH, torres y locales en zonas muy activas, los detalles cambian mucho la experiencia de uso y el riesgo de compra.
+
+### Checklist básico antes de señar
+
+| Ítem | Qué mirar |
+|---|---|
+| Expensas | Si están al día, qué incluyen y si hay gastos extraordinarios |
+| Orientación y luminosidad | Entrada de sol real durante el día, no solo luz “abierta” |
+| Ruido | Tránsito, bares, colegios, obras, ventilación a patios internos |
+| Estado del edificio | Fachada, ascensor, instalaciones, terraza, cañerías y humedades |
+| Encargado y consorcio | Presencia, mantenimiento y nivel de respuesta |
+| Cochera | Acceso, maniobra, escrituración y si está incluida o separada |
+| Amenities | Uso real, mantenimiento y costo de sostenerlos |
+| Escritura y reglamento | Titularidad, restricciones de uso y destino |
+| Potencial de renta | Demanda de la zona y perfil de inquilino o comprador |
+| Costos ocultos | Mudanza, arreglos, puesta a punto y honorarios |
+
+Pedí siempre el reglamento de copropiedad, el último resumen de expensas y, si podés, las actas recientes del consorcio. Ahí suelen aparecer conflictos, obras pendientes o deudas. También conviene verificar si el uso admite vivienda o local, porque no todos los inmuebles sirven para lo mismo.
+
+En cuanto al negocio, no te quedes solo con el precio publicado: en CABA el cierre real del m² ronda USD 2.200/m² (mayo 2026, UCEMA). Y si la operación queda alcanzada, recordá el impuesto de sellos en CABA: 2,7% (junio 2026, AGIP), con exención para vivienda única de uso permanente hasta el tope vigente. Ese costo, sumado a arreglos y puesta a punto, puede cambiar bastante la cuenta final.
+
+Si el departamento te cierra por ubicación, pero tiene expensas pesadas, mala luz, ruido constante o un edificio con mantenimiento flojo, el riesgo sube. En Palermo, comprar bien es elegir ubicación y estado con la misma atención.
+
+## Comprar para vivir o invertir: qué perfil de departamento conviene en Palermo
+
+Si buscás **primera vivienda**, en Palermo suele convenirte priorizar un departamento funcional, con buena luz, distribución simple y acceso cómodo a transporte, comercios y servicios. En general, eso te lleva a unidades de **2 ambientes bien resueltas** o 3 ambientes chicos, donde la prioridad no es “meter metros” sino bajar fricción diaria. Dentro del barrio, las zonas más prácticas para vivir suelen ser las que te dejan cerca de todo sin depender tanto del auto; si además pensás en reventa, esa demanda suele ser más amplia que la de tipologías muy particulares.
+
+Si tu objetivo es **invertir para alquiler tradicional**, el perfil más buscado suele ser el de unidades fáciles de mantener, con baja vacancia operativa y público amplio. Ahí, Palermo funciona bien cuando apuntás a departamentos con planta eficiente y ubicación clara dentro de circuitos de demanda consolidada. En cambio, si elegís una unidad demasiado grande o con una distribución poco flexible, te achicás el universo de interesados y te complicás la administración.
+
+Para **alquiler temporario**, la lógica cambia: te conviene una tipología compacta, atractiva y ubicada donde el visitante realmente quiera moverse. Palermo tiene ese valor por marca de barrio, pero el resultado depende mucho de la microzona y del producto. La contracara es que el temporario exige más gestión, más desgaste y más exposición a cambios en regulación y operación.
+
+| Objetivo | Qué conviene | Ventaja | Desventaja |
+|---|---|---|---|
+| Vivir | 2 ambientes o 3 chicos, bien distribuidos | Comodidad y uso diario | Menos margen si la unidad es muy específica |
+| Alquiler tradicional | Unidades funcionales y fáciles de mantener | Demanda más amplia | Menor diferenciación |
+| Alquiler temporario | Compactos, atractivos y bien ubicados | Mejor encaje con el público visitante | Más gestión y más riesgo operativo |
+
+Además, al comprar en CABA tenés que mirar el costo de entrada: el impuesto de sellos es de **2,7%** y está exento para vivienda única de uso permanente hasta el tope vigente (**AGIP, 2026-06-22**). Y si querés negociar con los números de cierre reales, el m² en CABA se está ubicando en **USD 2.200/m² (mayo 2026, Índice m² Real UCEMA/RE-MAX/Reporte Inmobiliario)**, un dato útil para no decidir sólo por el precio publicado.
+
+## Preguntas frecuentes sobre comprar departamento en Palermo
+
+Sí, si buscás un barrio con alta demanda, variedad de tipologías y buena conexión con otros puntos de la ciudad. Palermo sigue destacándose por su mezcla de vida residencial, oferta gastronómica y accesibilidad. Ahora bien, la conveniencia real depende de tu objetivo: no es lo mismo comprar para vivir que para alquilar o resguardar capital.
+
+**¿Es seguro vivir en Palermo?**  
+En líneas generales, Palermo ofrece una percepción de seguridad mejor que la de otros barrios muy transitados, pero eso cambia mucho según la subzona, la calle y el horario. Si vas a comprar, conviene mirar el entorno inmediato del edificio: iluminación, movimiento nocturno, locales linderos y flujo peatonal.
+
+**¿Qué zonas de Palermo convienen según tu perfil?**
+
+| Perfil | Zonas que suelen encajar mejor |
+|---|---|
+| Familias | Palermo Chico, Palermo Soho más residencial, áreas cercanas a plazas |
+| Jóvenes | Palermo Soho, Palermo Hollywood |
+| Inversión | Sectores con alta demanda de alquiler y buena conectividad |
+
+**¿Las expensas en Palermo suelen ser altas?**  
+Pueden serlo, sobre todo en edificios con amenities, seguridad y mayor antigüedad de mantenimiento. Antes de ofertar, pedí el detalle de expensas y deudas del edificio. Mirá qué incluyen realmente: no siempre un edificio “más completo” termina siendo más conveniente.
+
+**¿Cómo es el transporte en la zona?**  
+Palermo está bien conectado por tren, subte y múltiples líneas de colectivo, además de tener acceso fluido a avenidas clave. Eso lo hace práctico tanto para vivir como para alquilar, especialmente si priorizás movilidad cotidiana.
+
+**¿Qué gastos tenés al comprar?**  
+Además del precio del departamento, considerá el impuesto de sellos en CABA: 2,7% (AGIP, 2026-06-22), con exención para vivienda única de uso permanente hasta el tope vigente. Para cerrar una operación, también te conviene comparar el valor de publicación con el precio de cierre real, que en CABA fue de USD 2.200/m² (mayo 2026, UCEMA / RE-MAX / Reporte Inmobiliario).
 
 ## Fuentes y fecha de actualización
-- [UCEMA/RE-MAX](https://www.ucema.edu.ar)
-- [Re-Max Argentina](https://www.remax.com.ar)
-- [Bercovich Real Estate](https://re.bercovich.com)
 
-[Consultá más sobre Palermo en Bercovich Real Estate](https://re.bercovich.com/palermo) | [Tasá tu propiedad](https://re.bercovich.com/tasa-tu-propiedad)
+Actualizado: 2026-07-14.
+
+- [INDEC — Censo 2022](https://censo.gob.ar)
+- [IDECBA — Valor del suelo / precio m² CABA](https://www.estadisticaciudad.gob.ar)
+- [Índice m² Real (UCEMA/RE-MAX/Reporte Inmob.)](https://ucema.edu.ar/novedad/ultimo-informe-indice-metro-cuadrado-real)
+- [Zonaprop — Índice de precios](https://www.zonaprop.com.ar/noticias)
+- [Mercado Libre Inmuebles + UDESA](https://www.udesa.edu.ar)
+- [https://re.bercovich.com/propiedades](https://re.bercovich.com/propiedades)
+- [https://re.bercovich.com/articulos](https://re.bercovich.com/articulos)
