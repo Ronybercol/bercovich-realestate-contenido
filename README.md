@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [vercovich-guia-2026](contenido/vercovich-guia-2026.md) → https://re.bercovich.com/articulos/vercovich-guia-2026
 - [comprar-departamento-en-nunez-guia-2026](contenido/comprar-departamento-en-nunez-guia-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-nunez-guia-2026
 - [comprar-departamento-en-palermo-guia-para-vivir-y-invertir](contenido/comprar-departamento-en-palermo-guia-para-vivir-y-invertir.md) → https://re.bercovich.com/articulos/comprar-departamento-en-palermo-guia-para-vivir-y-invertir
 - [comprar-departamento-en-belgrano-guia-para-2026](contenido/comprar-departamento-en-belgrano-guia-para-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-belgrano-guia-para-2026
