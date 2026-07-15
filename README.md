@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [comparar-creditos-hipotecarios-que-mirar-ademas-de-la-tasa](contenido/comparar-creditos-hipotecarios-que-mirar-ademas-de-la-tasa.md) → https://re.bercovich.com/articulos/comparar-creditos-hipotecarios-que-mirar-ademas-de-la-tasa
+- [cuanto-sube-la-cuota-de-un-credito-uva-los-numeros-reales-del-ul](contenido/cuanto-sube-la-cuota-de-un-credito-uva-los-numeros-reales-del-ul.md) → https://re.bercovich.com/articulos/cuanto-sube-la-cuota-de-un-credito-uva-los-numeros-reales-del-ul
 - [comprar-departamento-en-belgrano-guia-para-2026](contenido/comprar-departamento-en-belgrano-guia-para-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-belgrano-guia-para-2026
 - [comprar-departamento-en-palermo-guia-2026](contenido/comprar-departamento-en-palermo-guia-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-palermo-guia-2026
 - [comprar-departamento-en-colegiales-guia-2026](contenido/comprar-departamento-en-colegiales-guia-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-colegiales-guia-2026
