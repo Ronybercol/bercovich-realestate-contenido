@@ -18,7 +18,7 @@ Comprar en Palermo es una elección acertada gracias a su ubicación privilegiad
 Palermo es uno de los distritos más codiciados de Buenos Aires. Su ubicación privilegiada, conectividad y demanda sostenida lo hacen atractivo tanto para quienes buscan vivir como para aquellos que buscan oportunidades de inversión.
 
 ### Perfil del barrio y subzonas
-Palermo se divide en varias subzonas, cada una con características únicas. **Barrio Norte** (cercano al Paseo Colón) es conocido por su ambiente cosmopolita y comercio variado; **Palermo Soho** (al norte del barrio) destaca por su bulliciosa vida nocturna y diseño arquitectónico moderno; **Palermo Viedma** (al sur) ofrece una mezcla de residencia y naturaleza, con parques como el Bribri.
+Palermo se divide en varias subzonas, cada una con características únicas. **Barrio Norte** (cercano al Paseo Colón) es conocido por su ambiente cosmopolita y comercio variado; **Palermo Soho** (al norte del barrio) destaca por su bulliciosa vida nocturna y diseño arquitectónico moderno; **Palermo Hollywood** (al sur) ofrece una mezcla de residencia y naturaleza, con parques como el Bribri.
 
 ### Conectividad y transporte
 El acceso a Palermo es excelente. Se puede llegar fácilmente desde el centro de Buenos Aires por la Avenida Belgrano o mediante el subte línea H hasta las estaciones Plaza Francia o Florida. Además, cuenta con numerosas líneas de colectivo.
@@ -27,10 +27,10 @@ El acceso a Palermo es excelente. Se puede llegar fácilmente desde el centro de
 Palermo atrae a un público diverso: estudiantes universitarios, jóvenes profesionales, familias y inversores. La oferta inmobiliaria se adapta a distintos perfiles, desde departamentos de 1 a 4 ambientes hasta viviendas más grandes.
 
 ### Departamentos de 2 a 3 ambientes
-En Palermo los departamentos de **2 a 3 ambientes** predominan. En general, se ubican en torno a $500.000 - $1.200.000 (marzo 2026, UCEMA/RE-MAX). Ofrecen un espacio cómodo para vivir y son adecuados tanto para parejas como para pequeñas familias.
+En Palermo los departamentos de **2 a 3 ambientes** predominan. En general, se ubican en torno a $400.000 - $900.000 (marzo 2026, UCEMA/RE-MAX). Ofrecen un espacio cómodo para vivir y son adecuados tanto para parejas como para pequeñas familias.
 
 ### Departamentos de 4 ambientes o más
-Para aquellos que buscan más espacio, Palermo también ofrece departamentos de **4 a 5 ambientes**. Estos suelen costar $1.800.000 - $3.500.000 (marzo 2026, UCEMA/RE-MAX). Especialmente indicados para familias grandes o para quienes buscan una segunda vivienda.
+Para aquellos que buscan más espacio, Palermo también ofrece departamentos de **4 a 5 ambientes**. Estos suelen costar $800.000 - $2.000.000 (marzo 2026, UCEMA/RE-MAX). Especialmente indicados para familias grandes o para quienes buscan una segunda vivienda.
 
 ## Qué buscar al comprar un departamento en Palermo
 Antes de adquirir un departamento en Palermo, hay varios aspectos a tener en cuenta:
@@ -55,7 +55,7 @@ Palermo ha demostrado un crecimiento constante en precios de compra. Sin embargo
 | --- | --- | --- | --- |
 | Barrio Norte | Cercano al Paseo Colón | $500.000 - $1.200.000 | Ambiente cosmopolita, comercio variado |
 | Palermo Soho | Al norte del barrio | $600.000 - $1.400.000 | Bulliciosa vida nocturna, diseño moderno |
-| Palermo Viedma | Al sur, con parques | $750.000 - $2.000.000 | Mezcla de residencia y naturaleza, parque Bribri |
+| Palermo Hollywood | Al sur, con parques | $750.000 - $2.000.000 | Mezcla de residencia y naturaleza, 
 
 ## FAQ
 ### ¿Conviene comprar en Palermo para vivir o para invertir?
@@ -65,7 +65,7 @@ Palermo es ideal tanto para vivir como para invertir. La demanda sostenida y el 
 Además del precio de compra, considerar **seña** (10-20% sobre el precio), comisión del corredor (2-3% sobre el precio), **sellos** e inscripción. También existen posibles gastos adicionales como mantenimiento y servicios.
 
 ### ¿Cómo es la conexión de transporte en Palermo?
-La conectividad es excelente, con acceso fácil a varias líneas del subte y colectivos. La estación Plaza Francia y Florida son puntos clave para el desplazamiento.
+La conectividad es excelente, con acceso fácil a varias líneas del subte y colectivos. 
 
 ### ¿Qué requisitos legales deben cumplir los compradores al adquirir un departamento en Palermo?
 Verificá que la propiedad tenga escritura pública y no tenga deudas ni inhibiciones (verificá con tu escribano/contador).
