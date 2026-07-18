@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [ley-de-alquileres-2026-que-rige-hoy-tras-el-dnu-70-23-y-como-imp](contenido/ley-de-alquileres-2026-que-rige-hoy-tras-el-dnu-70-23-y-como-imp.md) → https://re.bercovich.com/articulos/ley-de-alquileres-2026-que-rige-hoy-tras-el-dnu-70-23-y-como-imp
+- [cuanto-cuesta-un-terreno-en-pilar-en-2026-precios-por-barrio-cer](contenido/cuanto-cuesta-un-terreno-en-pilar-en-2026-precios-por-barrio-cer.md) → https://re.bercovich.com/articulos/cuanto-cuesta-un-terreno-en-pilar-en-2026-precios-por-barrio-cer
 - [comparar-creditos-hipotecarios-que-mirar-ademas-de-la-tasa](contenido/comparar-creditos-hipotecarios-que-mirar-ademas-de-la-tasa.md) → https://re.bercovich.com/articulos/comparar-creditos-hipotecarios-que-mirar-ademas-de-la-tasa
 - [cuanto-sube-la-cuota-de-un-credito-uva-los-numeros-reales-del-ul](contenido/cuanto-sube-la-cuota-de-un-credito-uva-los-numeros-reales-del-ul.md) → https://re.bercovich.com/articulos/cuanto-sube-la-cuota-de-un-credito-uva-los-numeros-reales-del-ul
 - [comprar-departamento-en-belgrano-guia-para-2026](contenido/comprar-departamento-en-belgrano-guia-para-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-belgrano-guia-para-2026
