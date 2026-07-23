@@ -2,6 +2,11 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [mejores-barrios-para-invertir-en-caba-2026-ranking-y-potencial](contenido/mejores-barrios-para-invertir-en-caba-2026-ranking-y-potencial.md) → https://re.bercovich.com/articulos/mejores-barrios-para-invertir-en-caba-2026-ranking-y-potencial
+- [comprar-departamento-en-barrio-norte-guia-2026-para-vivir-o-inve](contenido/comprar-departamento-en-barrio-norte-guia-2026-para-vivir-o-inve.md) → https://re.bercovich.com/articulos/comprar-departamento-en-barrio-norte-guia-2026-para-vivir-o-inve
+- [invertir-en-terrenos-vs-departamentos-en-2026-cual-conviene-segu](contenido/invertir-en-terrenos-vs-departamentos-en-2026-cual-conviene-segu.md) → https://re.bercovich.com/articulos/invertir-en-terrenos-vs-departamentos-en-2026-cual-conviene-segu
+- [comision-inmobiliaria-en-buenos-aires-2026-cuanto-se-paga-y-quie](contenido/comision-inmobiliaria-en-buenos-aires-2026-cuanto-se-paga-y-quie.md) → https://re.bercovich.com/articulos/comision-inmobiliaria-en-buenos-aires-2026-cuanto-se-paga-y-quie
+- [comprar-departamento-en-flores-guia-2026-para-vivir-o-invertir](contenido/comprar-departamento-en-flores-guia-2026-para-vivir-o-invertir.md) → https://re.bercovich.com/articulos/comprar-departamento-en-flores-guia-2026-para-vivir-o-invertir
 - [ley-de-alquileres-2026-que-rige-hoy-tras-el-dnu-70-23-y-como-imp](contenido/ley-de-alquileres-2026-que-rige-hoy-tras-el-dnu-70-23-y-como-imp.md) → https://re.bercovich.com/articulos/ley-de-alquileres-2026-que-rige-hoy-tras-el-dnu-70-23-y-como-imp
 - [cuanto-cuesta-un-terreno-en-pilar-en-2026-precios-por-barrio-cer](contenido/cuanto-cuesta-un-terreno-en-pilar-en-2026-precios-por-barrio-cer.md) → https://re.bercovich.com/articulos/cuanto-cuesta-un-terreno-en-pilar-en-2026-precios-por-barrio-cer
 - [comparar-creditos-hipotecarios-que-mirar-ademas-de-la-tasa](contenido/comparar-creditos-hipotecarios-que-mirar-ademas-de-la-tasa.md) → https://re.bercovich.com/articulos/comparar-creditos-hipotecarios-que-mirar-ademas-de-la-tasa
