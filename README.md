@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [locales-comerciales-en-caba-2026-rentabilidad-y-zonas-para-inver](contenido/locales-comerciales-en-caba-2026-rentabilidad-y-zonas-para-inver.md) → https://re.bercovich.com/articulos/locales-comerciales-en-caba-2026-rentabilidad-y-zonas-para-inver
 - [mejores-barrios-para-invertir-en-caba-2026-ranking-y-potencial](contenido/mejores-barrios-para-invertir-en-caba-2026-ranking-y-potencial.md) → https://re.bercovich.com/articulos/mejores-barrios-para-invertir-en-caba-2026-ranking-y-potencial
 - [comprar-departamento-en-barrio-norte-guia-2026-para-vivir-o-inve](contenido/comprar-departamento-en-barrio-norte-guia-2026-para-vivir-o-inve.md) → https://re.bercovich.com/articulos/comprar-departamento-en-barrio-norte-guia-2026-para-vivir-o-inve
 - [invertir-en-terrenos-vs-departamentos-en-2026-cual-conviene-segu](contenido/invertir-en-terrenos-vs-departamentos-en-2026-cual-conviene-segu.md) → https://re.bercovich.com/articulos/invertir-en-terrenos-vs-departamentos-en-2026-cual-conviene-segu
