@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [como-se-actualiza-tu-alquiler-en-2026-indice-icl-e-ipc-y-como-ca](contenido/como-se-actualiza-tu-alquiler-en-2026-indice-icl-e-ipc-y-como-ca.md) → https://re.bercovich.com/articulos/como-se-actualiza-tu-alquiler-en-2026-indice-icl-e-ipc-y-como-ca
 - [locales-comerciales-en-caba-2026-rentabilidad-y-zonas-para-inver](contenido/locales-comerciales-en-caba-2026-rentabilidad-y-zonas-para-inver.md) → https://re.bercovich.com/articulos/locales-comerciales-en-caba-2026-rentabilidad-y-zonas-para-inver
 - [mejores-barrios-para-invertir-en-caba-2026-ranking-y-potencial](contenido/mejores-barrios-para-invertir-en-caba-2026-ranking-y-potencial.md) → https://re.bercovich.com/articulos/mejores-barrios-para-invertir-en-caba-2026-ranking-y-potencial
 - [comprar-departamento-en-barrio-norte-guia-2026-para-vivir-o-inve](contenido/comprar-departamento-en-barrio-norte-guia-2026-para-vivir-o-inve.md) → https://re.bercovich.com/articulos/comprar-departamento-en-barrio-norte-guia-2026-para-vivir-o-inve
