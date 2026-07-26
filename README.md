@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [cuanto-cuesta-un-departamento-en-pozo-en-caba-en-2026-precios-po](contenido/cuanto-cuesta-un-departamento-en-pozo-en-caba-en-2026-precios-po.md) → https://re.bercovich.com/articulos/cuanto-cuesta-un-departamento-en-pozo-en-caba-en-2026-precios-po
+- [locales-en-alquiler-caba-2026-cuanto-cuesta-el-m-por-zona-y-que](contenido/locales-en-alquiler-caba-2026-cuanto-cuesta-el-m-por-zona-y-que.md) → https://re.bercovich.com/articulos/locales-en-alquiler-caba-2026-cuanto-cuesta-el-m-por-zona-y-que
 - [cuanto-cuesta-remodelar-un-departamento-en-buenos-aires-en-2026](contenido/cuanto-cuesta-remodelar-un-departamento-en-buenos-aires-en-2026.md) → https://re.bercovich.com/articulos/cuanto-cuesta-remodelar-un-departamento-en-buenos-aires-en-2026
 - [como-comprar-departamentos-en-pozo-en-caba-en-2026-paso-a-paso-z](contenido/como-comprar-departamentos-en-pozo-en-caba-en-2026-paso-a-paso-z.md) → https://re.bercovich.com/articulos/como-comprar-departamentos-en-pozo-en-caba-en-2026-paso-a-paso-z
 - [como-se-actualiza-tu-alquiler-en-2026-indice-icl-e-ipc-y-como-ca](contenido/como-se-actualiza-tu-alquiler-en-2026-indice-icl-e-ipc-y-como-ca.md) → https://re.bercovich.com/articulos/como-se-actualiza-tu-alquiler-en-2026-indice-icl-e-ipc-y-como-ca
