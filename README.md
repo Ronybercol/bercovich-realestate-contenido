@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [cuanto-cuesta-remodelar-un-departamento-en-buenos-aires-en-2026](contenido/cuanto-cuesta-remodelar-un-departamento-en-buenos-aires-en-2026.md) → https://re.bercovich.com/articulos/cuanto-cuesta-remodelar-un-departamento-en-buenos-aires-en-2026
+- [como-comprar-departamentos-en-pozo-en-caba-en-2026-paso-a-paso-z](contenido/como-comprar-departamentos-en-pozo-en-caba-en-2026-paso-a-paso-z.md) → https://re.bercovich.com/articulos/como-comprar-departamentos-en-pozo-en-caba-en-2026-paso-a-paso-z
 - [como-se-actualiza-tu-alquiler-en-2026-indice-icl-e-ipc-y-como-ca](contenido/como-se-actualiza-tu-alquiler-en-2026-indice-icl-e-ipc-y-como-ca.md) → https://re.bercovich.com/articulos/como-se-actualiza-tu-alquiler-en-2026-indice-icl-e-ipc-y-como-ca
 - [locales-comerciales-en-caba-2026-rentabilidad-y-zonas-para-inver](contenido/locales-comerciales-en-caba-2026-rentabilidad-y-zonas-para-inver.md) → https://re.bercovich.com/articulos/locales-comerciales-en-caba-2026-rentabilidad-y-zonas-para-inver
 - [mejores-barrios-para-invertir-en-caba-2026-ranking-y-potencial](contenido/mejores-barrios-para-invertir-en-caba-2026-ranking-y-potencial.md) → https://re.bercovich.com/articulos/mejores-barrios-para-invertir-en-caba-2026-ranking-y-potencial
