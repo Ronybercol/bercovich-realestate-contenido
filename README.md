@@ -2,6 +2,12 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [locales-en-alquiler-en-caba-2026-que-necesitas-para-alquilar](contenido/locales-en-alquiler-en-caba-2026-que-necesitas-para-alquilar.md) → https://re.bercovich.com/articulos/locales-en-alquiler-en-caba-2026-que-necesitas-para-alquilar
+- [casas-de-lujo-en-venta-en-san-isidro-2026-las-lomas-la-horqueta](contenido/casas-de-lujo-en-venta-en-san-isidro-2026-las-lomas-la-horqueta.md) → https://re.bercovich.com/articulos/casas-de-lujo-en-venta-en-san-isidro-2026-las-lomas-la-horqueta
+- [departamento-en-pozo-vs-usado-terminado-en-caba-en-2026-8-difere](contenido/departamento-en-pozo-vs-usado-terminado-en-caba-en-2026-8-difere.md) → https://re.bercovich.com/articulos/departamento-en-pozo-vs-usado-terminado-en-caba-en-2026-8-difere
+- [locales-en-alquiler-caba-como-elegir-un-local-comercial-en-2026](contenido/locales-en-alquiler-caba-como-elegir-un-local-comercial-en-2026.md) → https://re.bercovich.com/articulos/locales-en-alquiler-caba-como-elegir-un-local-comercial-en-2026
+- [cuanto-cuesta-remodelar-un-departamento-en-buenos-aires-para-rev](contenido/cuanto-cuesta-remodelar-un-departamento-en-buenos-aires-para-rev.md) → https://re.bercovich.com/articulos/cuanto-cuesta-remodelar-un-departamento-en-buenos-aires-para-rev
+- [casas-en-venta-en-san-isidro-2026-que-zona-conviene-segun-precio](contenido/casas-en-venta-en-san-isidro-2026-que-zona-conviene-segun-precio.md) → https://re.bercovich.com/articulos/casas-en-venta-en-san-isidro-2026-que-zona-conviene-segun-precio
 - [cuanto-cuesta-un-departamento-en-pozo-en-caba-en-2026-precios-po](contenido/cuanto-cuesta-un-departamento-en-pozo-en-caba-en-2026-precios-po.md) → https://re.bercovich.com/articulos/cuanto-cuesta-un-departamento-en-pozo-en-caba-en-2026-precios-po
 - [locales-en-alquiler-caba-2026-cuanto-cuesta-el-m-por-zona-y-que](contenido/locales-en-alquiler-caba-2026-cuanto-cuesta-el-m-por-zona-y-que.md) → https://re.bercovich.com/articulos/locales-en-alquiler-caba-2026-cuanto-cuesta-el-m-por-zona-y-que
 - [cuanto-cuesta-remodelar-un-departamento-en-buenos-aires-en-2026](contenido/cuanto-cuesta-remodelar-un-departamento-en-buenos-aires-en-2026.md) → https://re.bercovich.com/articulos/cuanto-cuesta-remodelar-un-departamento-en-buenos-aires-en-2026
@@ -38,4 +44,3 @@ Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.ber
 - [gastos-de-escrituracion-en-caba-2026-quien-paga-que-y-cuanto-baj](contenido/gastos-de-escrituracion-en-caba-2026-quien-paga-que-y-cuanto-baj.md) → https://re.bercovich.com/articulos/gastos-de-escrituracion-en-caba-2026-quien-paga-que-y-cuanto-baj
 - [como-comprar-tu-primera-propiedad-en-caba-guia-paso-a-paso-2026](contenido/como-comprar-tu-primera-propiedad-en-caba-guia-paso-a-paso-2026.md) → https://re.bercovich.com/articulos/como-comprar-tu-primera-propiedad-en-caba-guia-paso-a-paso-2026
 - [glosario-inmobiliario-argentino-30-terminos-clave-para-comprar-y](contenido/glosario-inmobiliario-argentino-30-terminos-clave-para-comprar-y.md) → https://re.bercovich.com/articulos/glosario-inmobiliario-argentino-30-terminos-clave-para-comprar-y
-- [guia-de-precios-y-oportunidades-inmobiliarias-en-palermo-2026](contenido/guia-de-precios-y-oportunidades-inmobiliarias-en-palermo-2026.md) → https://re.bercovich.com/articulos/guia-de-precios-y-oportunidades-inmobiliarias-en-palermo-2026
