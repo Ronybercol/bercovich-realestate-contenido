@@ -2,6 +2,13 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [departamentos-en-pozo-en-caba-2026-como-funciona-el-ajuste-por-i](contenido/departamentos-en-pozo-en-caba-2026-como-funciona-el-ajuste-por-i.md) → https://re.bercovich.com/articulos/departamentos-en-pozo-en-caba-2026-como-funciona-el-ajuste-por-i
+- [locales-en-alquiler-en-caba-2026-como-aprovechar-la-vacancia-rec](contenido/locales-en-alquiler-en-caba-2026-como-aprovechar-la-vacancia-rec.md) → https://re.bercovich.com/articulos/locales-en-alquiler-en-caba-2026-como-aprovechar-la-vacancia-rec
+- [como-pagar-un-departamento-en-pozo-en-caba-en-2026-guia-completa](contenido/como-pagar-un-departamento-en-pozo-en-caba-en-2026-guia-completa.md) → https://re.bercovich.com/articulos/como-pagar-un-departamento-en-pozo-en-caba-en-2026-guia-completa
+- [cuanto-hay-que-ganar-para-un-credito-hipotecario-en-2026-sueldo](contenido/cuanto-hay-que-ganar-para-un-credito-hipotecario-en-2026-sueldo.md) → https://re.bercovich.com/articulos/cuanto-hay-que-ganar-para-un-credito-hipotecario-en-2026-sueldo
+- [precio-del-m-en-caba-por-barrio-2026-ranking-y-tendencias-del-me](contenido/precio-del-m-en-caba-por-barrio-2026-ranking-y-tendencias-del-me.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-por-barrio-2026-ranking-y-tendencias-del-me
+- [cuanto-hay-que-ganar-para-un-credito-hipotecario-en-2026-calculo](contenido/cuanto-hay-que-ganar-para-un-credito-hipotecario-en-2026-calculo.md) → https://re.bercovich.com/articulos/cuanto-hay-que-ganar-para-un-credito-hipotecario-en-2026-calculo
+- [alquileres-2026-que-cambia-al-renovar-contratos-de-la-ley-27-551](contenido/alquileres-2026-que-cambia-al-renovar-contratos-de-la-ley-27-551.md) → https://re.bercovich.com/articulos/alquileres-2026-que-cambia-al-renovar-contratos-de-la-ley-27-551
 - [precio-del-m-en-caba-por-barrio-2026-balance-y-evolucion-anual](contenido/precio-del-m-en-caba-por-barrio-2026-balance-y-evolucion-anual.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-por-barrio-2026-balance-y-evolucion-anual
 - [ley-de-alquileres-2026-que-rige-hoy-tras-el-dnu-70-23](contenido/ley-de-alquileres-2026-que-rige-hoy-tras-el-dnu-70-23.md) → https://re.bercovich.com/articulos/ley-de-alquileres-2026-que-rige-hoy-tras-el-dnu-70-23
 - [murio-la-ley-de-alquileres-que-rige-en-2026-tras-el-dnu-70-23](contenido/murio-la-ley-de-alquileres-que-rige-en-2026-tras-el-dnu-70-23.md) → https://re.bercovich.com/articulos/murio-la-ley-de-alquileres-que-rige-en-2026-tras-el-dnu-70-23
@@ -32,13 +39,3 @@ Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.ber
 - [cuanto-sube-la-cuota-de-un-credito-uva-los-numeros-reales-del-ul](contenido/cuanto-sube-la-cuota-de-un-credito-uva-los-numeros-reales-del-ul.md) → https://re.bercovich.com/articulos/cuanto-sube-la-cuota-de-un-credito-uva-los-numeros-reales-del-ul
 - [comprar-departamento-en-belgrano-guia-para-2026](contenido/comprar-departamento-en-belgrano-guia-para-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-belgrano-guia-para-2026
 - [comprar-departamento-en-palermo-guia-2026](contenido/comprar-departamento-en-palermo-guia-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-palermo-guia-2026
-- [comprar-departamento-en-tribunales-guia-2026](contenido/comprar-departamento-en-tribunales-guia-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-tribunales-guia-2026
-- [comprar-departamento-en-palermo-guia-para-vivir-y-invertir](contenido/comprar-departamento-en-palermo-guia-para-vivir-y-invertir.md) → https://re.bercovich.com/articulos/comprar-departamento-en-palermo-guia-para-vivir-y-invertir
-- [comprar-departamento-en-belgrano-guia-para-vivir-o-invertir](contenido/comprar-departamento-en-belgrano-guia-para-vivir-o-invertir.md) → https://re.bercovich.com/articulos/comprar-departamento-en-belgrano-guia-para-vivir-o-invertir
-- [comprar-departamento-en-colegiales-guia-2026](contenido/comprar-departamento-en-colegiales-guia-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-colegiales-guia-2026
-- [comprar-departamento-en-capital-federal-guia-2026](contenido/comprar-departamento-en-capital-federal-guia-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-capital-federal-guia-2026
-- [comprar-departamento-en-nunez-guia-para-vivir-o-invertir](contenido/comprar-departamento-en-nunez-guia-para-vivir-o-invertir.md) → https://re.bercovich.com/articulos/comprar-departamento-en-nunez-guia-para-vivir-o-invertir
-- [que-documentacion-necesitas-para-vender-tu-propiedad-en-caba](contenido/que-documentacion-necesitas-para-vender-tu-propiedad-en-caba.md) → https://re.bercovich.com/articulos/que-documentacion-necesitas-para-vender-tu-propiedad-en-caba
-- [como-preparar-tu-departamento-para-venderlo-mas-rapido-home-stag](contenido/como-preparar-tu-departamento-para-venderlo-mas-rapido-home-stag.md) → https://re.bercovich.com/articulos/como-preparar-tu-departamento-para-venderlo-mas-rapido-home-stag
-- [como-tasar-tu-propiedad-los-factores-que-determinan-el-precio-en](contenido/como-tasar-tu-propiedad-los-factores-que-determinan-el-precio-en.md) → https://re.bercovich.com/articulos/como-tasar-tu-propiedad-los-factores-que-determinan-el-precio-en
-- [es-buen-momento-para-vender-tu-propiedad-en-caba-lo-que-muestra](contenido/es-buen-momento-para-vender-tu-propiedad-en-caba-lo-que-muestra.md) → https://re.bercovich.com/articulos/es-buen-momento-para-vender-tu-propiedad-en-caba-lo-que-muestra
