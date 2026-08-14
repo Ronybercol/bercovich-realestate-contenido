@@ -2,6 +2,9 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [departamentos-en-pozo-en-caba-2026-en-que-barrios-se-concentran](contenido/departamentos-en-pozo-en-caba-2026-en-que-barrios-se-concentran.md) → https://re.bercovich.com/articulos/departamentos-en-pozo-en-caba-2026-en-que-barrios-se-concentran
+- [locales-en-alquiler-en-caba-2026-donde-conviene-buscar-y-negocia](contenido/locales-en-alquiler-en-caba-2026-donde-conviene-buscar-y-negocia.md) → https://re.bercovich.com/articulos/locales-en-alquiler-en-caba-2026-donde-conviene-buscar-y-negocia
+- [casa-en-san-isidro-o-departamento-en-caba-que-compras-con-el-mis](contenido/casa-en-san-isidro-o-departamento-en-caba-que-compras-con-el-mis.md) → https://re.bercovich.com/articulos/casa-en-san-isidro-o-departamento-en-caba-que-compras-con-el-mis
 - [locales-en-alquiler-en-caba-2026-donde-bajo-el-precio-por-la-vac](contenido/locales-en-alquiler-en-caba-2026-donde-bajo-el-precio-por-la-vac.md) → https://re.bercovich.com/articulos/locales-en-alquiler-en-caba-2026-donde-bajo-el-precio-por-la-vac
 - [departamentos-en-pozo-en-caba-2026-como-funciona-el-ajuste-por-i](contenido/departamentos-en-pozo-en-caba-2026-como-funciona-el-ajuste-por-i.md) → https://re.bercovich.com/articulos/departamentos-en-pozo-en-caba-2026-como-funciona-el-ajuste-por-i
 - [locales-en-alquiler-en-caba-2026-como-aprovechar-la-vacancia-rec](contenido/locales-en-alquiler-en-caba-2026-como-aprovechar-la-vacancia-rec.md) → https://re.bercovich.com/articulos/locales-en-alquiler-en-caba-2026-como-aprovechar-la-vacancia-rec
