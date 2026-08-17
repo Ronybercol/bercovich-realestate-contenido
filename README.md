@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [departamentos-de-lujo-en-puerto-madero-que-define-el-segmento-pr](contenido/departamentos-de-lujo-en-puerto-madero-que-define-el-segmento-pr.md) → https://re.bercovich.com/articulos/departamentos-de-lujo-en-puerto-madero-que-define-el-segmento-pr
+- [precio-del-m-en-caba-en-julio-2026-barrios-mas-caros-y-los-que-m](contenido/precio-del-m-en-caba-en-julio-2026-barrios-mas-caros-y-los-que-m.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-barrios-mas-caros-y-los-que-m
 - [departamentos-en-pozo-en-caba-2026-en-que-barrios-se-concentran](contenido/departamentos-en-pozo-en-caba-2026-en-que-barrios-se-concentran.md) → https://re.bercovich.com/articulos/departamentos-en-pozo-en-caba-2026-en-que-barrios-se-concentran
 - [locales-en-alquiler-en-caba-2026-donde-conviene-buscar-y-negocia](contenido/locales-en-alquiler-en-caba-2026-donde-conviene-buscar-y-negocia.md) → https://re.bercovich.com/articulos/locales-en-alquiler-en-caba-2026-donde-conviene-buscar-y-negocia
 - [casa-en-san-isidro-o-departamento-en-caba-que-compras-con-el-mis](contenido/casa-en-san-isidro-o-departamento-en-caba-que-compras-con-el-mis.md) → https://re.bercovich.com/articulos/casa-en-san-isidro-o-departamento-en-caba-que-compras-con-el-mis
