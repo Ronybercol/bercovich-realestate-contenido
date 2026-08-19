@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [ph-o-departamento-en-caba-diferencias-legales-de-expensas-y-de-r](contenido/ph-o-departamento-en-caba-diferencias-legales-de-expensas-y-de-r.md) → https://re.bercovich.com/articulos/ph-o-departamento-en-caba-diferencias-legales-de-expensas-y-de-r
+- [precio-del-m-en-caba-en-julio-2026-por-que-el-mercado-esta-later](contenido/precio-del-m-en-caba-en-julio-2026-por-que-el-mercado-esta-later.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-por-que-el-mercado-esta-later
 - [precio-del-m-en-caba-en-julio-2026-que-dice-el-indice-de-zonapro](contenido/precio-del-m-en-caba-en-julio-2026-que-dice-el-indice-de-zonapro.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-que-dice-el-indice-de-zonapro
 - [departamentos-de-lujo-en-puerto-madero-que-define-el-segmento-pr](contenido/departamentos-de-lujo-en-puerto-madero-que-define-el-segmento-pr.md) → https://re.bercovich.com/articulos/departamentos-de-lujo-en-puerto-madero-que-define-el-segmento-pr
 - [precio-del-m-en-caba-en-julio-2026-barrios-mas-caros-y-los-que-m](contenido/precio-del-m-en-caba-en-julio-2026-barrios-mas-caros-y-los-que-m.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-barrios-mas-caros-y-los-que-m
