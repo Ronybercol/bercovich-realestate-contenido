@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [cuanto-aumenta-el-valor-de-un-departamento-reciclado-en-caba-la](contenido/cuanto-aumenta-el-valor-de-un-departamento-reciclado-en-caba-la.md) → https://re.bercovich.com/articulos/cuanto-aumenta-el-valor-de-un-departamento-reciclado-en-caba-la
+- [precio-del-m-en-caba-en-julio-2026-cuanto-vale-tu-departamento-s](contenido/precio-del-m-en-caba-en-julio-2026-cuanto-vale-tu-departamento-s.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuanto-vale-tu-departamento-s
 - [ph-o-departamento-en-caba-diferencias-legales-de-expensas-y-de-r](contenido/ph-o-departamento-en-caba-diferencias-legales-de-expensas-y-de-r.md) → https://re.bercovich.com/articulos/ph-o-departamento-en-caba-diferencias-legales-de-expensas-y-de-r
 - [precio-del-m-en-caba-en-julio-2026-por-que-el-mercado-esta-later](contenido/precio-del-m-en-caba-en-julio-2026-por-que-el-mercado-esta-later.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-por-que-el-mercado-esta-later
 - [precio-del-m-en-caba-en-julio-2026-que-dice-el-indice-de-zonapro](contenido/precio-del-m-en-caba-en-julio-2026-que-dice-el-indice-de-zonapro.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-que-dice-el-indice-de-zonapro
