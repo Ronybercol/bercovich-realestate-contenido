@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [precio-del-m-en-caba-en-julio-2026-cuanto-renta-hoy-un-departame](contenido/precio-del-m-en-caba-en-julio-2026-cuanto-renta-hoy-un-departame.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuanto-renta-hoy-un-departame
+- [precio-del-m-en-caba-en-julio-2026-casi-no-se-movio-en-un-ano-y](contenido/precio-del-m-en-caba-en-julio-2026-casi-no-se-movio-en-un-ano-y.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-casi-no-se-movio-en-un-ano-y
 - [cuanto-aumenta-el-valor-de-un-departamento-reciclado-en-caba-la](contenido/cuanto-aumenta-el-valor-de-un-departamento-reciclado-en-caba-la.md) → https://re.bercovich.com/articulos/cuanto-aumenta-el-valor-de-un-departamento-reciclado-en-caba-la
 - [precio-del-m-en-caba-en-julio-2026-cuanto-vale-tu-departamento-s](contenido/precio-del-m-en-caba-en-julio-2026-cuanto-vale-tu-departamento-s.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuanto-vale-tu-departamento-s
 - [ph-o-departamento-en-caba-diferencias-legales-de-expensas-y-de-r](contenido/ph-o-departamento-en-caba-diferencias-legales-de-expensas-y-de-r.md) → https://re.bercovich.com/articulos/ph-o-departamento-en-caba-diferencias-legales-de-expensas-y-de-r
