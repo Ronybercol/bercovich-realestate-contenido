@@ -2,6 +2,12 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [precio-del-m-en-caba-en-julio-2026-por-que-solo-la-mitad-de-los](contenido/precio-del-m-en-caba-en-julio-2026-por-que-solo-la-mitad-de-los.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-por-que-solo-la-mitad-de-los
+- [precio-del-m-en-caba-en-julio-2026-cuantos-metros-compra-hoy-tu](contenido/precio-del-m-en-caba-en-julio-2026-cuantos-metros-compra-hoy-tu.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuantos-metros-compra-hoy-tu
+- [precio-del-m-en-caba-en-julio-2026-que-muestra-el-indice-de-zona](contenido/precio-del-m-en-caba-en-julio-2026-que-muestra-el-indice-de-zona.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-que-muestra-el-indice-de-zona
+- [precio-del-m-en-caba-en-julio-2026-cuanto-capital-necesitas-para](contenido/precio-del-m-en-caba-en-julio-2026-cuanto-capital-necesitas-para.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuanto-capital-necesitas-para
+- [rentabilidad-de-un-local-comercial-en-caba-en-2026-cuanto-rinde](contenido/rentabilidad-de-un-local-comercial-en-caba-en-2026-cuanto-rinde.md) → https://re.bercovich.com/articulos/rentabilidad-de-un-local-comercial-en-caba-en-2026-cuanto-rinde
+- [precio-del-m-en-caba-en-julio-2026-cuanto-se-negocia-hoy-entre-p](contenido/precio-del-m-en-caba-en-julio-2026-cuanto-se-negocia-hoy-entre-p.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuanto-se-negocia-hoy-entre-p
 - [precio-del-m-en-caba-en-julio-2026-cuanto-renta-hoy-un-departame](contenido/precio-del-m-en-caba-en-julio-2026-cuanto-renta-hoy-un-departame.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuanto-renta-hoy-un-departame
 - [precio-del-m-en-caba-en-julio-2026-casi-no-se-movio-en-un-ano-y](contenido/precio-del-m-en-caba-en-julio-2026-casi-no-se-movio-en-un-ano-y.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-casi-no-se-movio-en-un-ano-y
 - [cuanto-aumenta-el-valor-de-un-departamento-reciclado-en-caba-la](contenido/cuanto-aumenta-el-valor-de-un-departamento-reciclado-en-caba-la.md) → https://re.bercovich.com/articulos/cuanto-aumenta-el-valor-de-un-departamento-reciclado-en-caba-la
