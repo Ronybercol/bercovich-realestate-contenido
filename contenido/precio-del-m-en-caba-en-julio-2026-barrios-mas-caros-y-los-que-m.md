@@ -1,5 +1,5 @@
 ---
-title: "Precio del m² en CABA en julio 2026: barrios más caros y cuánto cuesta hoy, según Zonaprop"
+title: "Precio del m² en CABA en julio 2026: barrios más caros y cuánto cuesta hoy"
 canonical: "https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-barrios-mas-caros-y-los-que-m"
 category: "mercado"
 date: "2026-08-14"
@@ -8,9 +8,9 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/precio-del
 ---
 
 > Publicado originalmente en [https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-barrios-mas-caros-y-los-que-m](https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-barrios-mas-caros-y-los-que-m)
-# Precio del m² en CABA en julio 2026: barrios más caros y cuánto cuesta hoy, según Zonaprop
+# Precio del m² en CABA en julio 2026: barrios más caros y cuánto cuesta hoy
 
-En julio de 2026, el precio publicado del metro cuadrado en CABA fue de USD 2.471/m², según Zonaprop. El valor subió 0,1% en el mes y 1,3% interanual, aunque sigue 11,7% por debajo del máximo histórico. También hay referencias de monoambiente, dos y tres ambientes, y de rentabilidad bruta.
+El metro cuadrado en CABA se ubicó en USD 2.471, con una suba de 0,1% mensual y 1,3% interanual, todavía 11,7% por debajo del máximo histórico. El artículo detalla qué barrios encabezan los precios y los valores de referencia para monoambiente, dos y tres ambientes, más la rentabilidad bruta anual.
 
 ## Precio del m² en CABA en julio 2026: cuánto cuesta hoy y cómo viene la variación
 

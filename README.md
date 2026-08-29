@@ -2,6 +2,9 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [comprar-un-departamento-en-palermo-hollywood-2026-que-se-consigu](contenido/comprar-un-departamento-en-palermo-hollywood-2026-que-se-consigu.md) → https://re.bercovich.com/articulos/comprar-un-departamento-en-palermo-hollywood-2026-que-se-consigu
+- [emprendimientos-en-pozo-en-belgrano-2026-cuanto-cuesta-comprar-p](contenido/emprendimientos-en-pozo-en-belgrano-2026-cuanto-cuesta-comprar-p.md) → https://re.bercovich.com/articulos/emprendimientos-en-pozo-en-belgrano-2026-cuanto-cuesta-comprar-p
+- [precio-del-m-en-caba-en-julio-2026-por-que-el-valor-sigue-casi-p](contenido/precio-del-m-en-caba-en-julio-2026-por-que-el-valor-sigue-casi-p.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-por-que-el-valor-sigue-casi-p
 - [precio-del-m-en-caba-en-julio-2026-por-que-solo-la-mitad-de-los](contenido/precio-del-m-en-caba-en-julio-2026-por-que-solo-la-mitad-de-los.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-por-que-solo-la-mitad-de-los
 - [precio-del-m-en-caba-en-julio-2026-cuantos-metros-compra-hoy-tu](contenido/precio-del-m-en-caba-en-julio-2026-cuantos-metros-compra-hoy-tu.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuantos-metros-compra-hoy-tu
 - [precio-del-m-en-caba-en-julio-2026-que-muestra-el-indice-de-zona](contenido/precio-del-m-en-caba-en-julio-2026-que-muestra-el-indice-de-zona.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-que-muestra-el-indice-de-zona

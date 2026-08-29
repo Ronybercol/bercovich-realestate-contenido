@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/precio-del
 > Publicado originalmente en [https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuanto-vale-tu-departamento-s](https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuanto-vale-tu-departamento-s)
 # Precio del m² en CABA en julio 2026: cuánto vale tu departamento según la tipología
 
-En julio 2026, el precio publicado del metro cuadrado en CABA se ubicó en USD 2.471/m², según Zonaprop. Con ese valor de referencia, un monoambiente promedió USD 108.000, un dos ambientes USD 131.000 y un tres ambientes USD 179.000. La rentabilidad bruta anual fue de 5,76%.
+En 2026, el valor del departamento en CABA depende de la tipología: un monoambiente ronda los USD 108.000, un dos ambientes los USD 131.000 y un tres ambientes los USD 179.000, con una rentabilidad bruta cercana al 5,8%. Son valores de referencia para negociar; la operación siempre se cierra con inmobiliaria y escribano.
 
 ## Precio del m2 en CABA julio 2026: cuánto vale tu departamento según Zonaprop
 

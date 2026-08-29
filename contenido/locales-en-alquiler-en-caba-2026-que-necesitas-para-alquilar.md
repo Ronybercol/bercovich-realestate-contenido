@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/locales-en
 > Publicado originalmente en [https://re.bercovich.com/articulos/locales-en-alquiler-en-caba-2026-que-necesitas-para-alquilar](https://re.bercovich.com/articulos/locales-en-alquiler-en-caba-2026-que-necesitas-para-alquilar)
 # Locales en alquiler en CABA 2026: qué necesitás para alquilar
 
-Alquilar un local en CABA en 2026 suele exigir garantía, documentación comercial y, a veces, pago de llave o un gasto inicial. Además del alquiler, conviene sumar expensas, ABL, depósito, impuestos y ajustes del contrato para conocer el costo real antes de firmar.
+Para alquilar un local en CABA en 2026 te piden garantía, documentación comercial y, según el caso, gastos de ingreso como la llave. Al alquiler mensual sumale expensas, ABL, depósito, sellos y los ajustes del contrato: ese es el costo real de ocupación que conviene revisar con una inmobiliaria antes de firmar.
 
 ## Locales en alquiler CABA: qué necesitás para alquilar hoy
 

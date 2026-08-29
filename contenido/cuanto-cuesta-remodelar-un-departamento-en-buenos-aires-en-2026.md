@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/cuanto-cue
 > Publicado originalmente en [https://re.bercovich.com/articulos/cuanto-cuesta-remodelar-un-departamento-en-buenos-aires-en-2026](https://re.bercovich.com/articulos/cuanto-cuesta-remodelar-un-departamento-en-buenos-aires-en-2026)
 # Cuánto cuesta remodelar un departamento en Buenos Aires en 2026
 
-Remodelar un departamento en Buenos Aires en 2026 no tiene un costo único: el presupuesto cambia según el metraje, el nivel de obra y los ambientes más caros, como cocina y baño. Para estimarlo bien, conviene calcularlo por m² y por ambiente, porque ahí se define la diferencia entre una actualización básica y una refacción integral.
+Remodelar un departamento en Buenos Aires en 2026 no tiene un precio único: depende del metraje, del nivel de obra y de los ambientes más caros, cocina y baño. Para estimarlo bien conviene calcularlo en dos planos, costo por m² y costo por ambiente, que separan una actualización básica de una refacción integral.
 
 ## Cuánto cuesta remodelar un departamento en Buenos Aires en 2026
 
