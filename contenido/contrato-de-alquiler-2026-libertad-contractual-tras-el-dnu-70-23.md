@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/contrato-d
 > Publicado originalmente en [https://re.bercovich.com/articulos/contrato-de-alquiler-2026-libertad-contractual-tras-el-dnu-70-23](https://re.bercovich.com/articulos/contrato-de-alquiler-2026-libertad-contractual-tras-el-dnu-70-23)
 # Contrato de alquiler 2026: libertad contractual tras el DNU 70/23 y Ley Bases
 
-En 2026, los contratos de alquiler en Argentina se rigen bajo el Código Civil y Comercial, priorizando la libertad absoluta de contratación tras el DNU 70/23 y la Ley Bases. Las partes pueden pactar libremente plazos, moneda de pago, como dólares o pesos, e índices de actualización, haciendo que el acuerdo mutuo tenga fuerza de ley.
+En 2026, los contratos de alquiler se rigen por el Código Civil y Comercial: tras el DNU 70/23 y la Ley Bases no hay plazos mínimos, índices obligatorios ni límites de moneda. Podés pactar plazo, moneda de pago —pesos o dólares— y ajuste con libertad, siempre formalizando la operación con inmobiliaria y escribano.
 
 ## ¿Qué rige para los contratos de alquiler en 2026?
 
