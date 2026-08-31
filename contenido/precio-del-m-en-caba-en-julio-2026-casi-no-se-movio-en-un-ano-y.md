@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/precio-del
 > Publicado originalmente en [https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-casi-no-se-movio-en-un-ano-y](https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-casi-no-se-movio-en-un-ano-y)
 # Precio del m² en CABA en julio 2026: casi no se movió en un año y qué conviene hacer si querés vender
 
-En julio de 2026, el precio publicado del m² en CABA se ubicó en USD 2.471 según Zonaprop, con una variación mensual de +0,1% e interanual de solo +1,3%. Aunque crecieron las escrituras, los precios casi no se movieron, señal de un mercado firme en operaciones pero todavía muy negociado.
+El m² publicado en CABA casi no se movió en el último año: la suba interanual es mínima y en términos reales el mercado está estancado. Subieron las escrituras, pero los precios de publicación siguen muy negociados. Si querés vender, conviene fijar precio con tu inmobiliaria según el valor real de cierre de tu barrio.
 
 ## precio del m2 en caba julio 2026: qué dice el Index CABA de Zonaprop
 

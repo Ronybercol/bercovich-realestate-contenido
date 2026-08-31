@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/cuanto-cue
 > Publicado originalmente en [https://re.bercovich.com/articulos/cuanto-cuesta-un-departamento-en-caba-en-mayo-de-2026](https://re.bercovich.com/articulos/cuanto-cuesta-un-departamento-en-caba-en-mayo-de-2026)
 # Cuánto cuesta un departamento en CABA en mayo de 2026
 
-En mayo de 2026, el precio medio de los departamentos usados en CABA es de USD 2.462/m². Puerto Madero lidera con USD 6.148/m².
+El precio medio del metro cuadrado en CABA ronda los USD 2.400, con los usados algo por debajo. Puerto Madero es el barrio más caro, seguido de Recoleta y Palermo; Villa Crespo y Parque Chacabuco quedan entre los más accesibles. Un dos ambientes de 50 m² cuesta cerca de USD 130.000, según el índice de referencia del mercado.
 
 ## Cuánto cuesta un departamento en CABA en mayo de 2026: precio del m² y barrios más caros
 

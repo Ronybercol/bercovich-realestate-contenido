@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/como-se-ac
 > Publicado originalmente en [https://re.bercovich.com/articulos/como-se-actualiza-tu-alquiler-en-2026-indice-icl-e-ipc-y-como-ca](https://re.bercovich.com/articulos/como-se-actualiza-tu-alquiler-en-2026-indice-icl-e-ipc-y-como-ca)
 # Cómo se actualiza tu alquiler en 2026: índice ICL e IPC y cómo calcular el aumento paso a paso
 
-En 2026, el aumento de tu alquiler depende de lo que diga tu contrato vigente: no hay un índice único obligatorio. Si la cláusula pacta ICL, se calcula con ICL; si pacta IPC, se usa IPC. También puede haber otra forma de actualización válida si fue acordada en el contrato.
+En 2026 no hay un índice único obligatorio: el aumento de tu alquiler sale de lo que diga tu contrato. Si la cláusula pactó ICL, se calcula con ICL; si pactó IPC, con IPC. Revisá primero la cláusula de actualización para ver qué índice corresponde, cada cuánto se ajusta y desde qué fecha corre.
 
 ## Cómo se actualiza tu alquiler en 2026 y qué índice se usa
 
