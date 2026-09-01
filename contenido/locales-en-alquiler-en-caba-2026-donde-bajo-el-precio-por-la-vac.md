@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/locales-en
 > Publicado originalmente en [https://re.bercovich.com/articulos/locales-en-alquiler-en-caba-2026-donde-bajo-el-precio-por-la-vac](https://re.bercovich.com/articulos/locales-en-alquiler-en-caba-2026-donde-bajo-el-precio-por-la-vac)
 # Locales en alquiler en CABA 2026: dónde bajó el precio por la vacancia récord
 
-En 2026, alquilar un local en CABA depende más del corredor y del stock disponible que de una idea general de zona cara o barata. La vacancia récord amplió el margen de negociación en varios ejes comerciales, con más flexibilidad en canon, plazos de gracia y condiciones de ingreso. En los corredores más demandados, el margen sigue siendo menor.
+En 2026 el precio de los locales en CABA no aflojó parejo: donde la vacancia es alta y el local viene sin ocupar hace tiempo, el propietario prioriza cerrar y abre margen para negociar canon, plazos de gracia y condiciones de ingreso. En los ejes de demanda firme, la negociación sigue pero con menos margen. Filtrá primero por corredor y después por stock.
 
 ## Locales en alquiler CABA: dónde aflojó el precio y por qué la vacancia cambió la negociación
 

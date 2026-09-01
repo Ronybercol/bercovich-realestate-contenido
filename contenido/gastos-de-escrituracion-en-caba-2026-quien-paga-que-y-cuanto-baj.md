@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/gastos-de-
 > Publicado originalmente en [https://re.bercovich.com/articulos/gastos-de-escrituracion-en-caba-2026-quien-paga-que-y-cuanto-baj](https://re.bercovich.com/articulos/gastos-de-escrituracion-en-caba-2026-quien-paga-que-y-cuanto-baj)
 # Gastos de escrituración en CABA 2026: quién paga qué y cuánto bajó el impuesto de sellos
 
-En CABA, el impuesto de sellos bajó del 3,5% al 2,7% en 2026 y se eliminó para créditos hipotecarios destinados a vivienda única. Este cambio reduce significativamente el costo total de la compra inmobiliaria.
+En CABA, los gastos de escritura se comparten: el comprador suele pagar los honorarios del escribano (alrededor del 1%) y el impuesto de sellos se divide 50% y 50% entre las partes. En 2026 el sello bajó y quedó eliminado para créditos hipotecarios de vivienda única. Suman también aportes y estudio de títulos.
 
 # Gastos de escrituración en CABA 2026: quién paga qué y cuánto bajó el impuesto de sellos
 

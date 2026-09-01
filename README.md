@@ -2,6 +2,10 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [en-que-barrios-de-caba-se-negocia-mas-el-precio-de-un-departamen](contenido/en-que-barrios-de-caba-se-negocia-mas-el-precio-de-un-departamen.md) → https://re.bercovich.com/articulos/en-que-barrios-de-caba-se-negocia-mas-el-precio-de-un-departamen
+- [departamentos-de-lujo-en-caba-2026-que-mirar-antes-de-comprar-en](contenido/departamentos-de-lujo-en-caba-2026-que-mirar-antes-de-comprar-en.md) → https://re.bercovich.com/articulos/departamentos-de-lujo-en-caba-2026-que-mirar-antes-de-comprar-en
+- [departamentos-en-pozo-financiados-en-belgrano-2026-planes-de-pag](contenido/departamentos-en-pozo-financiados-en-belgrano-2026-planes-de-pag.md) → https://re.bercovich.com/articulos/departamentos-en-pozo-financiados-en-belgrano-2026-planes-de-pag
+- [propiedades-premium-en-recoleta-2026-que-define-hoy-el-lujo-en-a](contenido/propiedades-premium-en-recoleta-2026-que-define-hoy-el-lujo-en-a.md) → https://re.bercovich.com/articulos/propiedades-premium-en-recoleta-2026-que-define-hoy-el-lujo-en-a
 - [comprar-un-departamento-en-palermo-hollywood-2026-que-se-consigu](contenido/comprar-un-departamento-en-palermo-hollywood-2026-que-se-consigu.md) → https://re.bercovich.com/articulos/comprar-un-departamento-en-palermo-hollywood-2026-que-se-consigu
 - [emprendimientos-en-pozo-en-belgrano-2026-cuanto-cuesta-comprar-p](contenido/emprendimientos-en-pozo-en-belgrano-2026-cuanto-cuesta-comprar-p.md) → https://re.bercovich.com/articulos/emprendimientos-en-pozo-en-belgrano-2026-cuanto-cuesta-comprar-p
 - [precio-del-m-en-caba-en-julio-2026-por-que-el-valor-sigue-casi-p](contenido/precio-del-m-en-caba-en-julio-2026-por-que-el-valor-sigue-casi-p.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-por-que-el-valor-sigue-casi-p

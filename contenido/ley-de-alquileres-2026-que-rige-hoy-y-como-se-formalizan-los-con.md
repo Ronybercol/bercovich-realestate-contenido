@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/ley-de-alq
 > Publicado originalmente en [https://re.bercovich.com/articulos/ley-de-alquileres-2026-que-rige-hoy-y-como-se-formalizan-los-con](https://re.bercovich.com/articulos/ley-de-alquileres-2026-que-rige-hoy-y-como-se-formalizan-los-con)
 # Ley de alquileres 2026: qué rige hoy y cómo se formalizan los contratos
 
-En 2026 no existe una nueva ley de alquileres; el mercado se rige por el Código Civil y Comercial con las reformas del DNU 70/23. Actualmente impera la libertad contractual absoluta, permitiendo que propietarios e inquilinos acuerden libremente plazos, moneda y ajustes, siempre bajo el asesoramiento esencial de profesionales matriculados para garantizar seguridad jurídica.
+En 2026 no existe una ley de alquileres nueva: los contratos se rigen por el Código Civil y Comercial con las reformas del DNU 70/23. Impera la libertad contractual: propietario e inquilino acuerdan plazo, moneda y ajuste. Para blindar el acuerdo, la firma se hace con corredor matriculado y escribano.
 
 ## Ley de alquileres 2026: qué rige hoy y cómo se formalizan los contratos
 
