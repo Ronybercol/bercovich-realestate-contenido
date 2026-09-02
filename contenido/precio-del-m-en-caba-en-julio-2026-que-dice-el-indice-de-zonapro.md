@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/precio-del
 > Publicado originalmente en [https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-que-dice-el-indice-de-zonapro](https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-que-dice-el-indice-de-zonapro)
 # Precio del m² en CABA en julio 2026: qué dice el índice de Zonaprop sobre el momento para comprar o vender
 
-En julio de 2026, el precio publicado del m² en CABA según Zonaprop fue de USD 2.471/m². La suba mensual fue de apenas 0,1%, con un incremento interanual de 1,3% y un acumulado anual de 0,9%. El mercado sigue firme, pero con desaceleración, lo que favorece analizar bien si conviene comprar o vender con ayuda profesional.
+En 2026 el precio publicado del m² en CABA se mantiene firme pero con fuerte desaceleración: la suba mensual es de apenas 0,1% y el valor sigue casi 12% debajo del máximo histórico de la serie. El contexto favorece comprar con criterio y, para vender, salir con precio afinado y estrategia profesional de una inmobiliaria.
 
 ## Precio del m² en CABA julio 2026: qué marca el índice de Zonaprop y qué significa para comprar o vender
 

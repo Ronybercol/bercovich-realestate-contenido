@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/como-pagar
 > Publicado originalmente en [https://re.bercovich.com/articulos/como-pagar-un-departamento-en-pozo-en-caba-en-2026-guia-completa](https://re.bercovich.com/articulos/como-pagar-un-departamento-en-pozo-en-caba-en-2026-guia-completa)
 # Cómo pagar un departamento en pozo en CABA en 2026: guía completa de financiación
 
-La compra de departamentos en pozo en CABA en 2026 se formaliza mediante escribano público, utilizando un esquema de pago mixto: un anticipo inicial en dólares y el saldo restante en cuotas pesificadas ajustadas por el índice de la Cámara Argentina de la Construcción (CAC), asegurando así la viabilidad financiera de tu inversión.
+En CABA en 2026 un departamento en pozo se paga en dos tramos: un anticipo inicial en dólares billete al firmar el contrato y el saldo en cuotas mensuales en pesos ajustadas por el índice CAC. La operación se formaliza ante escribano público, con asesoramiento de profesionales matriculados y sumando los costos de escrituración.
 
 ## Departamentos pozo CABA: cómo funciona el esquema de pago actual
 

@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/como-compr
 > Publicado originalmente en [https://re.bercovich.com/articulos/como-comprar-departamentos-en-pozo-en-caba-en-2026-paso-a-paso-z](https://re.bercovich.com/articulos/como-comprar-departamentos-en-pozo-en-caba-en-2026-paso-a-paso-z)
 # Cómo comprar departamentos en pozo en CABA en 2026: paso a paso, zonas y qué chequear antes de firmar
 
-Comprar un departamento en pozo en CABA en 2026 conviene cuando buscás una unidad nueva, podés esperar los tiempos de obra y te cierra la forma de pago. Antes de firmar, revisá la ubicación, la trayectoria del desarrollador, la documentación, el esquema de pago y si el proyecto encaja con tu objetivo de uso o inversión.
+El pozo en CABA conviene si priorizás una unidad nueva, menor desembolso inicial y podés esperar los tiempos de obra. Antes de firmar, revisá con tu inmobiliaria y escribano la ubicación, la trayectoria del desarrollador, la documentación del proyecto y que el esquema de pago te calce mejor que la alternativa del usado.
 
 ## Departamentos pozo CABA: qué conviene saber antes de comprar en 2026
 
