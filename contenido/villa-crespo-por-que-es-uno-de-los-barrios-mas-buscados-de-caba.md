@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/villa-cres
 > Publicado originalmente en [https://re.bercovich.com/articulos/villa-crespo-por-que-es-uno-de-los-barrios-mas-buscados-de-caba](https://re.bercovich.com/articulos/villa-crespo-por-que-es-uno-de-los-barrios-mas-buscados-de-caba)
 # Villa Crespo: por qué es uno de los barrios más buscados de CABA para comprar
 
-Villa Crespo se ha consolidado como uno de los barrios más buscados de CABA por su ubicación privilegiada entre Palermo y el Abasto, su rica oferta gastronómica y sus valores inmobiliarios más accesibles que los vecinos del sur. Atrayendo tanto a compradores como a inversores, este barrio ofrece una combinación única de comodidad y oportunidades.
+Villa Crespo es uno de los barrios más buscados de CABA por su ubicación entre Palermo y el Abasto, su oferta gastronómica y valores más accesibles que los de sus vecinos. Antes de comprar conviene mirar la tipología (departamentos históricos o modernos), el estado del edificio y el potencial de alquiler, siempre con inmobiliaria y escribano.
 
 # Villa Crespo: por qué es uno de los barrios más buscados de CABA para comprar
 

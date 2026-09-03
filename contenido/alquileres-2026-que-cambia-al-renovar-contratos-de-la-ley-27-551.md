@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/alquileres
 > Publicado originalmente en [https://re.bercovich.com/articulos/alquileres-2026-que-cambia-al-renovar-contratos-de-la-ley-27-551](https://re.bercovich.com/articulos/alquileres-2026-que-cambia-al-renovar-contratos-de-la-ley-27-551)
 # Alquileres 2026: qué cambia al renovar contratos de la Ley 27.551 bajo el DNU 70/23
 
-Si tu contrato bajo la Ley 27.551 vence en 2026, la renovación se rige hoy por el Código Civil y Comercial y el DNU 70/23. Esto implica plena libertad de contratación: desaparecen los plazos mínimos obligatorios y los índices de ajuste rígidos, permitiendo que propietarios e inquilinos negocien libremente moneda, plazos y mecanismos de actualización.
+Cuando tu contrato firmado bajo la Ley 27.551 vence en 2026, la renovación ya no se rige por esa ley sino por el Código Civil y Comercial y el DNU 70/23. Desaparecen el plazo mínimo de tres años y los índices obligatorios: propietario e inquilino negocian libremente moneda, plazo y mecanismo de ajuste.
 
 ## La ley de alquileres 2026: qué rige hoy al renovar
 

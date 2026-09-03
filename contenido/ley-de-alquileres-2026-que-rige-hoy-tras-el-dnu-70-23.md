@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/ley-de-alq
 > Publicado originalmente en [https://re.bercovich.com/articulos/ley-de-alquileres-2026-que-rige-hoy-tras-el-dnu-70-23](https://re.bercovich.com/articulos/ley-de-alquileres-2026-que-rige-hoy-tras-el-dnu-70-23)
 # Ley de alquileres 2026: qué rige hoy tras el DNU 70/23
 
-A dos años del DNU 70/23, la vieja Ley de Alquileres fue derogada y el mercado se rige por la libertad contractual del Código Civil y Comercial. Actualmente, no existen índices obligatorios como el ICL o IPC; el precio, plazo y ajuste se definen libremente mediante el acuerdo entre las partes.
+Desde el DNU 70/23, la vieja Ley de Alquileres quedó derogada y rige la libertad contractual del Código Civil y Comercial. Ya no hay índices obligatorios como ICL o IPC: el precio, el plazo, la moneda y la frecuencia de ajuste se acuerdan libremente entre las partes en el contrato, siempre con inmobiliaria de por medio.
 
 ## Ley de alquileres 2026: qué rige hoy
 
