@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/departamen
 > Publicado originalmente en [https://re.bercovich.com/articulos/departamento-en-pozo-vs-usado-terminado-en-caba-en-2026-8-difere](https://re.bercovich.com/articulos/departamento-en-pozo-vs-usado-terminado-en-caba-en-2026-8-difere)
 # Departamento en pozo vs. usado terminado en CABA en 2026: 8 diferencias clave para decidir dónde invertir
 
-En CABA 2026, conviene comprar en pozo si buscás pagos escalonados, tolerás mayor incertidumbre y querés capturar valor antes de la entrega. Si priorizás uso inmediato, alquiler rápido y menor riesgo operativo, un departamento usado terminado suele ser mejor opción. La decisión depende de tu objetivo, plazo y perfil de riesgo.
+En CABA 2026, el pozo conviene si buscás pagos escalonados y tolerás esperar la obra para capturar valor antes de la entrega. El usado terminado gana si priorizás uso o alquiler inmediato y menor riesgo operativo. Elegí según tu objetivo, tu plazo y cuánta incertidumbre estás dispuesto a tolerar.
 
 ## Departamentos pozo CABA: qué conviene en 2026 y qué cambia frente a un usado terminado
 

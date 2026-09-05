@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/precio-del
 > Publicado originalmente en [https://re.bercovich.com/articulos/precio-del-m-en-caba-por-barrio-2026-el-analisis-del-mercado-inm](https://re.bercovich.com/articulos/precio-del-m-en-caba-por-barrio-2026-el-analisis-del-mercado-inm)
 # Precio del m² en CABA por barrio 2026: el análisis del mercado inmobiliario
 
-El mercado inmobiliario de CABA durante 2026 mostró una revalorización selectiva, donde los barrios consolidados mantuvieron firmeza en sus valores mientras que zonas emergentes ajustaron sus precios a la demanda real. La clave del año fue la selectividad, priorizando la calidad constructiva y el asesoramiento profesional en cada operación.
+En 2026 el precio del m² en CABA se movió por barrio, no en bloque: las zonas consolidadas sostuvieron su valor con firmeza, mientras varias zonas emergentes ajustaron precios para acercarse a la demanda real. Antes de comprar, revisá el impuesto de sellos y operá con inmobiliaria y escribano matriculados.
 
 ## El precio del m² en CABA por barrio: balance 2026
 

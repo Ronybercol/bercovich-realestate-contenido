@@ -1,5 +1,5 @@
 ---
-title: "Precio del m² en CABA en julio 2026: cuántos metros compra hoy tu sueldo o tus dólares ahorrados, según Zonaprop"
+title: "Precio del m² en CABA en julio 2026: cuántos metros compra hoy tu sueldo o tus dólares ahorrados"
 canonical: "https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuantos-metros-compra-hoy-tu"
 category: "mercado"
 date: "2026-08-25"
@@ -8,9 +8,9 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/precio-del
 ---
 
 > Publicado originalmente en [https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuantos-metros-compra-hoy-tu](https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuantos-metros-compra-hoy-tu)
-# Precio del m² en CABA en julio 2026: cuántos metros compra hoy tu sueldo o tus dólares ahorrados, según Zonaprop
+# Precio del m² en CABA en julio 2026: cuántos metros compra hoy tu sueldo o tus dólares ahorrados
 
-En julio de 2026, el precio del m² en CABA según Zonaprop fue de USD 2.471, con una suba mensual de 0,1% e interanual de 1,3%. El nivel sigue 11,7% por debajo del máximo histórico, por lo que permite medir cuántos metros puede comprar hoy tu sueldo o tus dólares ahorrados.
+En CABA, el m² de departamentos usados ronda los USD 2.471 según el índice de referencia de julio 2026, apenas por encima de un año atrás. Con ese valor, un monoambiente medio de 40 m² cuesta alrededor de USD 108.000, y dos ambientes de 50 m², unos USD 131.000: así medís cuántos metros compra tu sueldo o tus dólares.
 
 ## precio del m2 en caba julio 2026: cuántos metros compra hoy tu sueldo y tus dólares
 

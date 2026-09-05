@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/es-buen-mo
 > Publicado originalmente en [https://re.bercovich.com/articulos/es-buen-momento-para-vender-tu-propiedad-en-caba-lo-que-muestra](https://re.bercovich.com/articulos/es-buen-momento-para-vender-tu-propiedad-en-caba-lo-que-muestra)
 # ¿Es buen momento para vender tu propiedad en CABA? Lo que muestra el mercado en 2026
 
-En marzo de 2026, se registraron 5.590 escrituras en CABA, un 17,8% más que en el mismo mes del año anterior, beneficiándose de menores costos de cierre.
+Sí, el mercado porteño da señales favorables para vender en 2026. Las escrituras crecieron con fuerza frente al año anterior y el impuesto de sellos bajó, lo que reduce los costos de cierre. Con más operaciones y mejores condiciones, es un momento propicio para poner tu propiedad en venta con una inmobiliaria.
 
 ## ¿Es buen momento para vender tu propiedad en CABA? Lo que muestra el mercado en 2026
 
