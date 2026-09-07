@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [departamentos-en-venta-en-cabello-al-3400-palermo-botanico-2026](contenido/departamentos-en-venta-en-cabello-al-3400-palermo-botanico-2026.md) → https://re.bercovich.com/articulos/departamentos-en-venta-en-cabello-al-3400-palermo-botanico-2026
+- [locales-en-alquiler-en-capital-federal-2026-cuanto-renta-el-m-po](contenido/locales-en-alquiler-en-capital-federal-2026-cuanto-renta-el-m-po.md) → https://re.bercovich.com/articulos/locales-en-alquiler-en-capital-federal-2026-cuanto-renta-el-m-po
 - [en-que-barrios-de-caba-se-negocia-mas-el-precio-de-un-departamen](contenido/en-que-barrios-de-caba-se-negocia-mas-el-precio-de-un-departamen.md) → https://re.bercovich.com/articulos/en-que-barrios-de-caba-se-negocia-mas-el-precio-de-un-departamen
 - [departamentos-de-lujo-en-caba-2026-que-mirar-antes-de-comprar-en](contenido/departamentos-de-lujo-en-caba-2026-que-mirar-antes-de-comprar-en.md) → https://re.bercovich.com/articulos/departamentos-de-lujo-en-caba-2026-que-mirar-antes-de-comprar-en
 - [departamentos-en-pozo-financiados-en-belgrano-2026-planes-de-pag](contenido/departamentos-en-pozo-financiados-en-belgrano-2026-planes-de-pag.md) → https://re.bercovich.com/articulos/departamentos-en-pozo-financiados-en-belgrano-2026-planes-de-pag

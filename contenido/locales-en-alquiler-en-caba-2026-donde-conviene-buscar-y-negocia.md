@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/locales-en
 > Publicado originalmente en [https://re.bercovich.com/articulos/locales-en-alquiler-en-caba-2026-donde-conviene-buscar-y-negocia](https://re.bercovich.com/articulos/locales-en-alquiler-en-caba-2026-donde-conviene-buscar-y-negocia)
 # Locales en alquiler en CABA 2026: dónde conviene buscar y negociar
 
-En 2026, los locales en alquiler en CABA se concentran en corredores con comportamientos bien distintos: Caballito y Villa Devoto sostienen mejor la ocupación, mientras Corrientes y Rivadavia exhiben más vacancia y abren margen para negociar plazos y condiciones con inmobiliaria y escribano.
+En 2026, los locales en alquiler en CABA se dividen por corredor: Caballito y Villa Devoto sostienen la ocupación y dejan menos margen, mientras Corrientes y Rivadavia muestran más vacancia y abren juego para negociar plazos y condiciones de ingreso con inmobiliaria y escribano.
 
 ## Locales en alquiler CABA: dónde hoy se consigue stock y dónde la vacancia abre margen de negociación
 

@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/departamen
 > Publicado originalmente en [https://re.bercovich.com/articulos/departamentos-en-pozo-en-caba-2026-en-que-barrios-se-concentran](https://re.bercovich.com/articulos/departamentos-en-pozo-en-caba-2026-en-que-barrios-se-concentran)
 # Departamentos en pozo en CABA 2026: en qué barrios se concentran y qué se consigue en cada zona
 
-Los departamentos en pozo en CABA se concentran en barrios y corredores específicos, donde hay tierra disponible, recambio urbano y demanda sostenida. Palermo, Belgrano, Núñez, Caballito y Villa Urquiza suelen reunir buena parte de los lanzamientos, con propuestas que van desde unidades chicas premium hasta vivienda de gama media y media alta.
+En 2026 los departamentos en pozo en CABA se concentran por corredores: Palermo, Belgrano y Núñez para producto premium y media alta; Caballito y Villa Urquiza para primera vivienda; Almagro, Boedo y Flores para ticket más accesible. Elegí el barrio según conectividad y tipología, y comprá siempre con inmobiliaria y escribano.
 
 ## Departamentos pozo CABA: en qué barrios se concentra hoy la obra nueva
 
