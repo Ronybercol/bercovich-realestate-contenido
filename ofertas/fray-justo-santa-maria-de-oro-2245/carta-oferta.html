@@ -1,0 +1,595 @@
+<title>Oferta Oro 2245</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap">
+<style>
+  /* ---------------------------------------------------------------
+     Bercovich — sistema de marca aplicado (guidelines §2 paleta, §3
+     tipografía, §8 checklist). Cero colores fuera de paleta.
+     Tipografía: Montserrat — fallback documentado de Glock Grotesk,
+     que no está licenciada en este entorno.
+     Bordó: acento, no dominante (regla 60/30/10, §2).
+     --------------------------------------------------------------- */
+  :root {
+    /* paleta de marca */
+    --bordo:   #802626;
+    --negro:   #000101;
+    --carbon:  #4D504D;
+    --gris:    #959392;
+    --blanco:  #FCFCFF;
+
+    /* roles — tema claro */
+    --papel:      var(--blanco);
+    --papel-alt:  #F4F1F1;   /* blanco de marca sesgado al bordó */
+    --tinta:      var(--negro);
+    --tinta-2:    var(--carbon);
+    --tinta-3:    var(--gris);
+    --acento:     var(--bordo);
+    --linea:      rgba(77, 80, 77, .22);
+    --linea-firme:rgba(77, 80, 77, .55);
+    --realce:     rgba(128, 38, 38, .07);
+
+    --serie: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --papel:      #131413;
+      --papel-alt:  #1C1E1C;
+      --tinta:      var(--blanco);
+      --tinta-2:    #C6C5C4;
+      --tinta-3:    var(--gris);
+      --acento:     #B85252;   /* bordó aclarado para contraste sobre oscuro */
+      --linea:      rgba(149, 147, 146, .26);
+      --linea-firme:rgba(149, 147, 146, .5);
+      --realce:     rgba(184, 82, 82, .12);
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --papel:      #131413;
+    --papel-alt:  #1C1E1C;
+    --tinta:      var(--blanco);
+    --tinta-2:    #C6C5C4;
+    --tinta-3:    var(--gris);
+    --acento:     #B85252;
+    --linea:      rgba(149, 147, 146, .26);
+    --linea-firme:rgba(149, 147, 146, .5);
+    --realce:     rgba(184, 82, 82, .12);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--papel);
+    color: var(--tinta);
+    font-family: var(--serie);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.62;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .hoja {
+    max-width: 760px;
+    margin-inline: auto;
+    padding-inline: 20px;
+    padding-block: 0 72px;
+  }
+
+  /* ---------- membrete ---------- */
+  .membrete {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 20px 32px;
+    padding-block: 48px 22px;
+    border-bottom: 2px solid var(--acento);
+  }
+
+  .marca { display: flex; flex-direction: column; gap: 7px; }
+
+  .marca__logo {
+    font-size: clamp(25px, 6.2vw, 33px);
+    font-weight: 600;
+    letter-spacing: .175em;
+    line-height: 1;
+    margin: 0;
+    text-transform: uppercase;
+  }
+
+  .marca__bajada {
+    font-size: 10.5px;
+    font-weight: 500;
+    letter-spacing: .3em;
+    text-transform: uppercase;
+    color: var(--tinta-2);
+  }
+
+  .membrete__ref {
+    text-align: right;
+    font-size: 11px;
+    line-height: 1.75;
+    color: var(--tinta-2);
+    letter-spacing: .02em;
+  }
+
+  .membrete__ref b {
+    display: block;
+    font-weight: 600;
+    letter-spacing: .16em;
+    text-transform: uppercase;
+    font-size: 10px;
+    color: var(--acento);
+  }
+
+  /* ---------- encabezado de la carta ---------- */
+  .apertura { padding-block: 40px 0; }
+
+  .fecha {
+    font-size: 12.5px;
+    color: var(--tinta-2);
+    margin: 0 0 30px;
+  }
+
+  h1 {
+    font-size: clamp(20px, 4.6vw, 26px);
+    font-weight: 700;
+    letter-spacing: .07em;
+    text-transform: uppercase;
+    text-wrap: balance;
+    margin: 0 0 6px;
+  }
+
+  .h1__sub {
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: .04em;
+    color: var(--acento);
+    margin: 0 0 32px;
+  }
+
+  .destinatario { margin: 0 0 22px; font-weight: 600; }
+
+  .completar {
+    border-bottom: 1.5px dotted var(--acento);
+    padding: 0 3px 1px;
+    color: var(--acento);
+    font-weight: 500;
+  }
+
+  p { margin: 0 0 16px; max-width: 64ch; }
+
+  .firma { margin-top: 40px; }
+  .firma__linea {
+    width: 240px;
+    max-width: 100%;
+    border-top: 1px solid var(--linea-firme);
+    padding-top: 9px;
+    margin-bottom: 3px;
+  }
+  .firma__nombre { font-weight: 600; }
+  .firma__cargo { font-size: 12.5px; color: var(--tinta-2); }
+
+  /* ---------- secciones del anexo ---------- */
+  .seccion { margin-top: 56px; }
+
+  .seccion__titulo {
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+    margin: 0 0 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid var(--linea);
+  }
+
+  .seccion__titulo h2 {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: .17em;
+    text-transform: uppercase;
+    margin: 0;
+  }
+
+  .seccion__titulo span {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: .12em;
+    color: var(--acento);
+  }
+
+  /* ---------- cifra principal ---------- */
+  .monto {
+    background: var(--realce);
+    border-left: 3px solid var(--acento);
+    padding: 26px 26px 24px;
+    margin-bottom: 30px;
+  }
+
+  .monto__rotulo {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: .21em;
+    text-transform: uppercase;
+    color: var(--tinta-2);
+    margin: 0 0 8px;
+  }
+
+  .monto__cifra {
+    font-size: clamp(30px, 8vw, 44px);
+    font-weight: 700;
+    letter-spacing: -.012em;
+    line-height: 1.05;
+    font-variant-numeric: tabular-nums;
+    margin: 0 0 8px;
+    color: var(--acento);
+  }
+
+  .monto__letras {
+    font-size: 12.5px;
+    color: var(--tinta-2);
+    margin: 0;
+    max-width: 58ch;
+  }
+
+  /* ---------- tablas ---------- */
+  .tabla-wrap { overflow-x: auto; }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13.5px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  th, td {
+    text-align: left;
+    padding: 12px 14px 12px 0;
+    border-bottom: 1px solid var(--linea);
+    vertical-align: top;
+  }
+
+  th {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: .15em;
+    text-transform: uppercase;
+    color: var(--tinta-2);
+    border-bottom-color: var(--linea-firme);
+    white-space: nowrap;
+  }
+
+  td:last-child, th:last-child { padding-right: 0; }
+  .num { text-align: right; white-space: nowrap; }
+  .hito { font-weight: 600; }
+  .plazo { color: var(--tinta-2); font-size: 12.5px; }
+
+  tfoot td {
+    border-bottom: none;
+    border-top: 2px solid var(--acento);
+    padding-top: 14px;
+    font-weight: 700;
+  }
+
+  /* ---------- ficha de datos ---------- */
+  .ficha {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+    gap: 1px;
+    background: var(--linea);
+    border: 1px solid var(--linea);
+  }
+
+  .ficha > div {
+    background: var(--papel);
+    padding: 15px 16px;
+  }
+
+  .ficha dt {
+    font-size: 9.5px;
+    font-weight: 600;
+    letter-spacing: .15em;
+    text-transform: uppercase;
+    color: var(--tinta-2);
+    margin-bottom: 5px;
+  }
+
+  .ficha dd {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 500;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ---------- incidencias ---------- */
+  .incidencias {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 22px 28px;
+    padding: 24px 0 4px;
+  }
+
+  .incidencia__cifra {
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 1.1;
+    font-variant-numeric: tabular-nums;
+    margin: 0 0 4px;
+  }
+
+  .incidencia__cifra small {
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--tinta-2);
+  }
+
+  .incidencia__rotulo {
+    font-size: 11px;
+    line-height: 1.45;
+    color: var(--tinta-2);
+    margin: 0;
+  }
+
+  /* ---------- condiciones ---------- */
+  ol.condiciones { margin: 0; padding-left: 0; list-style: none; counter-reset: c; }
+
+  ol.condiciones li {
+    counter-increment: c;
+    position: relative;
+    padding: 0 0 14px 34px;
+    max-width: 64ch;
+  }
+
+  ol.condiciones li::before {
+    content: counter(c, decimal-leading-zero);
+    position: absolute;
+    left: 0;
+    top: 1px;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: .06em;
+    color: var(--acento);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .nota {
+    margin-top: 26px;
+    padding: 16px 18px;
+    background: var(--papel-alt);
+    font-size: 12.5px;
+    line-height: 1.6;
+    color: var(--tinta-2);
+    max-width: none;
+  }
+
+  .nota b { color: var(--tinta); font-weight: 600; }
+
+  /* ---------- pie ---------- */
+  .pie {
+    margin-top: 64px;
+    padding-top: 20px;
+    border-top: 1px solid var(--linea);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 26px;
+    font-size: 11px;
+    letter-spacing: .04em;
+    color: var(--tinta-3);
+  }
+
+  .pie strong {
+    color: var(--tinta-2);
+    font-weight: 600;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+  }
+
+  @media print {
+    body { background: #FCFCFF; color: #000101; font-size: 10.5pt; }
+    .hoja { max-width: none; padding: 0; }
+    .seccion { margin-top: 30px; break-inside: avoid; }
+    .membrete { padding-top: 0; }
+    @page { size: A4; margin: 18mm 16mm; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; transition: none !important; }
+  }
+</style>
+
+<div class="hoja">
+
+  <header class="membrete">
+    <div class="marca">
+      <p class="marca__logo">Bercovich</p>
+      <span class="marca__bajada">Group · Unidad Terrenos</span>
+    </div>
+    <div class="membrete__ref">
+      <b>Carta de oferta</b>
+      Ref. Fray Justo Santa María de Oro 2245<br>
+      Nomenclatura catastral 019-144-010A<br>
+      Palermo, Ciudad Autónoma de Buenos Aires
+    </div>
+  </header>
+
+  <section class="apertura">
+    <p class="fecha">Buenos Aires, 15 de septiembre de 2026</p>
+
+    <h1>Carta de oferta formal</h1>
+    <p class="h1__sub">Compra del inmueble sito en Fray Justo Santa María de Oro N° 2245, CABA</p>
+
+    <p class="destinatario">Atte. <span class="completar">[titular de dominio / organismo vendedor]</span>:</p>
+
+    <p>Por intermedio de la presente, tenga a bien recibir Ud. nuestra oferta de compra formal
+      respecto del inmueble ubicado en la calle Fray Justo Santa María de Oro N° 2245, Palermo,
+      Ciudad Autónoma de Buenos Aires, nomenclatura catastral 019-144-010A, referida en el Anexo I
+      de la presente carta.</p>
+
+    <p>La oferta se formula sobre la base del estudio de prefactibilidad constructiva que nuestro
+      equipo de arquitectura elaboró para la parcela, y contempla el pago de la totalidad del
+      precio dentro de los seis (6) meses de suscripta la reserva.</p>
+
+    <p>Agradeciendo desde ya que pueda ponerse en contacto con nosotros a la brevedad posible, a los
+      efectos de seguir avanzando sobre los puntos que atañen al potencial vínculo próximo a
+      establecer, quedo a su disposición para resolver cualquier inquietud surgida al respecto.</p>
+
+    <p>Lo saluda cordialmente,</p>
+
+    <div class="firma">
+      <div class="firma__linea"></div>
+      <div class="firma__nombre">Ronan Bercovich</div>
+      <div class="firma__cargo">Bercovich Group</div>
+    </div>
+  </section>
+
+  <section class="seccion">
+    <div class="seccion__titulo">
+      <span>Anexo I</span>
+      <h2>Oferta de compra</h2>
+    </div>
+
+    <div class="monto">
+      <p class="monto__rotulo">Precio ofertado — en efectivo, dólares billete</p>
+      <p class="monto__cifra">USD 2.000.000</p>
+      <p class="monto__letras">Dólares Estadounidenses Billete Dos Millones (US$ 2.000.000.-),
+        pagaderos íntegramente dentro de los ciento ochenta (180) días corridos contados desde la
+        firma de la reserva, conforme el cronograma que sigue.</p>
+    </div>
+
+    <div class="tabla-wrap">
+      <table>
+        <caption class="sr-only" hidden>Cronograma de pagos</caption>
+        <thead>
+          <tr>
+            <th scope="col">Hito</th>
+            <th scope="col">Plazo</th>
+            <th scope="col" class="num">Monto USD</th>
+            <th scope="col" class="num">%</th>
+            <th scope="col" class="num">Acum.</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="hito">Reserva</td>
+            <td class="plazo">A la firma</td>
+            <td class="num">100.000</td>
+            <td class="num">5%</td>
+            <td class="num">5%</td>
+          </tr>
+          <tr>
+            <td class="hito">Boleto de compraventa</td>
+            <td class="plazo">30 días de la reserva</td>
+            <td class="num">500.000</td>
+            <td class="num">25%</td>
+            <td class="num">30%</td>
+          </tr>
+          <tr>
+            <td class="hito">Pago intermedio</td>
+            <td class="plazo">90 días de la reserva</td>
+            <td class="num">400.000</td>
+            <td class="num">20%</td>
+            <td class="num">50%</td>
+          </tr>
+          <tr>
+            <td class="hito">Escritura traslativa de dominio<br>y entrega de posesión</td>
+            <td class="plazo">180 días de la reserva</td>
+            <td class="num">1.000.000</td>
+            <td class="num">50%</td>
+            <td class="num">100%</td>
+          </tr>
+        </tbody>
+        <tfoot>
+          <tr>
+            <td>Total</td>
+            <td class="plazo">6 meses</td>
+            <td class="num">2.000.000</td>
+            <td class="num">100%</td>
+            <td class="num"></td>
+          </tr>
+        </tfoot>
+      </table>
+    </div>
+  </section>
+
+  <section class="seccion">
+    <div class="seccion__titulo">
+      <span>Anexo II</span>
+      <h2>Parcela y normativa</h2>
+    </div>
+
+    <dl class="ficha">
+      <div><dt>Superficie del terreno</dt><dd>688,6 m²</dd></div>
+      <div><dt>Frente × fondo</dt><dd>17,28 m × 40,19 m</dd></div>
+      <div><dt>Ancho de calle</dt><dd>17,32 m</dd></div>
+      <div><dt>Distrito</dt><dd>USAA — Área A2</dd></div>
+      <div><dt>Morfología permitida</dt><dd>PB + 7 pisos + 2 retiros</dd></div>
+      <div><dt>Altura máxima</dt><dd>22,80 m</dd></div>
+      <div><dt>Tipología</dt><dd>Entre medianeras</dd></div>
+      <div><dt>Sup. construible permitida</dt><dd>5.000 m²</dd></div>
+      <div><dt>Sup. vendible estimada</dt><dd>4.715 m²</dd></div>
+      <div><dt>Plusvalía estimada</dt><dd>USD 219.550</dd></div>
+      <div><dt>Protección APH</dt><dd>Desestimada</dd></div>
+      <div><dt>Ley 3056 / Ley de Pasajes</dt><dd>No aplica</dd></div>
+    </dl>
+
+    <div class="incidencias">
+      <div>
+        <p class="incidencia__cifra">USD 2.904 <small>/m²</small></p>
+        <p class="incidencia__rotulo">Incidencia sobre superficie de terreno</p>
+      </div>
+      <div>
+        <p class="incidencia__cifra">USD 400 <small>/m²</small></p>
+        <p class="incidencia__rotulo">Incidencia sobre m² construible permitido</p>
+      </div>
+      <div>
+        <p class="incidencia__cifra">USD 424 <small>/m²</small></p>
+        <p class="incidencia__rotulo">Incidencia sobre m² vendible</p>
+      </div>
+      <div>
+        <p class="incidencia__cifra">USD 471 <small>/m²</small></p>
+        <p class="incidencia__rotulo">Incidencia sobre m² vendible, con plusvalía incluida</p>
+      </div>
+    </div>
+
+    <p class="nota">Superficies, morfología y plusvalía surgen del estudio de prefactibilidad
+      constructiva elaborado por Bercovich Group para esta parcela. Las superficies vendibles son
+      estimadas y quedan sujetas a la aprobación del proyecto por la autoridad de aplicación.</p>
+  </section>
+
+  <section class="seccion">
+    <div class="seccion__titulo">
+      <span>Anexo III</span>
+      <h2>Condiciones de la oferta</h2>
+    </div>
+
+    <ol class="condiciones">
+      <li>Operación en base a títulos perfectos.</li>
+      <li>Todos los pagos se realizan en dólares estadounidenses billete y se depositan en la
+        escribanía interviniente de la operación.</li>
+      <li>Lugar de pago a ser elegido por la parte Vendedora.</li>
+      <li>Escribano de la operación a ser designado por la parte Compradora.</li>
+      <li>Los gastos e impuestos de la operación serán soportados según usos y costumbres notariales
+        de la Ciudad Autónoma de Buenos Aires.</li>
+      <li>Al momento de celebrar el boleto de compraventa se firmará un poder administrativo a favor
+        de la parte Compradora, a los efectos de iniciar los trámites de presentación de planos y
+        saneamiento del inmueble.</li>
+      <li>La entrega de posesión se realiza al momento de la escritura traslativa de dominio, libre
+        de ocupantes y de todo gravamen.</li>
+      <li>Sin comisión inmobiliaria a cargo de la parte Vendedora: Bercovich Group adquiere por
+        cuenta propia.</li>
+      <li>La presente oferta mantiene su validez por quince (15) días corridos desde su recepción.</li>
+    </ol>
+  </section>
+
+  <footer class="pie">
+    <span><strong>Bercovich Group</strong></span>
+    <span>José A. Cabrera 3195, CABA</span>
+    <span>terrenos@bercovich.com</span>
+    <span>+54 9 11 6515-7197</span>
+    <span>bercovich.com</span>
+    <span>Matrícula CUCICBA N° 493</span>
+  </footer>
+
+</div>
