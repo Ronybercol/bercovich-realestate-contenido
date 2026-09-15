@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [cuanto-aumento-el-m-en-caba-en-2026-la-suba-real-en-dolares-barr](contenido/cuanto-aumento-el-m-en-caba-en-2026-la-suba-real-en-dolares-barr.md) → https://re.bercovich.com/articulos/cuanto-aumento-el-m-en-caba-en-2026-la-suba-real-en-dolares-barr
 - [country-o-barrio-cerrado-diferencias-y-que-conviene-para-comprar](contenido/country-o-barrio-cerrado-diferencias-y-que-conviene-para-comprar.md) → https://re.bercovich.com/articulos/country-o-barrio-cerrado-diferencias-y-que-conviene-para-comprar
 - [departamentos-en-venta-en-cabello-al-3400-palermo-botanico-2026](contenido/departamentos-en-venta-en-cabello-al-3400-palermo-botanico-2026.md) → https://re.bercovich.com/articulos/departamentos-en-venta-en-cabello-al-3400-palermo-botanico-2026
 - [locales-en-alquiler-en-capital-federal-2026-cuanto-renta-el-m-po](contenido/locales-en-alquiler-en-capital-federal-2026-cuanto-renta-el-m-po.md) → https://re.bercovich.com/articulos/locales-en-alquiler-en-capital-federal-2026-cuanto-renta-el-m-po

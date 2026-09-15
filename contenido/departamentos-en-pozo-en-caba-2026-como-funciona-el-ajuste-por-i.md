@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/departamen
 > Publicado originalmente en [https://re.bercovich.com/articulos/departamentos-en-pozo-en-caba-2026-como-funciona-el-ajuste-por-i](https://re.bercovich.com/articulos/departamentos-en-pozo-en-caba-2026-como-funciona-el-ajuste-por-i)
 # Departamentos en pozo en CABA 2026: cómo funciona el ajuste por índice CAC
 
-Comprar departamentos en pozo en CABA implica financiar la unidad durante la obra mediante cuotas ajustadas por el índice CAC. Este indicador refleja la variación de precios en materiales y mano de obra, permitiendo que la inversión mantenga su valor real. Es vital formalizar toda la operación con inmobiliaria y escribano para mayor seguridad.
+En un departamento en pozo en CABA financiás el saldo en cuotas mientras se construye, y esas cuotas se ajustan por el índice CAC, que sigue la variación de materiales y mano de obra. Así la inversión mantiene su valor real. Conviene formalizar toda la operación con inmobiliaria matriculada y escribano.
 
 ## ¿Qué son los departamentos en pozo en CABA y cómo se ajustan las cuotas?
 

@@ -1,5 +1,5 @@
 ---
-title: "Precio del m² en CABA en julio 2026: por qué solo la mitad de los barrios subió según Zonaprop"
+title: "Precio del m² en CABA en julio 2026: por qué solo la mitad de los barrios subió"
 canonical: "https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-por-que-solo-la-mitad-de-los"
 category: "mercado"
 date: "2026-08-26"
@@ -8,9 +8,9 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/precio-del
 ---
 
 > Publicado originalmente en [https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-por-que-solo-la-mitad-de-los](https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-por-que-solo-la-mitad-de-los)
-# Precio del m² en CABA en julio 2026: por qué solo la mitad de los barrios subió según Zonaprop
+# Precio del m² en CABA en julio 2026: por qué solo la mitad de los barrios subió
 
-En julio de 2026, el precio publicado del m² en CABA fue de USD 2.471 según el Index de Zonaprop y subió apenas 0,1% en el mes. El promedio casi no se movió porque solo cerca de la mitad de los barrios mostró aumentos, mientras el resto quedó sin impulso suficiente.
+El precio del m² en venta en CABA quedó prácticamente estancado: el promedio subió apenas 0,1% mensual porque solo cerca de la mitad de los barrios mostró aumentos y el resto quedó sin impulso. Por eso conviene mirar por microzona, y no a CABA como un mercado único, antes de vender.
 
 ## Precio del m² en CABA en julio 2026: qué mostró el Index y por qué el promedio se estanca
 
