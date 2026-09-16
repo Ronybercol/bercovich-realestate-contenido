@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/precio-del
 > Publicado originalmente en [https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuanto-capital-necesitas-para](https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuanto-capital-necesitas-para)
 # Precio del m² en CABA en julio 2026: cuánto capital necesitás para comprar en cada barrio y dónde entra hoy el inversor
 
-En julio de 2026, el metro cuadrado publicado en CABA se ubicó en USD 2.471 según Zonaprop. Con ese valor, un monoambiente ronda los USD 108.000, un dos ambientes los USD 131.000 y un tres ambientes los USD 179.000. El mercado sigue 11,7% debajo del máximo histórico y ofrece oportunidades en barrios más accesibles para invertir.
+El m² publicado en CABA ronda los USD 2.471. Con ese valor, un monoambiente cuesta unos USD 108.000, un dos ambientes USD 131.000 y un tres ambientes USD 179.000: ese es el capital base que necesitás según tipología. Los barrios más accesibles bajan el ticket y hoy el mercado sigue 11,7% debajo de su máximo, con oportunidades para el inversor.
 
 ## precio del m2 en caba julio 2026: qué marca el Index CABA de Zonaprop hoy
 

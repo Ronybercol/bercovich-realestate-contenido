@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/como-compr
 > Publicado originalmente en [https://re.bercovich.com/articulos/como-comprar-tu-primera-propiedad-en-caba-guia-paso-a-paso-2026](https://re.bercovich.com/articulos/como-comprar-tu-primera-propiedad-en-caba-guia-paso-a-paso-2026)
 # Cómo comprar tu primera propiedad en CABA: guía paso a paso 2026
 
-Comprar tu primera propiedad en CABA tiene seis pasos: definir presupuesto y financiación, buscar y visitar inmuebles, hacer una reserva u oferta, firmar el boleto de compraventa con seña, escriturar ante escribano y recibir la posesión. Conviene tener la documentación y los fondos disponibles antes de reservar.
+Comprar tu primera propiedad en CABA lleva seis pasos: definir presupuesto y financiación, buscar y visitar inmuebles, hacer la reserva u oferta, firmar el boleto de compraventa con seña, escriturar ante escribano y recibir la posesión. Antes de reservar conviene tener la documentación y los fondos disponibles y acompañarte con una inmobiliaria.
 
 # Cómo comprar tu primera propiedad en CABA: guía paso a paso 2026
 

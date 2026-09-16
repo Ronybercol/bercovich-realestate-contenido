@@ -2,6 +2,9 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [buenos-aires-luxury-real-estate-2026-guia-para-comprar-propiedad](contenido/buenos-aires-luxury-real-estate-2026-guia-para-comprar-propiedad.md) → https://re.bercovich.com/articulos/buenos-aires-luxury-real-estate-2026-guia-para-comprar-propiedad
+- [precio-del-m-en-caba-en-agosto-2026-que-barrios-lideraron-la-sub](contenido/precio-del-m-en-caba-en-agosto-2026-que-barrios-lideraron-la-sub.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-agosto-2026-que-barrios-lideraron-la-sub
+- [riesgos-de-comprar-en-pozo-en-argentina-auditar-fideicomiso-y-de](contenido/riesgos-de-comprar-en-pozo-en-argentina-auditar-fideicomiso-y-de.md) → https://re.bercovich.com/articulos/riesgos-de-comprar-en-pozo-en-argentina-auditar-fideicomiso-y-de
 - [cuanto-aumento-el-m-en-caba-en-2026-la-suba-real-en-dolares-barr](contenido/cuanto-aumento-el-m-en-caba-en-2026-la-suba-real-en-dolares-barr.md) → https://re.bercovich.com/articulos/cuanto-aumento-el-m-en-caba-en-2026-la-suba-real-en-dolares-barr
 - [country-o-barrio-cerrado-diferencias-y-que-conviene-para-comprar](contenido/country-o-barrio-cerrado-diferencias-y-que-conviene-para-comprar.md) → https://re.bercovich.com/articulos/country-o-barrio-cerrado-diferencias-y-que-conviene-para-comprar
 - [departamentos-en-venta-en-cabello-al-3400-palermo-botanico-2026](contenido/departamentos-en-venta-en-cabello-al-3400-palermo-botanico-2026.md) → https://re.bercovich.com/articulos/departamentos-en-venta-en-cabello-al-3400-palermo-botanico-2026
