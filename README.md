@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [en-que-barrio-de-caba-conviene-comprar-departamento-en-2026-ana](contenido/en-que-barrio-de-caba-conviene-comprar-departamento-en-2026-ana.md) → https://re.bercovich.com/articulos/en-que-barrio-de-caba-conviene-comprar-departamento-en-2026-ana
 - [cuanto-cuesta-un-departamento-en-palermo-en-2026-guia-de-precio](contenido/cuanto-cuesta-un-departamento-en-palermo-en-2026-guia-de-precio.md) → https://re.bercovich.com/articulos/cuanto-cuesta-un-departamento-en-palermo-en-2026-guia-de-precio
 - [departamentos-en-venta-en-11-de-septiembre-al-1800-belgrano-que](contenido/departamentos-en-venta-en-11-de-septiembre-al-1800-belgrano-que.md) → https://re.bercovich.com/articulos/departamentos-en-venta-en-11-de-septiembre-al-1800-belgrano-que
 - [buenos-aires-luxury-real-estate-2026-guia-para-comprar-propiedad](contenido/buenos-aires-luxury-real-estate-2026-guia-para-comprar-propiedad.md) → https://re.bercovich.com/articulos/buenos-aires-luxury-real-estate-2026-guia-para-comprar-propiedad
