@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/murio-la-l
 > Publicado originalmente en [https://re.bercovich.com/articulos/murio-la-ley-de-alquileres-que-rige-en-2026-tras-el-dnu-70-23](https://re.bercovich.com/articulos/murio-la-ley-de-alquileres-que-rige-en-2026-tras-el-dnu-70-23)
 # ¿Murió la ley de alquileres? Qué rige en 2026 tras el DNU 70/23
 
-En 2026, la Ley 27.551 está formalmente derogada. Tras el DNU 70/23, el mercado inmobiliario argentino se rige por el principio de libertad de contratación del Código Civil y Comercial. Propietarios e inquilinos tienen autonomía para pactar libremente plazos, moneda de pago e índices de ajuste sin las restricciones regulatorias previas.
+Hoy la Ley 27.551 está derogada. Tras el DNU 70/23, tu contrato de locación se rige por la libertad de contratación del Código Civil y Comercial: plazo, moneda de pago e índice de ajuste se pactan libremente entre las partes. Ya no hay plazos mínimos ni índices obligatorios; el acuerdo define las condiciones, siempre con inmobiliaria y escribano.
 
 ## ¿Qué rige hoy? La ley de alquileres en 2026
 

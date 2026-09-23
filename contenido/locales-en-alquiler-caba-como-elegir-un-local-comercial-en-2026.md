@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/locales-en
 > Publicado originalmente en [https://re.bercovich.com/articulos/locales-en-alquiler-caba-como-elegir-un-local-comercial-en-2026](https://re.bercovich.com/articulos/locales-en-alquiler-caba-como-elegir-un-local-comercial-en-2026)
 # Locales en alquiler CABA: cómo elegir un local comercial en 2026
 
-Para elegir un local en alquiler en CABA en 2026, no alcanza con que la ubicación sea linda: hay que revisar la cuadra, el flujo peatonal, la visibilidad, la compatibilidad del rubro, el estado del inmueble y el costo total de entrada. Con vacancia alta, además, hay más margen para negociar condiciones y precio.
+Antes de firmar un local en alquiler en CABA en 2026, revisá la cuadra y no solo el barrio, el flujo peatonal útil para tu rubro, la visibilidad desde la vereda, el estado del inmueble y el costo total de entrada con sellos, expensas y garantías. La vacancia alta te da margen para negociar precio y condiciones con tu inmobiliaria.
 
 ## Locales en alquiler CABA: qué mirar antes de alquilar un local comercial
 

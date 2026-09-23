@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/remodelaci
 > Publicado originalmente en [https://re.bercovich.com/articulos/remodelacion-integral-vs-lavado-de-cara-en-buenos-aires-2026-cos](https://re.bercovich.com/articulos/remodelacion-integral-vs-lavado-de-cara-en-buenos-aires-2026-cos)
 # Remodelación integral vs. lavado de cara en Buenos Aires 2026: costos y rentabilidad
 
-En 2026, remodelar un departamento en Buenos Aires requiere entre 150 y 250 USD/m² para un lavado de cara y entre 450 y 700 USD/m² para una reforma integral. La elección depende de la antigüedad de las instalaciones y el estado estructural, siendo una inversión clave para aumentar la competitividad y valor de reventa del inmueble.
+Remodelar un departamento en Buenos Aires se mueve en dos niveles: un lavado de cara (pintura, luminarias, arreglos estéticos) ronda los 150 a 250 USD/m², y una reforma integral (cañerías, cableado y terminaciones nuevas) va de 450 a 700 USD/m². La elección depende del estado de las instalaciones y de cuánto quieras valorizar la unidad para la reventa.
 
 ## Cuánto cuesta remodelar un departamento en Buenos Aires: niveles de obra y presupuesto 2026
 
