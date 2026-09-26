@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [emprendimientos-en-pozo-nunez-2026-precios-etapas-y-oportunidade](contenido/emprendimientos-en-pozo-nunez-2026-precios-etapas-y-oportunidade.md) → https://re.bercovich.com/articulos/emprendimientos-en-pozo-nunez-2026-precios-etapas-y-oportunidade
+- [precio-m-recoleta-2026-y-efecto-de-la-caida-de-escrituras](contenido/precio-m-recoleta-2026-y-efecto-de-la-caida-de-escrituras.md) → https://re.bercovich.com/articulos/precio-m-recoleta-2026-y-efecto-de-la-caida-de-escrituras
 - [emprendimientos-en-pozo-palermo-2026-precios-etapas-y-razones-pa](contenido/emprendimientos-en-pozo-palermo-2026-precios-etapas-y-razones-pa.md) → https://re.bercovich.com/articulos/emprendimientos-en-pozo-palermo-2026-precios-etapas-y-razones-pa
 - [locales-en-venta-villa-urquiza-2026-precios-y-rentabilidad](contenido/locales-en-venta-villa-urquiza-2026-precios-y-rentabilidad.md) → https://re.bercovich.com/articulos/locales-en-venta-villa-urquiza-2026-precios-y-rentabilidad
 - [en-que-barrio-de-caba-conviene-comprar-departamento-en-2026-ana](contenido/en-que-barrio-de-caba-conviene-comprar-departamento-en-2026-ana.md) → https://re.bercovich.com/articulos/en-que-barrio-de-caba-conviene-comprar-departamento-en-2026-ana
