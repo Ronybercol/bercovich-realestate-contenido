@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [escriturar-casa-en-caba-2026-costos-errores-comunes-y-como-evita](contenido/escriturar-casa-en-caba-2026-costos-errores-comunes-y-como-evita.md) → https://re.bercovich.com/articulos/escriturar-casa-en-caba-2026-costos-errores-comunes-y-como-evita
 - [emprendimientos-en-pozo-nunez-2026-precios-etapas-y-oportunidade](contenido/emprendimientos-en-pozo-nunez-2026-precios-etapas-y-oportunidade.md) → https://re.bercovich.com/articulos/emprendimientos-en-pozo-nunez-2026-precios-etapas-y-oportunidade
 - [precio-m-recoleta-2026-y-efecto-de-la-caida-de-escrituras](contenido/precio-m-recoleta-2026-y-efecto-de-la-caida-de-escrituras.md) → https://re.bercovich.com/articulos/precio-m-recoleta-2026-y-efecto-de-la-caida-de-escrituras
 - [emprendimientos-en-pozo-palermo-2026-precios-etapas-y-razones-pa](contenido/emprendimientos-en-pozo-palermo-2026-precios-etapas-y-razones-pa.md) → https://re.bercovich.com/articulos/emprendimientos-en-pozo-palermo-2026-precios-etapas-y-razones-pa
