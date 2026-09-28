@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [departamentos-balvanera-2026-precios-y-plusvalia](contenido/departamentos-balvanera-2026-precios-y-plusvalia.md) → https://re.bercovich.com/articulos/departamentos-balvanera-2026-precios-y-plusvalia
+- [alquiler-de-locales-en-caba-cuanto-paga-el-propietario-por-m-y-c](contenido/alquiler-de-locales-en-caba-cuanto-paga-el-propietario-por-m-y-c.md) → https://re.bercovich.com/articulos/alquiler-de-locales-en-caba-cuanto-paga-el-propietario-por-m-y-c
 - [guia-paso-a-paso-para-arba-pagar-impuesto-inmobiliario-al-vender](contenido/guia-paso-a-paso-para-arba-pagar-impuesto-inmobiliario-al-vender.md) → https://re.bercovich.com/articulos/guia-paso-a-paso-para-arba-pagar-impuesto-inmobiliario-al-vender
 - [casas-en-venta-en-colegiales-2026-precios-y-guia-de-compra](contenido/casas-en-venta-en-colegiales-2026-precios-y-guia-de-compra.md) → https://re.bercovich.com/articulos/casas-en-venta-en-colegiales-2026-precios-y-guia-de-compra
 - [alquiler-local-palermo-soho-2026-precios-rentabilidad-y-estrateg](contenido/alquiler-local-palermo-soho-2026-precios-rentabilidad-y-estrateg.md) → https://re.bercovich.com/articulos/alquiler-local-palermo-soho-2026-precios-rentabilidad-y-estrateg
