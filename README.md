@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [ph-en-venta-en-coghlan-2026-precio-por-m-plusvalia-y-guia-de-com](contenido/ph-en-venta-en-coghlan-2026-precio-por-m-plusvalia-y-guia-de-com.md) → https://re.bercovich.com/articulos/ph-en-venta-en-coghlan-2026-precio-por-m-plusvalia-y-guia-de-com
 - [departamentos-balvanera-2026-precios-y-plusvalia](contenido/departamentos-balvanera-2026-precios-y-plusvalia.md) → https://re.bercovich.com/articulos/departamentos-balvanera-2026-precios-y-plusvalia
 - [alquiler-de-locales-en-caba-cuanto-paga-el-propietario-por-m-y-c](contenido/alquiler-de-locales-en-caba-cuanto-paga-el-propietario-por-m-y-c.md) → https://re.bercovich.com/articulos/alquiler-de-locales-en-caba-cuanto-paga-el-propietario-por-m-y-c
 - [guia-paso-a-paso-para-arba-pagar-impuesto-inmobiliario-al-vender](contenido/guia-paso-a-paso-para-arba-pagar-impuesto-inmobiliario-al-vender.md) → https://re.bercovich.com/articulos/guia-paso-a-paso-para-arba-pagar-impuesto-inmobiliario-al-vender
