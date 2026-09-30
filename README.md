@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [los-7-barrios-mas-baratos-de-caba-para-comprar-en-2026](contenido/los-7-barrios-mas-baratos-de-caba-para-comprar-en-2026.md) → https://re.bercovich.com/articulos/los-7-barrios-mas-baratos-de-caba-para-comprar-en-2026
+- [departamentos-en-venta-palermo-norte-2026-precios-y-claves](contenido/departamentos-en-venta-palermo-norte-2026-precios-y-claves.md) → https://re.bercovich.com/articulos/departamentos-en-venta-palermo-norte-2026-precios-y-claves
 - [ph-en-venta-en-coghlan-2026-precio-por-m-plusvalia-y-guia-de-com](contenido/ph-en-venta-en-coghlan-2026-precio-por-m-plusvalia-y-guia-de-com.md) → https://re.bercovich.com/articulos/ph-en-venta-en-coghlan-2026-precio-por-m-plusvalia-y-guia-de-com
 - [departamentos-balvanera-2026-precios-y-plusvalia](contenido/departamentos-balvanera-2026-precios-y-plusvalia.md) → https://re.bercovich.com/articulos/departamentos-balvanera-2026-precios-y-plusvalia
 - [alquiler-de-locales-en-caba-cuanto-paga-el-propietario-por-m-y-c](contenido/alquiler-de-locales-en-caba-cuanto-paga-el-propietario-por-m-y-c.md) → https://re.bercovich.com/articulos/alquiler-de-locales-en-caba-cuanto-paga-el-propietario-por-m-y-c
