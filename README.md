@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [departamentos-en-venta-en-palermo-chico-2026-precios-por-m-plusv](contenido/departamentos-en-venta-en-palermo-chico-2026-precios-por-m-plusv.md) → https://re.bercovich.com/articulos/departamentos-en-venta-en-palermo-chico-2026-precios-por-m-plusv
+- [casas-de-lujo-en-zona-norte-2026-como-elegir-la-mejor](contenido/casas-de-lujo-en-zona-norte-2026-como-elegir-la-mejor.md) → https://re.bercovich.com/articulos/casas-de-lujo-en-zona-norte-2026-como-elegir-la-mejor
 - [los-7-barrios-mas-baratos-de-caba-para-comprar-en-2026](contenido/los-7-barrios-mas-baratos-de-caba-para-comprar-en-2026.md) → https://re.bercovich.com/articulos/los-7-barrios-mas-baratos-de-caba-para-comprar-en-2026
 - [departamentos-en-venta-palermo-norte-2026-precios-y-claves](contenido/departamentos-en-venta-palermo-norte-2026-precios-y-claves.md) → https://re.bercovich.com/articulos/departamentos-en-venta-palermo-norte-2026-precios-y-claves
 - [ph-en-venta-en-coghlan-2026-precio-por-m-plusvalia-y-guia-de-com](contenido/ph-en-venta-en-coghlan-2026-precio-por-m-plusvalia-y-guia-de-com.md) → https://re.bercovich.com/articulos/ph-en-venta-en-coghlan-2026-precio-por-m-plusvalia-y-guia-de-com
