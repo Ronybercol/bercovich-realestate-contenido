@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [rentabilidad-de-un-departamento-en-caba-2026-retorno-neto](contenido/rentabilidad-de-un-departamento-en-caba-2026-retorno-neto.md) → https://re.bercovich.com/articulos/rentabilidad-de-un-departamento-en-caba-2026-retorno-neto
 - [departamentos-en-venta-en-palermo-chico-2026-precios-por-m-plusv](contenido/departamentos-en-venta-en-palermo-chico-2026-precios-por-m-plusv.md) → https://re.bercovich.com/articulos/departamentos-en-venta-en-palermo-chico-2026-precios-por-m-plusv
 - [casas-de-lujo-en-zona-norte-2026-como-elegir-la-mejor](contenido/casas-de-lujo-en-zona-norte-2026-como-elegir-la-mejor.md) → https://re.bercovich.com/articulos/casas-de-lujo-en-zona-norte-2026-como-elegir-la-mejor
 - [los-7-barrios-mas-baratos-de-caba-para-comprar-en-2026](contenido/los-7-barrios-mas-baratos-de-caba-para-comprar-en-2026.md) → https://re.bercovich.com/articulos/los-7-barrios-mas-baratos-de-caba-para-comprar-en-2026
