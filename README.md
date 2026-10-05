@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026](contenido/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026.md) → https://re.bercovich.com/articulos/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026
 - [conviene-comprar-o-alquilar-en-argentina-2026-analisis-de-costo](contenido/conviene-comprar-o-alquilar-en-argentina-2026-analisis-de-costo.md) → https://re.bercovich.com/articulos/conviene-comprar-o-alquilar-en-argentina-2026-analisis-de-costo
 - [departamentos-en-venta-en-recoleta-y-barrio-norte-precios-plusva](contenido/departamentos-en-venta-en-recoleta-y-barrio-norte-precios-plusva.md) → https://re.bercovich.com/articulos/departamentos-en-venta-en-recoleta-y-barrio-norte-precios-plusva
 - [rentabilidad-de-un-departamento-en-caba-2026-retorno-neto](contenido/rentabilidad-de-un-departamento-en-caba-2026-retorno-neto.md) → https://re.bercovich.com/articulos/rentabilidad-de-un-departamento-en-caba-2026-retorno-neto
