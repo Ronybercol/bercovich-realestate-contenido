@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/escriturar
 > Publicado originalmente en [https://re.bercovich.com/articulos/escriturar-casa-en-caba-2026-costos-errores-comunes-y-como-evita](https://re.bercovich.com/articulos/escriturar-casa-en-caba-2026-costos-errores-comunes-y-como-evita)
 # Escriturar casa en CABA 2026: costos, errores comunes y cómo evitarlos
 
-En 2026 la escrituración de una casa en CABA incluye el impuesto de sellos del 2,7 % del precio, honorarios del escribano basados en UVA, aranceles registrales y la comisión de la inmobiliaria. Conoce cada partida y los factores que hacen variar el total para planificar tu compra con claridad.
+Escriturar una casa en CABA en 2026 implica cuatro partidas: el impuesto de sellos del 2,7 % —exento si es tu vivienda única y permanente dentro del tope vigente—, los honorarios del escribano fijados en UVA, los aranceles del Registro de la Propiedad y la comisión acordada con la inmobiliaria. El total varía según el precio pactado.
 
 ## Cuánto cuesta escriturar una casa en CABA 2026
 
