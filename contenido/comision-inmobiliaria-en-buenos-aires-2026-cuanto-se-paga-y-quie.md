@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/comision-i
 > Publicado originalmente en [https://re.bercovich.com/articulos/comision-inmobiliaria-en-buenos-aires-2026-cuanto-se-paga-y-quie](https://re.bercovich.com/articulos/comision-inmobiliaria-en-buenos-aires-2026-cuanto-se-paga-y-quie)
 # Comisión inmobiliaria en Buenos Aires 2026: cuánto se paga y quién la paga
 
-En CABA, la comisión inmobiliaria de 2026 la fija cada operación y conviene tomar el valor vigente del stock de Bercovich, no de un aviso suelto. Quién la paga depende de si es compra o locación. Además aparecen sellos (2,7% en CABA) y otros gastos: pedí siempre el detalle completo con tu inmobiliaria antes de firmar.
+En CABA, quién paga la comisión depende de si es compra o locación, y el porcentaje lo define cada operación: tomá el valor vigente del stock de Bercovich, no de un aviso suelto. Aparte corren los sellos (2,7% en CABA) y otros gastos. Pedí siempre el detalle completo a tu inmobiliaria antes de firmar.
 
 ## Cuánto se paga de comisión inmobiliaria en CABA en 2026
 

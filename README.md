@@ -2,8 +2,10 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [precio-del-m-en-caba-en-septiembre-2026-datos-y-tendencias](contenido/precio-del-m-en-caba-en-septiembre-2026-datos-y-tendencias.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-septiembre-2026-datos-y-tendencias
 - [cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026](contenido/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026.md) → https://re.bercovich.com/articulos/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026
 - [conviene-comprar-o-alquilar-en-argentina-2026-analisis-de-costo](contenido/conviene-comprar-o-alquilar-en-argentina-2026-analisis-de-costo.md) → https://re.bercovich.com/articulos/conviene-comprar-o-alquilar-en-argentina-2026-analisis-de-costo
+- [index-zonaprop-caba-2026-barrios-con-mayor-suba-del-m](contenido/index-zonaprop-caba-2026-barrios-con-mayor-suba-del-m.md) → https://re.bercovich.com/articulos/index-zonaprop-caba-2026-barrios-con-mayor-suba-del-m
 - [departamentos-en-venta-en-recoleta-y-barrio-norte-precios-plusva](contenido/departamentos-en-venta-en-recoleta-y-barrio-norte-precios-plusva.md) → https://re.bercovich.com/articulos/departamentos-en-venta-en-recoleta-y-barrio-norte-precios-plusva
 - [rentabilidad-de-un-departamento-en-caba-2026-retorno-neto](contenido/rentabilidad-de-un-departamento-en-caba-2026-retorno-neto.md) → https://re.bercovich.com/articulos/rentabilidad-de-un-departamento-en-caba-2026-retorno-neto
 - [departamentos-en-venta-en-palermo-chico-2026-precios-por-m-plusv](contenido/departamentos-en-venta-en-palermo-chico-2026-precios-por-m-plusv.md) → https://re.bercovich.com/articulos/departamentos-en-venta-en-palermo-chico-2026-precios-por-m-plusv
@@ -23,6 +25,7 @@ Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.ber
 - [locales-en-venta-villa-urquiza-2026-precios-y-rentabilidad](contenido/locales-en-venta-villa-urquiza-2026-precios-y-rentabilidad.md) → https://re.bercovich.com/articulos/locales-en-venta-villa-urquiza-2026-precios-y-rentabilidad
 - [en-que-barrio-de-caba-conviene-comprar-departamento-en-2026-ana](contenido/en-que-barrio-de-caba-conviene-comprar-departamento-en-2026-ana.md) → https://re.bercovich.com/articulos/en-que-barrio-de-caba-conviene-comprar-departamento-en-2026-ana
 - [cuanto-cuesta-un-departamento-en-palermo-en-2026-guia-de-precio](contenido/cuanto-cuesta-un-departamento-en-palermo-en-2026-guia-de-precio.md) → https://re.bercovich.com/articulos/cuanto-cuesta-un-departamento-en-palermo-en-2026-guia-de-precio
+- [locales-en-venta-caba-barrios-demandados-y-como-fijar-precio](contenido/locales-en-venta-caba-barrios-demandados-y-como-fijar-precio.md) → https://re.bercovich.com/articulos/locales-en-venta-caba-barrios-demandados-y-como-fijar-precio
 - [departamentos-en-venta-en-11-de-septiembre-al-1800-belgrano-que](contenido/departamentos-en-venta-en-11-de-septiembre-al-1800-belgrano-que.md) → https://re.bercovich.com/articulos/departamentos-en-venta-en-11-de-septiembre-al-1800-belgrano-que
 - [buenos-aires-luxury-real-estate-2026-guia-para-comprar-propiedad](contenido/buenos-aires-luxury-real-estate-2026-guia-para-comprar-propiedad.md) → https://re.bercovich.com/articulos/buenos-aires-luxury-real-estate-2026-guia-para-comprar-propiedad
 - [precio-del-m-en-caba-en-agosto-2026-que-barrios-lideraron-la-sub](contenido/precio-del-m-en-caba-en-agosto-2026-que-barrios-lideraron-la-sub.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-agosto-2026-que-barrios-lideraron-la-sub

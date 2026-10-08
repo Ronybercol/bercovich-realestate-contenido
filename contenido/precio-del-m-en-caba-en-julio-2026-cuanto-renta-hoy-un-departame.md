@@ -1,5 +1,5 @@
 ---
-title: "Precio del m² en CABA en julio 2026: cuánto renta hoy un departamento y en cuántos años se repaga con el alquiler, según Zonaprop"
+title: "Precio del m² en CABA en julio 2026: cuánto renta hoy un departamento y en cuántos años se repaga con el alquiler"
 canonical: "https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuanto-renta-hoy-un-departame"
 category: "mercado"
 date: "2026-08-21"
@@ -8,9 +8,9 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/precio-del
 ---
 
 > Publicado originalmente en [https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuanto-renta-hoy-un-departame](https://re.bercovich.com/articulos/precio-del-m-en-caba-en-julio-2026-cuanto-renta-hoy-un-departame)
-# Precio del m² en CABA en julio 2026: cuánto renta hoy un departamento y en cuántos años se repaga con el alquiler, según Zonaprop
+# Precio del m² en CABA en julio 2026: cuánto renta hoy un departamento y en cuántos años se repaga con el alquiler
 
-En julio de 2026, el precio del m² en CABA se ubicó en USD 2.471 según el Index CABA de Zonaprop. La suba mensual fue de 0,1% y la mejora anual, de 1,3%. Con esos valores, el mercado muestra estabilidad y permite calcular cuánto renta hoy un departamento y en cuántos años se repaga con el alquiler.
+Para saber cuánto renta un departamento en CABA, dividís el alquiler anual por el precio de venta: ese es el rendimiento bruto. El plazo de repago surge de dividir el precio por el alquiler anual. Con los valores de referencia por tipología podés estimar ambos datos para tu unidad y comparar monoambiente, dos y tres ambientes.
 
 ## Precio del m² en CABA en julio 2026: cuánto vale hoy según Zonaprop — Index CABA
 

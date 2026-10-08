@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/ph-o-depar
 > Publicado originalmente en [https://re.bercovich.com/articulos/ph-o-departamento-en-caba-diferencias-legales-de-expensas-y-de-r](https://re.bercovich.com/articulos/ph-o-departamento-en-caba-diferencias-legales-de-expensas-y-de-r)
 # PH o departamento en CABA: diferencias legales, de expensas y de reventa antes de comprar en 2026
 
-PH y departamento en CABA comparten el régimen de propiedad horizontal, pero cambian en el consorcio, el uso de partes comunes, las expensas y la reventa. La diferencia no está en la escritura, sino en cómo funciona cada edificio o complejo. Antes de comprar, revisá reglamento y expensas con inmobiliaria y escribano.
+PH y departamento en CABA son los dos propiedad horizontal: la diferencia real no está en la escritura, sino en el consorcio, el uso de las partes comunes, las expensas y la reventa. El PH suele tener administración más simple y el departamento una estructura más centralizada. Revisá reglamento y expensas con inmobiliaria y escribano antes de comprar.
 
 ## Diferencia ph y departamento argentina: qué es un PH y qué cambia en CABA
 

@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/guia-paso-
 > Publicado originalmente en [https://re.bercovich.com/articulos/guia-paso-a-paso-para-arba-pagar-impuesto-inmobiliario-al-vender](https://re.bercovich.com/articulos/guia-paso-a-paso-para-arba-pagar-impuesto-inmobiliario-al-vender)
 # Guía paso a paso para ARBA pagar impuesto inmobiliario al vender en CABA
 
-Para pagar el impuesto inmobiliario de ARBA al vender una propiedad en CABA, ingresá a ARBA Net con tu CUIT, cargá los datos del inmueble y generá la liquidación automática. Tenés 30 días corridos desde la firma del compromiso; el pago puede hacerse por débito automático o Banelco y al concluir descargá el comprobante para entregarlo al escribano.
+Como vendedor, cargá la liquidación y pagá el impuesto inmobiliario de ARBA desde ARBA Net con tu CUIT y clave fiscal antes de escriturar. Tenés 30 días corridos desde el compromiso de compraventa; elegí débito en cuenta o Banelco, descargá el comprobante y entregáselo al escribano y a la inmobiliaria que intervienen en la venta.
 
 ## Respuesta rápida: ¿Cómo pagar el impuesto inmobiliario de ARBA al vender en CABA?
 
