@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [cuantos-salarios-se-necesitan-para-comprar-un-departamento-en-c](contenido/cuantos-salarios-se-necesitan-para-comprar-un-departamento-en-c.md) → https://re.bercovich.com/articulos/cuantos-salarios-se-necesitan-para-comprar-un-departamento-en-c
 - [precio-del-m-en-caba-en-septiembre-2026-datos-y-tendencias](contenido/precio-del-m-en-caba-en-septiembre-2026-datos-y-tendencias.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-septiembre-2026-datos-y-tendencias
 - [cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026](contenido/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026.md) → https://re.bercovich.com/articulos/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026
 - [conviene-comprar-o-alquilar-en-argentina-2026-analisis-de-costo](contenido/conviene-comprar-o-alquilar-en-argentina-2026-analisis-de-costo.md) → https://re.bercovich.com/articulos/conviene-comprar-o-alquilar-en-argentina-2026-analisis-de-costo

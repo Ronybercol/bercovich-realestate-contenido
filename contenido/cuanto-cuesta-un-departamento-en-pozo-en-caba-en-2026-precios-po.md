@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/cuanto-cue
 > Publicado originalmente en [https://re.bercovich.com/articulos/cuanto-cuesta-un-departamento-en-pozo-en-caba-en-2026-precios-po](https://re.bercovich.com/articulos/cuanto-cuesta-un-departamento-en-pozo-en-caba-en-2026-precios-po)
 # Cuánto cuesta un departamento en pozo en CABA en 2026: precios por barrio y por etapa de obra
 
-En 2026 no hay un precio único: cuánto cuesta un depto en pozo en CABA depende del barrio, del metraje y de la etapa de obra. Conviene comparar el valor por m² y el avance del emprendimiento, porque una unidad en lanzamiento cuesta menos que una cerca de la entrega. Sumá los costos accesorios como el sello del 2,7%.
+En 2026 no hay un precio único: cuánto cuesta un depto en pozo en CABA depende del barrio, del metraje y de la etapa de obra. La clave es mirar el valor por m² y el avance del emprendimiento, porque una unidad en lanzamiento paga menos que una cerca de la entrega. Sumá el sello del 2,7%.
 
 ## Departamentos pozo CABA: cuánto cuesta hoy comprar en 2026
 

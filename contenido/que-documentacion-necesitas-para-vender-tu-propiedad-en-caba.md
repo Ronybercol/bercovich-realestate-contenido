@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/que-docume
 > Publicado originalmente en [https://re.bercovich.com/articulos/que-documentacion-necesitas-para-vender-tu-propiedad-en-caba](https://re.bercovich.com/articulos/que-documentacion-necesitas-para-vender-tu-propiedad-en-caba)
 # Qué documentación necesitás para vender tu propiedad en CABA
 
-Para vender una propiedad en CABA necesitás el título de propiedad (escritura), el reglamento de copropiedad si es un departamento, los planos, certificados de libre deuda de expensas y servicios, e impuestos al día (ABL, AySA). Tener todo en regla agiliza la firma del boleto y la escritura.
+Para vender en CABA necesitás el título de propiedad (escritura), el reglamento de copropiedad si es un departamento, los planos, los certificados de libre deuda de expensas y servicios, y los impuestos al día (ABL, AySA). Con la inmobiliaria y el escribano ordenás estos papeles antes del boleto y agilizás la firma.
 
 # Qué documentación necesitás para vender tu propiedad en CABA
 
