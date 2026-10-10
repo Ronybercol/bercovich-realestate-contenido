@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [precio-m-nunez-2026-cuanto-cuesta-un-depto-y-que-observar](contenido/precio-m-nunez-2026-cuanto-cuesta-un-depto-y-que-observar.md) → https://re.bercovich.com/articulos/precio-m-nunez-2026-cuanto-cuesta-un-depto-y-que-observar
 - [comparar-creditos-hipotecarios-que-observar-ademas-de-la-tasa](contenido/comparar-creditos-hipotecarios-que-observar-ademas-de-la-tasa.md) → https://re.bercovich.com/articulos/comparar-creditos-hipotecarios-que-observar-ademas-de-la-tasa
 - [cuantos-salarios-se-necesitan-para-comprar-un-departamento-en-c](contenido/cuantos-salarios-se-necesitan-para-comprar-un-departamento-en-c.md) → https://re.bercovich.com/articulos/cuantos-salarios-se-necesitan-para-comprar-un-departamento-en-c
 - [precio-del-m-en-caba-en-septiembre-2026-datos-y-tendencias](contenido/precio-del-m-en-caba-en-septiembre-2026-datos-y-tendencias.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-septiembre-2026-datos-y-tendencias
