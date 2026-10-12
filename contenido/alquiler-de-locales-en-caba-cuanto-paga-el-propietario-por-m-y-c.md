@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/alquiler-d
 > Publicado originalmente en [https://re.bercovich.com/articulos/alquiler-de-locales-en-caba-cuanto-paga-el-propietario-por-m-y-c](https://re.bercovich.com/articulos/alquiler-de-locales-en-caba-cuanto-paga-el-propietario-por-m-y-c)
 # Alquiler de locales en CABA: cuánto paga el propietario por m² y cómo calcular la rentabilidad en Balvanera
 
-En 2024 el precio de referencia de venta de un m² de local comercial en CABA es de USD 2 476, según Zonaprop. Los propietarios aplican un porcentaje sobre esa cifra, ajustado por la variación mensual y anual, el histórico del mercado y la tipología del inmueble, para definir el alquiler y estimar la rentabilidad en Balvanera.
+Para saber cuánto rinde un local en Balvanera se parte del valor de referencia de venta del m² en CABA y se le aplica el porcentaje de renta anual habitual. A ese cálculo se le restan la vacancia, los gastos y la variación del mercado para estimar la rentabilidad real que percibe el propietario.
 
 ## Cuánto se paga de alquiler de un local en CABA: precios por m² en 2024
 
