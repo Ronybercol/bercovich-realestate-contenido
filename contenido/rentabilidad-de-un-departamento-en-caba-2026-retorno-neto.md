@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/rentabilid
 > Publicado originalmente en [https://re.bercovich.com/articulos/rentabilidad-de-un-departamento-en-caba-2026-retorno-neto](https://re.bercovich.com/articulos/rentabilidad-de-un-departamento-en-caba-2026-retorno-neto)
 # Rentabilidad de un departamento en CABA 2026: retorno neto
 
-En 2026 la rentabilidad bruta promedio de un departamento en CABA es del 5,7 % anual. Después de descontar el impuesto de sellos, gastos comunes, mantenimiento y la plusvalía anual, la rentabilidad neta queda entre 4 % y 6 % al año. Este rango indica el verdadero retorno que puede esperarse al mantener la propiedad.
+¿Cuánto rinde un departamento en CABA en 2026? La rentabilidad bruta ronda el 5,7% anual, pero el retorno real es la neta: queda entre 4% y 6% una vez descontados el impuesto de sellos, las expensas, el mantenimiento y la plusvalía. Abajo tenés el cálculo paso a paso con un dos ambientes medio.
 
 ## Respuesta rápida: rentabilidad neta esperada de un departamento en CABA en 2026
 
