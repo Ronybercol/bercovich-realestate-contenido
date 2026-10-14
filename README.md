@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [sistema-de-amortizacion-frances-guia-paso-a-paso-para-financiar](contenido/sistema-de-amortizacion-frances-guia-paso-a-paso-para-financiar.md) → https://re.bercovich.com/articulos/sistema-de-amortizacion-frances-guia-paso-a-paso-para-financiar
 - [como-emprender-un-negocio-inmobiliario-en-caba-guia-paso-a-paso](contenido/como-emprender-un-negocio-inmobiliario-en-caba-guia-paso-a-paso.md) → https://re.bercovich.com/articulos/como-emprender-un-negocio-inmobiliario-en-caba-guia-paso-a-paso
 - [precio-m-nunez-2026-cuanto-cuesta-un-depto-y-que-observar](contenido/precio-m-nunez-2026-cuanto-cuesta-un-depto-y-que-observar.md) → https://re.bercovich.com/articulos/precio-m-nunez-2026-cuanto-cuesta-un-depto-y-que-observar
 - [comparar-creditos-hipotecarios-que-observar-ademas-de-la-tasa](contenido/comparar-creditos-hipotecarios-que-observar-ademas-de-la-tasa.md) → https://re.bercovich.com/articulos/comparar-creditos-hipotecarios-que-observar-ademas-de-la-tasa

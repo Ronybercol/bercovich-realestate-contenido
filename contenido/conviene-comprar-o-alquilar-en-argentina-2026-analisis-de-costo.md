@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/conviene-c
 > Publicado originalmente en [https://re.bercovich.com/articulos/conviene-comprar-o-alquilar-en-argentina-2026-analisis-de-costo](https://re.bercovich.com/articulos/conviene-comprar-o-alquilar-en-argentina-2026-analisis-de-costo)
 # ¿Conviene comprar o alquilar en Argentina 2026? Análisis de costos y rentabilidad en CABA
 
-En 2026, comprar un depto en CABA cuesta USD 131 000, con impuestos y una rentabilidad bruta del 5,7 % que requiere 17,6 años para recuperar la inversión; alquilar elimina el gasto inicial pero implica pagos mensuales y está influido por la inflación y la variación de la UVA. La decisión depende de tu horizonte y tolerancia al riesgo.
+En CABA 2026, comprar un 2 ambientes conviene si tu horizonte supera los años que la inversión tarda en recuperarse frente al alquiler: hoy ronda los 17,6 años, con una rentabilidad bruta cercana al 5,7%. Si pensás quedarte menos tiempo o priorizás liquidez, alquilar rinde mejor. Operá siempre con inmobiliaria y escribano.
 
 ## Respuesta directa: ¿conviene comprar o alquilar en Argentina 2026 en CABA?
 
