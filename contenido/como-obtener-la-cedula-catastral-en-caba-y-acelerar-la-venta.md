@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/como-obten
 > Publicado originalmente en [https://re.bercovich.com/articulos/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta](https://re.bercovich.com/articulos/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta)
 # Cómo obtener la cédula catastral en CABA y acelerar la venta
 
-Una cédula catastral es el documento oficial que certifica la superficie, linderos y datos catastrales de tu inmueble en CABA; sin ella la venta se complica, pues compradores, inmobiliarias y escribanos la exigen para validar la seguridad jurídica, calcular impuestos y fijar precios de mercado.
+Para sacar la cédula catastral en CABA necesitás la partida inmobiliaria, los datos del titular y la documentación del inmueble, y se tramita ante el catastro de la Ciudad. El plazo depende del tipo de solicitud. Tu inmobiliaria y el escribano la usan para validar superficie, linderos y seguridad jurídica antes de escriturar.
 
 ## ¿Qué es la cédula catastral y su importancia en la venta de inmuebles en CABA?
 

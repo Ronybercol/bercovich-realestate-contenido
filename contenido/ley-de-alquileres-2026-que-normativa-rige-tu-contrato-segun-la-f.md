@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/ley-de-alq
 > Publicado originalmente en [https://re.bercovich.com/articulos/ley-de-alquileres-2026-que-normativa-rige-tu-contrato-segun-la-f](https://re.bercovich.com/articulos/ley-de-alquileres-2026-que-normativa-rige-tu-contrato-segun-la-f)
 # Ley de alquileres 2026: qué normativa rige tu contrato según la fecha de firma
 
-En 2026, la ley que rige tu alquiler depende de la fecha de firma: los contratos previos al DNU 70/23 se mantienen bajo la Ley 27.551, mientras que los firmados posteriormente se rigen por el Código Civil y la autonomía de la voluntad, siempre bajo el asesoramiento profesional de tu inmobiliaria.
+La ley depende de la fecha de firma ante escribano. Si firmaste antes de diciembre de 2023, tu contrato sigue bajo la Ley 27.551, con sus plazos e índices. Si lo firmaste después, rige el Código Civil y lo que pactaron las partes: plazo, índice y moneda, siempre con tu inmobiliaria asesorando.
 
 ## ¿Qué ley de alquileres 2026 rige tu contrato?
 

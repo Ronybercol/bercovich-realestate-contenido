@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/cuanto-cue
 > Publicado originalmente en [https://re.bercovich.com/articulos/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026](https://re.bercovich.com/articulos/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026)
 # ¿Cuánto cuesta una escritura en CABA tras RDLey 26/2026?
 
-Tras la derogación del RDLey 26/2026, el costo de escriturar en CABA incluye el impuesto de sellos del 2,7 % del precio, los honorarios del escribano y los gastos registrales, cuyos montos dependen de los aranceles vigentes; si la operación está exenta, sólo se pagan los honorarios y los gastos registrales.
+Al escriturar un inmueble en CABA pagás tres partidas obligatorias: el impuesto de sellos, los honorarios del escribano y los gastos registrales. El impuesto de sellos tiene una alícuota sobre el valor de la operación, con exención para la vivienda única de uso permanente hasta el tope vigente. Si hay exención, solo abonás honorarios y gastos registrales.
 
 ## Respuesta inmediata: ¿cuánto sale una escritura en CABA tras la derogación del RDLey 26/2026?
 

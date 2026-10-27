@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/los-7-barr
 > Publicado originalmente en [https://re.bercovich.com/articulos/los-7-barrios-mas-baratos-de-caba-para-comprar-en-2026](https://re.bercovich.com/articulos/los-7-barrios-mas-baratos-de-caba-para-comprar-en-2026)
 # Los 7 barrios más baratos de CABA para comprar en 2026
 
-En 2026, los barrios más baratos de CABA para comprar departamento son Liniers, Villa Lugano, Villa Riachuelo, Villa Soldati, Mataderos, Flores y Versalles. Los siete cotizan por debajo del precio medio de la ciudad, lo que los ubica en la franja más económica del mercado porteño para quien busca invertir con menos capital.
+En 2026 los barrios más económicos de la Ciudad Autónoma de Buenos Aires para adquirir un departamento son Liniers, Villa Lugano, Villa Riachuelo, Villa Soldati, Mataderos, Flores y Versalles. Todos están por debajo del precio medio de la ciudad, que es de USD 2 476 por m².
 
 ## Ranking de los 7 barrios más baratos de CABA para comprar en 2026
 

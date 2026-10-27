@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/country-o-
 > Publicado originalmente en [https://re.bercovich.com/articulos/country-o-barrio-cerrado-diferencias-y-que-conviene-para-comprar](https://re.bercovich.com/articulos/country-o-barrio-cerrado-diferencias-y-que-conviene-para-comprar)
 # Country o barrio cerrado: diferencias y qué conviene para comprar un terreno en zona norte en 2026
 
-Country y barrio cerrado no son lo mismo: se diferencian en escala, diseño, régimen legal, expensas y perfil de uso. Para comprar un terreno en zona norte en 2026, el barrio cerrado suele ofrecer más flexibilidad y mejor potencial de reventa, mientras que el country apunta a un formato más club y reglado.
+Si comprás un terreno para construir y pensar en reventa, el barrio cerrado suele convenir: trazado más simple, lotes más adaptables, expensas más contenidas y una demanda más amplia. El country apunta a una vida más club, reglada y con amenities, pensada para uso recreativo o familiar más que para flexibilidad y reventa.
 
 ## Countries vs barrios cerrados diferencia: qué cambia en escala, diseño y vida cotidiana
 
