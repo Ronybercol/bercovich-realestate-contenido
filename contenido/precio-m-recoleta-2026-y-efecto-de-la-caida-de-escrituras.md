@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/precio-m-r
 > Publicado originalmente en [https://re.bercovich.com/articulos/precio-m-recoleta-2026-y-efecto-de-la-caida-de-escrituras](https://re.bercovich.com/articulos/precio-m-recoleta-2026-y-efecto-de-la-caida-de-escrituras)
 # Precio m² Recoleta 2026 y efecto de la caída de escrituras
 
-En agosto de 2026 el precio promedio del metro cuadrado de departamento en Recoleta es USD 2 476, apenas un 0,2 % más que el mes anterior y 1,1 % en lo que va del año. La caída interanual del –9 % en el volumen de escrituras ha reducido la demanda, presionando los precios a la baja.
+En agosto de 2026 el m² de departamento en Recoleta promedia USD 2.476 y prácticamente no se mueve: apenas +0,2% mensual y +1,1% en lo que va del año. El motivo es la caída del 9% interanual en escrituras, que redujo la demanda y frenó cualquier suba de precios.
 
 ## Departamentos en venta en Recoleta: precios y tendencia 2026
 

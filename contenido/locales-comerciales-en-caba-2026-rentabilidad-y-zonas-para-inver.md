@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/locales-co
 > Publicado originalmente en [https://re.bercovich.com/articulos/locales-comerciales-en-caba-2026-rentabilidad-y-zonas-para-inver](https://re.bercovich.com/articulos/locales-comerciales-en-caba-2026-rentabilidad-y-zonas-para-inver)
 # Locales comerciales en CABA 2026: rentabilidad y zonas para invertir
 
-Invertir en un local comercial en CABA en 2026 puede ser una buena decisión si priorizás ubicación, flujo peatonal, rubro, contrato y riesgo de vacancia. La rentabilidad no depende solo del inmueble, sino del encastre comercial del punto. Frente al departamento, ofrece un perfil distinto de renta y riesgo.
+Un local comercial en CABA en 2026 conviene cuando el punto tracciona demanda real. La rentabilidad la define más la ubicación que el ladrillo: pesan el flujo peatonal, el rubro, el contrato y el riesgo de vacancia. Frente al departamento ofrece otro perfil de renta y riesgo, con el respaldo de inmobiliaria y escribano.
 
 ## ¿Conviene invertir en un local comercial en CABA en 2026?
 
