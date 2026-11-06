@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/cuanto-sub
 > Publicado originalmente en [https://re.bercovich.com/articulos/cuanto-subio-la-cuota-de-un-credito-uva-en-el-ultimo-ano](https://re.bercovich.com/articulos/cuanto-subio-la-cuota-de-un-credito-uva-en-el-ultimo-ano)
 # Cuánto subió la cuota de un crédito UVA en el último año
 
-En los últimos 12 meses la cuota de un crédito UVA subió aproximadamente un 33 %, pasando de $500 000 a $666 680. La UVA aumentó de $1.528,41 a $2.037,92 (variación +33,3 %) y a $2.076,82 al momento, superando incluso la evolución del dólar argentino.
+En los últimos doce meses la cuota de un crédito UVA subió alrededor de 33 %: una obligación de $500.000 pasó a costar unos $666.680, siguiendo la suba de la UVA que fija el BCRA. Ese ajuste incluso le ganó a la evolución del dólar, así que en términos reales la deuda también se encareció.
 
 ## Respuesta rápida: cuánto subió la cuota UVA en el último año
 
