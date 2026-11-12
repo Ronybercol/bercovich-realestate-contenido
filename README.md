@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [comprar-departamento-en-puerto-madero-cuanto-cuesta-el-m-en-2026](contenido/comprar-departamento-en-puerto-madero-cuanto-cuesta-el-m-en-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-puerto-madero-cuanto-cuesta-el-m-en-2026
 - [precio-del-m-en-caba-octubre-2026-barrios-lideres-y-consecuencia](contenido/precio-del-m-en-caba-octubre-2026-barrios-lideres-y-consecuencia.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-octubre-2026-barrios-lideres-y-consecuencia
 - [como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta](contenido/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta.md) → https://re.bercovich.com/articulos/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta
 - [sistema-de-amortizacion-frances-guia-paso-a-paso-para-financiar](contenido/sistema-de-amortizacion-frances-guia-paso-a-paso-para-financiar.md) → https://re.bercovich.com/articulos/sistema-de-amortizacion-frances-guia-paso-a-paso-para-financiar
