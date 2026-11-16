@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/index-zona
 > Publicado originalmente en [https://re.bercovich.com/articulos/index-zonaprop-caba-2026-barrios-con-mayor-suba-del-m](https://re.bercovich.com/articulos/index-zonaprop-caba-2026-barrios-con-mayor-suba-del-m)
 # Index Zonaprop CABA 2026: barrios con mayor suba del m²
 
-El Index Zonaprop CABA 2026 indica que el precio medio del metro cuadrado se ubicó en USD 2 476, con una variación mensual de +0,2 % y un acumulado anual de +1,1 %. Los barrios que mostraron la mayor subida fueron los que superaron esa media, señalando oportunidades distintas para compradores y vendedores.
+En CABA el m² ronda los USD 2.476 en 2026, con una suba mensual de +0,2 % y +1,1 % anual. Los barrios que más subieron son los que superaron esa media: ahí el vendedor tiene margen y el comprador paga la prima del momento. Conviene evaluar cada zona con una inmobiliaria antes de decidir.
 
 ## ¿Qué muestra el Index Zonaprop CABA 2026 al precio m²?
 
