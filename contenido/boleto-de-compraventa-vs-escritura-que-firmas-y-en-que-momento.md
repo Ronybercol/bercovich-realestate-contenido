@@ -10,7 +10,7 @@ source: "Bercovich Real Estate — https://re.bercovich.com/articulos/boleto-de-
 > Publicado originalmente en [https://re.bercovich.com/articulos/boleto-de-compraventa-vs-escritura-que-firmas-y-en-que-momento](https://re.bercovich.com/articulos/boleto-de-compraventa-vs-escritura-que-firmas-y-en-que-momento)
 # Boleto de compraventa vs escritura: qué firmás y en qué momento
 
-El boleto de compraventa es un contrato privado que fija precio, condiciones y plazo, mientras la escritura es el acto público ante escribano que transfiere la propiedad e inscribe el dominio. Primero se firma el boleto y luego se escritura.
+El boleto de compraventa es el contrato privado que se firma primero: fija precio, seña, plazos y condiciones. La escritura llega después, es el acto público ante escribano que transfiere la propiedad e inscribe el dominio a tu nombre. Operá siempre con inmobiliaria y escribano.
 
 # Boleto de compraventa vs escritura: qué firmás y en qué momento
 
