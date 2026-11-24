@@ -2,7 +2,9 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar](contenido/monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar.md) → https://re.bercovich.com/articulos/monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar
 - [reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026](contenido/reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026.md) → https://re.bercovich.com/articulos/reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026
+- [precio-m-villa-crespo-2026-usd-2-484-segun-indice-zonaprop](contenido/precio-m-villa-crespo-2026-usd-2-484-segun-indice-zonaprop.md) → https://re.bercovich.com/articulos/precio-m-villa-crespo-2026-usd-2-484-segun-indice-zonaprop
 - [comprar-departamento-en-bariloche-vs-caba-que-poner-sobre-la-mes](contenido/comprar-departamento-en-bariloche-vs-caba-que-poner-sobre-la-mes.md) → https://re.bercovich.com/articulos/comprar-departamento-en-bariloche-vs-caba-que-poner-sobre-la-mes
 - [que-significa-comprar-un-departamento-en-pozo-caba-boleto-y-escr](contenido/que-significa-comprar-un-departamento-en-pozo-caba-boleto-y-escr.md) → https://re.bercovich.com/articulos/que-significa-comprar-un-departamento-en-pozo-caba-boleto-y-escr
 - [comprar-departamento-en-puerto-madero-cuanto-cuesta-el-m-en-2026](contenido/comprar-departamento-en-puerto-madero-cuanto-cuesta-el-m-en-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-puerto-madero-cuanto-cuesta-el-m-en-2026
