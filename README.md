@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026](contenido/reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026.md) → https://re.bercovich.com/articulos/reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026
 - [comprar-departamento-en-bariloche-vs-caba-que-poner-sobre-la-mes](contenido/comprar-departamento-en-bariloche-vs-caba-que-poner-sobre-la-mes.md) → https://re.bercovich.com/articulos/comprar-departamento-en-bariloche-vs-caba-que-poner-sobre-la-mes
 - [que-significa-comprar-un-departamento-en-pozo-caba-boleto-y-escr](contenido/que-significa-comprar-un-departamento-en-pozo-caba-boleto-y-escr.md) → https://re.bercovich.com/articulos/que-significa-comprar-un-departamento-en-pozo-caba-boleto-y-escr
 - [comprar-departamento-en-puerto-madero-cuanto-cuesta-el-m-en-2026](contenido/comprar-departamento-en-puerto-madero-cuanto-cuesta-el-m-en-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-puerto-madero-cuanto-cuesta-el-m-en-2026
