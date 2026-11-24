@@ -4,6 +4,8 @@ Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.ber
 
 - [monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar](contenido/monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar.md) → https://re.bercovich.com/articulos/monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar
 - [reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026](contenido/reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026.md) → https://re.bercovich.com/articulos/reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026
+- [countries-pilar-comparativa-para-comprar-lote-en-2026](contenido/countries-pilar-comparativa-para-comprar-lote-en-2026.md) → https://re.bercovich.com/articulos/countries-pilar-comparativa-para-comprar-lote-en-2026
+- [cuanto-cuesta-comprar-un-departamento-en-argentina-precio-m-y-ga](contenido/cuanto-cuesta-comprar-un-departamento-en-argentina-precio-m-y-ga.md) → https://re.bercovich.com/articulos/cuanto-cuesta-comprar-un-departamento-en-argentina-precio-m-y-ga
 - [precio-m-de-casas-en-villa-devoto-2026-que-se-consigue-y-barrio](contenido/precio-m-de-casas-en-villa-devoto-2026-que-se-consigue-y-barrio.md) → https://re.bercovich.com/articulos/precio-m-de-casas-en-villa-devoto-2026-que-se-consigue-y-barrio
 - [conviene-comprar-departamento-en-pozo-en-caba-en-2026](contenido/conviene-comprar-departamento-en-pozo-en-caba-en-2026.md) → https://re.bercovich.com/articulos/conviene-comprar-departamento-en-pozo-en-caba-en-2026
 - [departamentos-en-venta-en-av-cordoba-al-2700-balvanera-caba-2026](contenido/departamentos-en-venta-en-av-cordoba-al-2700-balvanera-caba-2026.md) → https://re.bercovich.com/articulos/departamentos-en-venta-en-av-cordoba-al-2700-balvanera-caba-2026
