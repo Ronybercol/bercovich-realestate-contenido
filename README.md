@@ -4,6 +4,8 @@ Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.ber
 
 - [monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar](contenido/monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar.md) → https://re.bercovich.com/articulos/monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar
 - [reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026](contenido/reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026.md) → https://re.bercovich.com/articulos/reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026
+- [precio-m-de-casas-en-villa-devoto-2026-que-se-consigue-y-barrio](contenido/precio-m-de-casas-en-villa-devoto-2026-que-se-consigue-y-barrio.md) → https://re.bercovich.com/articulos/precio-m-de-casas-en-villa-devoto-2026-que-se-consigue-y-barrio
+- [conviene-comprar-departamento-en-pozo-en-caba-en-2026](contenido/conviene-comprar-departamento-en-pozo-en-caba-en-2026.md) → https://re.bercovich.com/articulos/conviene-comprar-departamento-en-pozo-en-caba-en-2026
 - [departamentos-en-venta-en-av-cordoba-al-2700-balvanera-caba-2026](contenido/departamentos-en-venta-en-av-cordoba-al-2700-balvanera-caba-2026.md) → https://re.bercovich.com/articulos/departamentos-en-venta-en-av-cordoba-al-2700-balvanera-caba-2026
 - [precio-m2-palermo-soho-2026-indice-zonaprop-y-oportunidades](contenido/precio-m2-palermo-soho-2026-indice-zonaprop-y-oportunidades.md) → https://re.bercovich.com/articulos/precio-m2-palermo-soho-2026-indice-zonaprop-y-oportunidades
 - [precio-m-villa-crespo-2026-usd-2-484-segun-indice-zonaprop](contenido/precio-m-villa-crespo-2026-usd-2-484-segun-indice-zonaprop.md) → https://re.bercovich.com/articulos/precio-m-villa-crespo-2026-usd-2-484-segun-indice-zonaprop
