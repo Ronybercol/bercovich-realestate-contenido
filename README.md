@@ -2,6 +2,7 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [permisos-para-remodelar-un-departamento-en-caba-2026-aviso-de-ob](contenido/permisos-para-remodelar-un-departamento-en-caba-2026-aviso-de-ob.md) → https://re.bercovich.com/articulos/permisos-para-remodelar-un-departamento-en-caba-2026-aviso-de-ob
 - [monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar](contenido/monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar.md) → https://re.bercovich.com/articulos/monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar
 - [reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026](contenido/reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026.md) → https://re.bercovich.com/articulos/reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026
 - [countries-pilar-comparativa-para-comprar-lote-en-2026](contenido/countries-pilar-comparativa-para-comprar-lote-en-2026.md) → https://re.bercovich.com/articulos/countries-pilar-comparativa-para-comprar-lote-en-2026
