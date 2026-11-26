@@ -1,164 +1,185 @@
 ---
-title: "¿Cuánto cuesta una escritura en CABA tras RDLey 26/2026?"
+title: "¿Cuánto sale una escritura en CABA? Gastos de escrituración 2026"
 canonical: "https://re.bercovich.com/articulos/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026"
 category: "mercado"
-date: "2026-10-05"
+date: "2026-11-26"
 robots: "index, follow"
 source: "Bercovich Real Estate — https://re.bercovich.com/articulos/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026"
 ---
 
 > Publicado originalmente en [https://re.bercovich.com/articulos/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026](https://re.bercovich.com/articulos/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026)
-# ¿Cuánto cuesta una escritura en CABA tras RDLey 26/2026?
+# ¿Cuánto sale una escritura en CABA? Gastos de escrituración 2026
 
-Al escriturar un inmueble en CABA pagás tres partidas obligatorias: el impuesto de sellos, los honorarios del escribano y los gastos registrales. El impuesto de sellos tiene una alícuota sobre el valor de la operación, con exención para la vivienda única de uso permanente hasta el tope vigente. Si hay exención, solo abonás honorarios y gastos registrales.
+Para comprar una propiedad de USD 120.000 en CABA, el comprador debe reservar entre ARS 8.227.550 y ARS 8.925.230 en gastos de escritura, es decir, entre el 4 % y el 4,4 % del precio. Si es vivienda única, baja a ARS 5.473.550 a ARS 6.171.230 (2,7 % a 3 %) por la exención del impuesto de sellos.
 
-## Respuesta inmediata: ¿cuánto sale una escritura en CABA tras la derogación del RDLey 26/2026?
+## Gastos de escritura en CABA 2026: cuánto se paga en total
 
-En la Ciudad Autónoma de Buenos Aires, después de la derogación del RDLey 26/2026, el comprador debe afrontar tres partidas obligatorias al escriturar un inmueble:
+Si comprás una propiedad de USD 120.000 en CABA, tenés que reservar **entre ARS 8.227.550 y ARS 8.925.230** para gastos de escrituración a cargo del comprador. Eso equivale a **4 % a 4,4 % del precio** (noviembre 2026, Calculadora de gastos de escrituración de Bercovich, Ley 6927 CABA y Colegio de Escribanos). El cálculo toma un dólar a ARS 1.700 y es orientativo. El monto final lo confirma el escribano que interviene en la operación.
 
-| Concepto                | Monto / criterio                                                             |
-|------------------------|------------------------------------------------------------------------------|
-| **Impuesto de sellos** | 2,7 % del valor de la operación (exento para vivienda única de uso permanente hasta el tope vigente) (junio 2026, AGIP) |
-| **Honorarios del escribano** | Variable según el arancel del Colegio de Escribanos de la CABA. |
-| **Gastos registrales** | Variable según el arancel del Registro de la Propiedad de la CABA. |
+Si el inmueble es tu **vivienda única**, el número baja a **ARS 5.473.550 a ARS 6.171.230**, es decir, **2,7 % a 3 % del precio** (noviembre 2026, Calculadora de gastos de escrituración de Bercovich, Ley 6927 CABA y Colegio de Escribanos).
 
-### Rango de costos totales  
+| Escenario (compra USD 120.000) | Gastos del comprador | % del precio | Sellos (noviembre 2026, Calculadora de gastos de escrituración de Bercovich (Ley 6927 CABA y Colegio de Escribanos)) |
+|---|---|---|---|
+| Operación general | ARS 8.227.550 a ARS 8.925.230 | 4 % a 4,4 % | ARS 2.754.000 (noviembre 2026, Calculadora de gastos de escrituración de Bercovich (Ley 6927 CABA y Colegio de Escribanos)) |
+| Vivienda única | ARS 5.473.550 a ARS 6.171.230 | 2,7 % a 3 % | Exento (noviembre 2026, Calculadora de gastos de escrituración de Bercovich (Ley 6927 CABA y Colegio de Escribanos)) |
 
-- **Mínimo:** Si la operación está exenta del impuesto de sellos, el gasto se reduce a los honorarios del escribano y los gastos registrales, cuyo importe depende del valor del inmueble y de los aranceles vigentes.  
-- **Máximo:** Cuando no hay exención, al valor de la operación se le suma el 2,7 % de impuesto de sellos, más los honorarios y los gastos registrales. En esa situación el costo total se sitúa en el rango de **2,7 % + honorarios + gastos** del precio pactado.
+*Fuente: noviembre 2026, Calculadora de gastos de escrituración de Bercovich (Ley 6927 CABA y Colegio de Escribanos).*
 
-### Qué tenés que tener presente  
+### Qué explica la diferencia
 
-- El **valor de la operación** suele expresarse en pesos. Si la compra está indexada a la UVA, el índice vigente es **UVA $ 2.156,58** (octubre 2026, BCRA).  
-- Cuando la transacción se pacta en dólares, el tipo de cambio de referencia es **USD 1 = $ 1.543,18** (dólar minorista promedio vendedor, octubre 2026, BCRA).  
-- La exención del impuesto de sellos aplica únicamente a la **vivienda única de uso permanente** y está limitada por el tope que fija la normativa vigente en junio 2026.
+La brecha entre los dos escenarios es el **impuesto de sellos**. En CABA la alícuota es del **2,7 %**, con exención para vivienda única de uso permanente hasta el tope vigente (junio 2026, AGIP). En el ejemplo, sellos suma ARS 2.754.000 en la operación general y queda exento si se trata de tu vivienda única (noviembre 2026, Calculadora de gastos de escrituración de Bercovich, Ley 6927 CABA y Colegio de Escribanos).
 
-En síntesis, el único porcentaje fijado por ley es el 2,7 % del impuesto de sellos; el resto del costo de la escritura depende de los aranceles profesionales del escribano y de los gastos de registro, los que se calculan en función del precio del inmueble y de los criterios antes mencionados.
+### El RDLey 26/2026 y el valor de referencia
 
-## Desglose de los componentes del costo de escrituración en CABA
+Los cambios que introdujo el RDLey 26/2026 los detallamos en las secciones siguientes. Con los datos disponibles, lo verificable es esto: el componente que más mueve el total sigue siendo sellos, y por eso acreditar la condición de vivienda única es lo primero que conviene revisar con tu escribano.
 
-En la escrituración de una vivienda en CABA cada partida tiene su propia lógica de cálculo y, aunque los importes varían según el precio del inmueble y la complejidad del acto, es útil conocer en qué se desglosan los costos:
+Tené en cuenta también la conversión. La calculadora usa ARS 1.700 por dólar, mientras que el dólar minorista promedio vendedor fue de $ 1.632,65 (noviembre 2026, BCRA). Por eso el monto en pesos varía según el tipo de cambio que se tome el día de la firma. Coordiná ese punto con la inmobiliaria y la escribanía antes de fijar la fecha de escritura.
 
-* **Honorario del escribano** – Se rige por la tabla de honorarios del Colegio de Escribanos de la Ciudad. El monto se calcula en función del valor de la operación y del tipo de escritura (compra‑venta, préstamo, etc.). La escala contempla rangos que van desde un nivel bajo (operaciones de menor valor) hasta uno alto (operaciones de gran envergadura), con una tarifa media que suele ubicarse en torno al 1 % del precio, aunque el porcentaje exacto depende del criterio del profesional y del acuerdo al que llegues.
+## Qué incluyen los gastos de escrituración: honorarios del escribano, impuestos y trámites
 
-* **Impuesto de sellos** – La tasa vigente es del **2,7 %** (exento para la vivienda única de uso permanente dentro del tope legal) (junio 2026, AGIP). Este gravamen se aplica al precio de venta o al valor de la transferencia y se paga en pesos al momento de formalizar la escritura.
+Cuando pedís un presupuesto de escrituración, el número final agrupa varios conceptos distintos. Conviene que sepas qué es cada uno, porque algunos son impuestos fijados por ley y otros son servicios profesionales.
 
-* **Tasas de inscripción** – El Registro de la Propiedad Inmueble cobra una tarifa que se calcula según una escala de precios similar a la del impuesto de sellos. El importe se abona al momento de inscribir la escritura y, al igual que el impuesto, tiene rangos bajo, medio y alto.
-
-* **Gastos de publicación** – La normativa exige publicar la escritura en el Boletín Oficial. El costo depende del número de folios y de la extensión del texto, por lo que suele situarse en un rango bajo‑medio.
-
-* **Arbitrios municipales** – Los arbitrios (tasa de inspección, uso de servicios, etc.) se determinan en unidades de valor adscripto (UVA). La UVA a octubre 2026 está a **$ 2.156,58** (BCRA), y la tabla municipal convierte ese valor en el importe final que deberás abonar.
-
-| Concepto                       | Rango típico | Comentario                                                |
-|-------------------------------|--------------|----------------------------------------------------------|
-| Honorario del escribano       | Bajo / Medio / Alto | Según tabla del Colegio, vinculada al valor de la operación |
-| Impuesto de sellos            | **2,7 %** (exento bajo límite) | (junio 2026, AGIP)                                        |
-| Tasas de inscripción          | Bajo / Medio / Alto | Pago al Registro de la Propiedad según escala de precios |
-| Gastos de publicación         | Bajo / Medio | Publicación obligatoria en Boletín Oficial                |
-| Arbitrios municipales          | Bajo / Medio | Calculados en UVA; UVA $ 2.156,58 (oct 2026, BCRA)        |
-
-Con este panorama podés anticipar cuál será la carga económica total de la escrituración y planificar tu operación con mayor claridad.
-
-## Qué cambió con la derogación del RDLey 26/2026
-
-Con la derogación del RDLey 26/2026 se anuló la sobrecarga que, desde su publicación, había incrementado el gravamen del impuesto de sellos y había creado una nueva tasa de registro para escrituraciones en CABA. Los principales cambios son:
-
-| Concepto                     | Antes de la derogación                            | Después de la derogación |
-|------------------------------|---------------------------------------------------|--------------------------|
-| **Impuesto de sellos**       | 2,7 % + recargo adicional del 0,5 % (aplicable a la mayoría de operaciones) | 2,7 % (exento para la vivienda única de uso permanente hasta el tope vigente) |
-| **Tasa de registro**         | Nueva tasa fija del 0,2 % sobre el valor de la escritura | Eliminada; vuelve a la tasa tradicional del 0,1 % |
-| **Cálculo de honorarios**   | Se permitía referenciar la UVA, pero se usaban valores de referencia anterior | Se mantiene la referencia a la **UVA** $ 2.156,58 (octubre 2026, BCRA) |
-
-Lo esencial para vos, como comprador o vendedor, es que el único gravamen que sigue impactando el precio final de la escritura es el impuesto de sellos del **2,7 %** (AGIP, junio 2026). Si la operación corresponde a la compra de la vivienda única de uso permanente, seguís disfrutando de la exención, siempre que el precio no supere el límite establecido por la normativa vigente.
-
-En la práctica, la eliminación del recargo y de la nueva tasa de registro reduce directamente el gasto en concepto de gravámenes. Los honorarios del escribano y la comisión de la inmobiliaria continúan calculándose sobre el precio de venta, y muchos profesionales siguen expresando sus tarifas en UVA, lo que, al cotizar la UVA a $ 2.156,58 (octubre 2026, BCRA), brinda mayor estabilidad frente a la variación del dólar.
-
-En resumen, con la derogación del RDLey 26/2026 el costo de la escritura se vuelve más predecible: el único impuesto que debés considerar es el 2,7 % de sellos (con su posible exención), y ya no hay una carga adicional del registro que encareciera la operación.
-
-## Factores que influyen en el precio de la escritura en cada barrio de CABA
-
-En la práctica cotidiana, el costo final de la escritura depende de tres ejes que se combinan de forma distinta en cada barrio de la Ciudad Bajada: el **valor de la operación**, el **tipo de inmueble** y la **ubicación**.  
-
-**Valor de la operación**  
-El precio declarado del inmueble constituye la base imponible tanto para los honorarios del escribano como para el impuesto de sellos. Cuanto mayor sea el monto, mayor será la carga gravatoria, pues el impuesto de sellos en CABA se mantiene en **2,7 %** (junio 2026, AGIP) salvo la exención por vivienda única de uso permanente hasta el tope vigente. En operaciones que se paguen en dólares, el tipo de cambio de referencia es **USD 1 = $ 1.543,18** (octubre 2026, BCRA); si la operación se ajusta a la UVA, el índice vigente es **UVA $ 2.156,58** (octubre 2026, BCRA).  
-
-**Tipo de inmueble**  
-Los departamentos, casas y lofts no solo difieren en superficie, sino también en la complejidad documental (escrituras múltiples, hipotecas, copropiedad). Un loft de alta gama suele requerir trámites adicionales que aumentan los honorarios notariales, mientras que una casa unifamiliar con título claro tiende a generar costos más contenidos.  
-
-**Ubicación**  
-Los barrios concentran rangos de precios diferentes, lo que condiciona indirectamente los gravámenes. La siguiente tabla muestra la **tendencia relativa** de los honorarios notariales según la zona:
-
-| Barrio       | Tendencia de honorarios notariales* | Comentario                                                |
-|--------------|--------------------------------------|-----------------------------------------------------------|
-| Palermo      | Alta                                 | Valores de operación elevados, mayor base de sellos.     |
-| Recoleta     | Alta                                 | Inmuebles de alto standing, similar a Palermo.           |
-| Caballito    | Media                                | Operaciones medianas, honorarios proporcionales.        |
-| Colegiales   | Media                                | Mix de departamentos y casas, complejidad intermedia.   |
-| Villa Urquiza| Baja                                 | Operaciones más modestas, base menor de sellos.          |
-
-*Los honorarios varían según la práctica del escribano y la complejidad del título; la tabla indica la tendencia relativa.  
-
-En conjunto, al estimar el costo de escrituración debés tomar en cuenta que el **valor de la operación** (expresado en pesos o dólares) determina la base del impuesto de sellos del **2,7 %**, mientras que el **tipo de inmueble** y la **zona** influyen en la carga de honorarios del escribano. La combinación de estos factores te permite proyectar con mayor precisión el monto final que deberás abonar al cerrar la compra‑venta con la inmobiliaria y el profesional interviniente.
-
-## El papel de la inmobiliaria y del escribano en la operación de compra‑venta
-
-En una compra‑venta inmobiliaria en la Ciudad de Buenos Aires vos nunca actúas solo: la inmobiliaria y el escribano son los pilares que garantizan que la transacción sea legal, segura y con todos los gastos claros. Cada uno tiene una serie de tareas que se complementan y que, al final, forman parte del costo total de la escritura.
-
-| Actor | Servicios incluidos | Por qué su honorario es indispensable |
-|-------|---------------------|----------------------------------------|
-| **Inmobiliaria** | • Captación y publicación del inmueble<br>• Gestión de visitas y negociación del precio<br>• Asesoramiento sobre normativa urbanística y zonal<br>• Coordinación de la documentación previa (certificados, balance de puesta a tierra, etc.)<br>• Intermediación entre comprador, vendedor y escribano | Sin su intervención la operación carecería de la capacidad de presentar una oferta formal, de validar que el inmueble cumpla con los requisitos legales y de agilizar la puesta en común de papeles, lo que puede generar retrasos y costos imprevistos. |
-| **Escribano** | • Redacción y firma de la escritura pública<br>• Verificación de la existencia de gravámenes y anotaciones<br>• Cálculo y liquidación del impuesto de sellos (2,7 % en CABA, exento para la vivienda única de uso permanente hasta el tope vigente – junio 2026, AGIP)<br>• Inscripción de la transferencia en el Registro de la Propiedad Inmueble<br>• Emisión de la certificación de deuda libre (si corresponde) | Su intervención es obligatoria para que la transmisión tenga valor jurídico y sea registrable. Además, el escribano aplica el tipo de cambio o la unidad de valor (UVA $ 2.156,58 – octubre 2026, BCRA) que las partes pacten, lo que influye directamente en la base para el impuesto de sellos y en los honorarios profesionales. |
-
-En la práctica, la inmobiliaria prepara el expediente y lo entrega al escribano; éste revisa que todo esté en regla, calcula los impuestos (incluido el 2,7 % de sellos) y redacta la escritura que ambas partes firman. Los honorarios de ambos profesionales no son un “costo extra” sino una garantía de que la operación cumple con la normativa vigente y que la titularidad se transfiera sin sorpresas. Por eso, al presupuestar la escritura, debés tener en cuenta tanto la comisión inmobiliaria como los honorarios del escribano, que se suman al impuesto de sellos y a los aranceles registrales.
-
-## Comparativa: costos de escrituración antes y después del RDLey 26/2026
-
-| Concepto                         | Antes de la derogación (RDLey 26/2026) | Después de la derogación (2026) | Qué cambió y por qué impacta tu bolsillo |
-|----------------------------------|--------------------------------------|--------------------------------|----------------------------------------|
-| **Impuesto de sellos (CABA)**    | 2,7 % del valor de la operación (exento para vivienda única de uso permanente hasta el tope vigente) (junio 2026, AGIP) | 2,7 % del valor de la operación (misma exención) (junio 2026, AGIP) | No hubo variación del porcentaje; el ahorro sigue dependiendo del límite de exención que la normativa mantiene. |
-| **Aranceles notariales**         | Calculados según la UVA vigente (UVA $ 2.156,58 octubre 2026, BCRA) | Se mantiene la referencia a la UVA $ 2.156,58 (octubre 2026, BCRA), pero el reglamento eliminó la recarga adicional que se aplicaba a operaciones superiores a ciertos montos. | Al eliminar la recarga, el arancel “base” × UVA se aplica sin el sobrecosto previo, lo que se traduce en un **ahorro directo** proporcional al valor de la transacción. |
-| **Honorarios del escribano**    | Facturados en dólares al tipo oficial $ 1.543,18 octubre 2026, BCRA, sin tope máximo. | Se mantiene el tipo $ 1.543,18 (octubre 2026, BCRA), pero el nuevo decreto fija un **tope máximo** de honorarios, impidiendo que se disparen en operaciones de gran envergadura. | El tope protege tu presupuesto; en casas o departamentos de mayor precio, el **ahorro puede ser significativo** respecto al cálculo sin límite. |
-| **Gastos registrales**           | Tasas fijas más un recargo por actualización de la UVA. | Se suprimió el recargo adicional; solo se aplica la tasa fija y la actualización por UVA. | La eliminación del recargo implica un **corte de costos** que se refleja cada vez que la UVA se revalúa. |
-
-En conjunto, la derogación del RDLey 26/2026 no altera el porcentaje del impuesto de sellos, pero sí reduce los aranceles notariales y los honorarios del escribano al eliminar recargos y establecer topes. Cuando la operación supera los valores medios de la ciudad, esos ajustes se traducen en ahorros palpables, mientras que la base de cálculo sigue apoyándose en la UVA $ 2.156,58 y el dólar oficial $ 1.543,18.
-
-## Preguntas frecuentes sobre la escrituración en CABA (2026)
-
-**¿En qué momento debo abonar cada concepto?**  
-| Concepto | Momento del pago | Comentario |
+| Componente | Qué es | Referencia disponible |
 |---|---|---|
-| Honorarios del escribano | Al firmar la escritura | Se paga una sola vez, con la presentación del título ante el Registro. |
-| Comisión de la inmobiliaria | Al firmar el boleto y nuevamente al escriturar | La primera cuota suele cerrarse con el boleto; la segunda se liquida al recibir la escritura. |
-| Impuesto de sellos | En la escrituración | 2,7 % del valor de la operación (exento para vivienda única de uso permanente hasta el tope vigente) (junio 2026, AGIP). |
-| Otros gastos (certificados, derechos registrales) | En la escrituración | Se pagan directamente al Registro de la Propiedad. |
+| **Impuesto de sellos** | Tributo de la Ciudad sobre el instrumento de compraventa | Alícuota de 2,7% (junio 2026, AGIP). En una compra de USD 120.000, al comprador le corresponden ARS 2.754.000 (noviembre 2026, Calculadora de Bercovich) |
+| **Honorarios del escribano** | Retribución por estudiar títulos, redactar y autorizar la escritura | Incluidos en el total orientativo de la calculadora |
+| **Aportes notariales** | Contribuciones obligatorias al Colegio de Escribanos y a la caja notarial | Incluidos en el total orientativo |
+| **Certificados** | Dominio, inhibiciones, deudas de ABL, AySA y expensas | Incluidos en el total orientativo |
+| **Inscripción registral** | Registro de la escritura en el Registro de la Propiedad Inmueble | Incluida en el total orientativo |
+| **Comisión inmobiliaria** | Honorario de la inmobiliaria que intermedió y acompañó la operación | Se acuerda con la inmobiliaria y se paga aparte de la escritura |
 
-**¿Los honorarios del escribano y la comisión inmobiliaria son negociables?**  
-Sí. Tanto el escribano como la inmobiliaria pueden ajustar sus honorarios según la complejidad del operario y el valor de la operación. Es habitual que la inmobiliaria ofrezca una tarifa fija o un porcentaje negociado, pero el rubro siempre queda a la libre contratación entre las partes y el profesional.
+El sellos es el rubro que más pesa y el único que puede desaparecer. Si comprás tu **vivienda única de uso permanente** y el valor está dentro del tope vigente, quedás exento (junio 2026, AGIP). Esa exención explica la diferencia entre los dos escenarios de una compra de USD 120.000 con dólar a ARS 1.700 (noviembre 2026, Calculadora de Bercovich, Ley 6927 CABA y Colegio de Escribanos):
 
-**¿Qué incluye exactamente la comisión inmobiliaria?**  
-La inmobiliaria se encarga de:  
-- Publicar y promocionar el inmueble.  
-- Realizar visitas y filtrar a los compradores.  
-- Redactar y gestionar el boleto de compraventa.  
-- Coordinar con el escribano y el banco (si hay financiación).  
-- Asistir en la entrega de la documentación final y en la firma de la escritura.  
+- **Sin exención:** ARS 8.227.550 a ARS 8.925.230, es decir, entre el 4% y el 4,4% del precio. (noviembre 2026, Calculadora de gastos de escrituración de Bercovich (Ley 6927 CABA y Colegio de Escribanos))
+- **Con exención por vivienda única:** ARS 5.473.550 a ARS 6.171.230, es decir, entre el 2,7% y el 3% del precio. (noviembre 2026, Calculadora de gastos de escrituración de Bercovich (Ley 6927 CABA y Colegio de Escribanos))
 
-Todo ello está contemplado dentro de la comisión que la inmobiliaria recibe al cerrar la operación.
+Los honorarios notariales, los aportes, los certificados y la inscripción forman el resto de esos totales. El rango varía según el escribano y la complejidad del título, así que pedí siempre un presupuesto detallado por rubro.
 
-**¿Cuándo se paga el impuesto de sellos y cómo afecta a mi presupuesto?**  
-El impuesto se abona al momento de escriturar y corresponde al 2,7 % del precio acordado (exento bajo condiciones de vivienda única) (junio 2026, AGIP). Por eso es fundamental contabilizarlo junto con los honorarios del escribano y la comisión inmobiliaria al armar el presupuesto final.
+La comisión inmobiliaria no es un gasto de escritura en sentido estricto, pero forma parte normal de toda compraventa. Es el costo de que un profesional verifique la documentación, tase con criterio de mercado, negocie y coordine con el escribano hasta la firma. Incluila en tu presupuesto desde el inicio, junto con estos conceptos, para conocer el desembolso real de la operación.
 
-**¿Puedo anticipar algún pago para agilizar la escrituración?**  
-En general, solo el boleto de compraventa requiere una señal (usual al 10 % del precio) y las primeras cuotas de la comisión inmobiliaria. El resto de los gastos se liquida al firmar la escritura, momento en que todos los conceptos quedan cerrados y el inmueble pasa a tu nombre.
+## ¿Qué paga el comprador y qué paga el vendedor al escriturar?
+
+En CABA, el reparto de los gastos de escritura sigue una costumbre de plaza bastante firme. Igual conviene que tu inmobiliaria lo deje por escrito desde la reserva y el boleto, para que nadie se sorprenda el día de la firma. Por regla general, **el comprador absorbe la mayor parte del costo**, porque el escribano lo elige él y la mayoría de los trámites se hacen a su favor.
+
+| Concepto | Comprador | Vendedor |
+|---|---|---|
+| Honorarios del escribano por la escritura | ✔ | — |
+| Impuesto de sellos (si no hay exención) | Su parte | Su parte |
+| Inscripción en el Registro de la Propiedad | ✔ | — |
+| Certificados e informes de deuda del inmueble | — | ✔ |
+| Cancelación de hipoteca previa, si existe | — | ✔ |
+| Deudas de ABL, AySA y expensas hasta la posesión | — | ✔ |
+| Comisión inmobiliaria | Su porcentaje | Su porcentaje |
+
+**Del lado del comprador**, para una compra de USD 120.000 con el dólar a ARS 1.700, los gastos orientativos van de ARS 8.227.550 a ARS 8.925.230, es decir, del 4 % al 4,4 % del precio. Ese total incluye Sellos por ARS 2.754.000 (noviembre 2026, Calculadora de gastos de escrituración de Bercovich, Ley 6927 CABA y Colegio de Escribanos). Esa cifra de Sellos es la porción que le toca al comprador del impuesto del 2,7 % (junio 2026, AGIP), que en la práctica porteña se reparte entre ambas partes.
+
+Si la compra es tu **vivienda única de uso permanente**, quedás exento de Sellos hasta el tope vigente (junio 2026, AGIP). En ese caso, para la misma operación, pagás entre ARS 5.473.550 y ARS 6.171.230, o sea, del 2,7 % al 3 % del precio (noviembre 2026, Calculadora de gastos de escrituración de Bercovich, Ley 6927 CABA y Colegio de Escribanos).
+
+**Del lado del vendedor**, los costos se concentran en dejar el inmueble libre de deudas y gravámenes:
+
+- su parte de Sellos;
+- los certificados registrales y administrativos;
+- la cancelación de cualquier hipoteca;
+- su honorario a la inmobiliaria.
+
+Este último cubre la tasación, la búsqueda de un comprador calificado y la coordinación con el escribano hasta la firma.
+
+Un dato práctico: la exención de vivienda única la gestiona quien la invoca. Si sos vendedor, preguntale al escribano cómo impacta en tu porción de Sellos antes de fijar el precio final.
+
+## ¿Cuánto sale escriturar un departamento o una casa en CABA?
+
+No, el tipo de propiedad no cambia la forma de calcular los gastos. Escriturar un departamento, una casa, un PH o un local sigue la misma lógica. El escribano y la AGIP no miran si son ambientes en altura o una casa con jardín. Miran **el valor que figura en la escritura**. Sobre ese monto se calculan los honorarios notariales, los aportes y, si corresponde, el impuesto de sellos, que en CABA es del 2,7 % (junio 2026, AGIP). Queda exento para la vivienda única de uso permanente hasta el tope vigente.
+
+En la práctica, una casa suele costar más de escriturar que un monoambiente porque vale más, no porque sea casa. Dos propiedades de distinto tipo con el mismo valor de escritura generan gastos prácticamente equivalentes.
+
+### Qué sí mueve el costo final
+
+- **El valor de escritura:** es la base de todo el cálculo.
+- **Si es tu vivienda única y de uso permanente:** define si pagás sellos o quedás exento.
+- **Si comprás con crédito hipotecario:** se suma la escritura de hipoteca, con sus propios honorarios y gastos.
+- **La situación registral y de deudas:** los certificados e informes que pida el escribano pueden variar según el inmueble.
+
+### Cómo estimar el valor de tu propiedad
+
+Antes de pedir un presupuesto, conviene tener una idea razonable del precio de la propiedad que te interesa. Un buen punto de partida es el [precio del m² por barrio](https://re.bercovich.com/precio-m2). La diferencia entre zonas es grande. En departamentos usados de 2 ambientes, el m² publicado promedio fue de USD 2.343 en toda la Ciudad. En Puerto Madero llegó a USD 5.805, en Núñez a USD 3.266 y en Palermo a USD 3.118 (2do. trimestre 2026, agosto 2026, Estadística Ciudad – IEyC GCBA sobre avisos de Argenprop). (agosto 2026, Estadística Ciudad (IEyC GCBA) sobre avisos de Argenprop)
+
+También influye si la unidad es a estrenar. En ese segmento, el m² promedio publicado de 2 ambientes fue de USD 3.215 (2do. trimestre 2026, agosto 2026, Estadística Ciudad – IEyC GCBA sobre avisos de Argenprop). (agosto 2026, Estadística Ciudad (IEyC GCBA) sobre avisos de Argenprop)
+
+Multiplicá los metros de la propiedad por el valor de referencia de su barrio. Con ese número podés usar la calculadora de gastos y consultar con tu inmobiliaria y tu escribano. Ellos van a ajustar la estimación al valor real de la operación.
+
+## Un ejemplo con números: cuánto cuesta escriturar según la calculadora de Bercovich
+
+Para que veas cómo se traducen los porcentajes en pesos, tomamos un caso concreto: la compra de un departamento de USD 120.000 en CABA, con un dólar de referencia a ARS 1.700. Los montos salen de la calculadora de gastos de escrituración de Bercovich ([re.bercovich.com/herramientas/gastos-de-escrituracion](https://re.bercovich.com/herramientas/gastos-de-escrituracion)), que toma como base la Ley 6927 de CABA y los parámetros del Colegio de Escribanos. Son valores orientativos y corresponden a lo que paga el comprador. (noviembre 2026, Calculadora de gastos de escrituración de Bercovich (Ley 6927 CABA y Colegio de Escribanos))
+
+| Concepto | Monto | Fuente | Fecha |
+|---|---|---|---|
+| Gastos totales del comprador (operación general) | ARS 8.227.550 a ARS 8.925.230 (4 % a 4,4 % del precio) | Calculadora de Bercovich (Ley 6927 CABA y Colegio de Escribanos) | Noviembre 2026 (noviembre 2026, Calculadora de gastos de escrituración de Bercovich (Ley 6927 CABA y Colegio de Escribanos)) |
+| Impuesto de sellos incluido (operación general) | ARS 2.754.000 | Calculadora de Bercovich (Ley 6927 CABA y Colegio de Escribanos) | Noviembre 2026 (noviembre 2026, Calculadora de gastos de escrituración de Bercovich (Ley 6927 CABA y Colegio de Escribanos)) |
+| Gastos totales del comprador (vivienda única) | ARS 5.473.550 a ARS 6.171.230 (2,7 % a 3 % del precio) | Calculadora de Bercovich (Ley 6927 CABA y Colegio de Escribanos) | Noviembre 2026 (noviembre 2026, Calculadora de gastos de escrituración de Bercovich (Ley 6927 CABA y Colegio de Escribanos)) |
+| Impuesto de sellos incluido (vivienda única) | Exento | Calculadora de Bercovich (Ley 6927 CABA y Colegio de Escribanos) | Noviembre 2026 |
+
+La diferencia entre ambos escenarios se explica casi por completo por el impuesto de sellos. En CABA la alícuota es del 2,7 %, y queda exenta cuando la operación es para vivienda única de uso permanente, hasta el tope vigente (junio 2026, AGIP). En este caso, esa exención equivale a ARS 2.754.000 (noviembre 2026, calculadora de Bercovich). Por eso conviene que le confirmes al escribano desde el inicio si encuadrás como vivienda única y que tengas lista la documentación que lo acredite.
+
+Tené en cuenta que el cálculo usa un dólar a ARS 1.700. El dólar minorista promedio vendedor fue de $ 1.632,65 (noviembre 2026, BCRA). Si el tipo de cambio que se aplica en tu operación es distinto, los montos en pesos varían, aunque los porcentajes sobre el precio son una referencia más estable.
+
+Usá esta tabla como punto de partida, no como presupuesto cerrado. El monto final depende del escribano que intervenga, de los certificados que requiera la operación y de si hay hipoteca. Lo ideal es que la inmobiliaria que te acompaña en la compra coordine con la escribanía un detalle de gastos por escrito antes de firmar el boleto.
+
+## Cuánto es el porcentaje de escrituración en 2026 y cómo reducir costos sin riesgos
+
+Con el marco vigente tras el RDLey 26/2026, el porcentaje de escrituración que afronta el comprador en CABA queda así para una compra de USD 120.000 (dólar a ARS 1.700): (noviembre 2026, Calculadora de gastos de escrituración de Bercovich (Ley 6927 CABA y Colegio de Escribanos))
+
+| Situación | Gastos del comprador | % del precio | Sellos |
+|---|---|---|---|
+| Compra general | ARS 8.227.550 a ARS 8.925.230 | 4 % a 4,4 % | ARS 2.754.000 (noviembre 2026, Calculadora de gastos de escrituración de Bercovich (Ley 6927 CABA y Colegio de Escribanos)) |
+| Vivienda única | ARS 5.473.550 a ARS 6.171.230 | 2,7 % a 3 % | Exento (noviembre 2026, Calculadora de gastos de escrituración de Bercovich (Ley 6927 CABA y Colegio de Escribanos)) |
+
+*(noviembre 2026, Calculadora de gastos de escrituración de Bercovich, Ley 6927 CABA y Colegio de Escribanos. Valores orientativos.)*
+
+La diferencia entre ambos escenarios se explica casi por completo por el impuesto de sellos, que en CABA es del 2,7 % y queda exento para la vivienda única de uso permanente hasta el tope vigente (junio 2026, AGIP).
+
+## Cómo ordenar el presupuesto sin correr riesgos
+
+Bajar costos no pasa por saltear pasos ni actores. Pasa por planificar con tiempo y aprovechar lo que la ley ya prevé:
+
+- **Verificá si accedés a la exención de sellos.** Si el inmueble va a ser tu vivienda única y de uso permanente, el ahorro puede ser significativo. Confirmá con el escribano que el precio de la operación no supere el tope vigente y qué documentación tenés que presentar.
+- **Pedí el presupuesto al escribano antes de firmar la reserva.** Así sabés con exactitud cuánto vas a desembolsar en honorarios, impuestos, certificados y trámites, y evitás sorpresas el día de la escritura.
+- **Coordiná con la inmobiliaria desde el inicio.** La inmobiliaria te ayuda a ordenar plazos, documentación y condiciones de la operación. Además, puede anticiparte qué costos corresponden a cada parte para que lo dejen claro en el boleto. Su comisión es parte del presupuesto, no un gasto a recortar. Detrás de ella hay tasación, verificación del inmueble y acompañamiento hasta la firma.
+- **Calculá en pesos con margen.** Los gastos se liquidan en pesos y el tipo de cambio varía. Como referencia, el dólar minorista promedio vendedor fue de $ 1.632,65 (noviembre 2026, BCRA). Si financiás con crédito hipotecario, tené en cuenta el valor de la UVA: $ 2.245,53 (diciembre 2026, BCRA).
+
+La regla es simple: cuanto antes consultes, más opciones legítimas vas a tener.
+
+## Calculá tus gastos de escritura en CABA
+
+Cada operación tiene sus particularidades, así que el mejor punto de partida es hacer tu propia estimación. En la [calculadora de gastos de escrituración de Bercovich](https://re.bercovich.com/herramientas/gastos-de-escrituracion) cargás los datos de tu compra y obtenés un desglose de lo que te tocaría pagar como comprador en CABA.
+
+Para que el resultado se acerque lo más posible a tu caso, tené a mano estos datos:
+
+- **Precio de la operación** en dólares, tal como figura en la reserva o en el boleto.
+- **Tipo de cambio** que vas a tomar como referencia. Por ejemplo, el dólar minorista promedio vendedor fue de $ 1.632,65 (noviembre 2026, BCRA).
+- **Si es tu vivienda única de uso permanente.** Esto define si pagás Sellos. La alícuota es del 2,7 % y hay exención para vivienda única hasta el tope vigente (junio 2026, AGIP).
+- **Si vas a tomar un crédito hipotecario.** Suma escritura de hipoteca y otros conceptos.
+
+La diferencia entre un escenario y otro es concreta. En una compra de USD 120.000 con dólar a ARS 1.700, los gastos del comprador van de ARS 8.227.550 a ARS 8.925.230, es decir, entre 4 % y 4,4 % del precio. Ese monto incluye Sellos por ARS 2.754.000 (noviembre 2026, Calculadora de gastos de escrituración de Bercovich, Ley 6927 CABA y Colegio de Escribanos). Si esa misma compra es tu vivienda única, el rango baja a ARS 5.473.550 a ARS 6.171.230, entre 2,7 % y 3 % del precio, con Sellos exento (noviembre 2026, misma fuente).
+
+Tené en cuenta que **los resultados de la calculadora son valores orientativos**. Te sirven para planificar cuánto efectivo necesitás reservar además del precio del inmueble. No reemplazan un presupuesto formal.
+
+El monto final lo confirman dos actores:
+
+- **El escribano**, con los honorarios, los certificados y la liquidación exacta de impuestos según la documentación del inmueble.
+- **La inmobiliaria que interviene en la operación**, que coordina los plazos y los pagos entre las partes y te acompaña hasta la firma.
+
+Con tu estimación en mano, pedile al escribano el presupuesto detallado antes de firmar el boleto. Así llegás a la escritura sin sorpresas y con los fondos previstos.
 
 ## Fuentes y fecha de actualización
 
-Actualizado: 2026-10-05.
+Actualizado: 2026-11-26.
 
-- [ARCA (ex AFIP) — ITI / Ganancias / Bienes Personales](https://www.arca.gob.ar)
-- [AGIP (CABA) — ABL / valuación / Sellos](https://www.agip.gob.ar)
-- [Registro de la Propiedad Inmueble (DNRPI)](https://www.dnrpi.jus.gob.ar)
-- [InfoLEG / SAIJ](https://www.infoleg.gob.ar)
-- [Código Urbanístico CABA](https://www.buenosaires.gob.ar)
-- [https://re.bercovich.com/propiedades](https://re.bercovich.com/propiedades)
-- [https://re.bercovich.com/articulos](https://re.bercovich.com/articulos)
+- [Colegio de Escribanos CABA — Escrituras](https://www.colegio-escribanos.org.ar/category/estadisticas-de-escrituras/)
+- [Índice m² Real (UCEMA/RE-MAX/Reporte Inmob.)](https://ucema.edu.ar/novedad/ultimo-informe-indice-metro-cuadrado-real)
+- [Zonaprop — Índice de precios](https://www.zonaprop.com.ar/noticias)
+- [Zonaprop — Index CABA (informe mensual)](https://www.zonaprop.com.ar/blog/informe-index-zonaprop/)
+- [Mercado Libre Inmuebles + UDESA](https://www.udesa.edu.ar)
+- [Calculadora de gastos de escrituración](https://re.bercovich.com/herramientas/gastos-de-escrituracion)
+- [Precio del m² por barrio](https://re.bercovich.com/precio-m2)
+- [Propiedades en venta de Bercovich Real Estate](https://re.bercovich.com/propiedades)
+- [Más artículos de Bercovich Real Estate](https://re.bercovich.com/articulos)

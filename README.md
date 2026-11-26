@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta](contenido/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta.md) → https://re.bercovich.com/articulos/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta
+- [cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026](contenido/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026.md) → https://re.bercovich.com/articulos/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026
 - [permisos-para-remodelar-un-departamento-en-caba-2026-aviso-de-ob](contenido/permisos-para-remodelar-un-departamento-en-caba-2026-aviso-de-ob.md) → https://re.bercovich.com/articulos/permisos-para-remodelar-un-departamento-en-caba-2026-aviso-de-ob
 - [monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar](contenido/monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar.md) → https://re.bercovich.com/articulos/monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar
 - [reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026](contenido/reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026.md) → https://re.bercovich.com/articulos/reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026
@@ -16,7 +18,6 @@ Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.ber
 - [que-significa-comprar-un-departamento-en-pozo-caba-boleto-y-escr](contenido/que-significa-comprar-un-departamento-en-pozo-caba-boleto-y-escr.md) → https://re.bercovich.com/articulos/que-significa-comprar-un-departamento-en-pozo-caba-boleto-y-escr
 - [comprar-departamento-en-puerto-madero-cuanto-cuesta-el-m-en-2026](contenido/comprar-departamento-en-puerto-madero-cuanto-cuesta-el-m-en-2026.md) → https://re.bercovich.com/articulos/comprar-departamento-en-puerto-madero-cuanto-cuesta-el-m-en-2026
 - [precio-del-m-en-caba-octubre-2026-barrios-lideres-y-consecuencia](contenido/precio-del-m-en-caba-octubre-2026-barrios-lideres-y-consecuencia.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-octubre-2026-barrios-lideres-y-consecuencia
-- [como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta](contenido/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta.md) → https://re.bercovich.com/articulos/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta
 - [sistema-de-amortizacion-frances-guia-paso-a-paso-para-financiar](contenido/sistema-de-amortizacion-frances-guia-paso-a-paso-para-financiar.md) → https://re.bercovich.com/articulos/sistema-de-amortizacion-frances-guia-paso-a-paso-para-financiar
 - [como-emprender-un-negocio-inmobiliario-en-caba-guia-paso-a-paso](contenido/como-emprender-un-negocio-inmobiliario-en-caba-guia-paso-a-paso.md) → https://re.bercovich.com/articulos/como-emprender-un-negocio-inmobiliario-en-caba-guia-paso-a-paso
 - [precio-m-nunez-2026-cuanto-cuesta-un-depto-y-que-observar](contenido/precio-m-nunez-2026-cuanto-cuesta-un-depto-y-que-observar.md) → https://re.bercovich.com/articulos/precio-m-nunez-2026-cuanto-cuesta-un-depto-y-que-observar
@@ -24,7 +25,6 @@ Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.ber
 - [cuanto-subio-la-cuota-de-un-credito-uva-en-el-ultimo-ano](contenido/cuanto-subio-la-cuota-de-un-credito-uva-en-el-ultimo-ano.md) → https://re.bercovich.com/articulos/cuanto-subio-la-cuota-de-un-credito-uva-en-el-ultimo-ano
 - [cuantos-salarios-se-necesitan-para-comprar-un-departamento-en-c](contenido/cuantos-salarios-se-necesitan-para-comprar-un-departamento-en-c.md) → https://re.bercovich.com/articulos/cuantos-salarios-se-necesitan-para-comprar-un-departamento-en-c
 - [precio-del-m-en-caba-en-septiembre-2026-datos-y-tendencias](contenido/precio-del-m-en-caba-en-septiembre-2026-datos-y-tendencias.md) → https://re.bercovich.com/articulos/precio-del-m-en-caba-en-septiembre-2026-datos-y-tendencias
-- [cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026](contenido/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026.md) → https://re.bercovich.com/articulos/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026
 - [conviene-comprar-o-alquilar-en-argentina-2026-analisis-de-costo](contenido/conviene-comprar-o-alquilar-en-argentina-2026-analisis-de-costo.md) → https://re.bercovich.com/articulos/conviene-comprar-o-alquilar-en-argentina-2026-analisis-de-costo
 - [index-zonaprop-caba-2026-barrios-con-mayor-suba-del-m](contenido/index-zonaprop-caba-2026-barrios-con-mayor-suba-del-m.md) → https://re.bercovich.com/articulos/index-zonaprop-caba-2026-barrios-con-mayor-suba-del-m
 - [departamentos-en-venta-en-recoleta-y-barrio-norte-precios-plusva](contenido/departamentos-en-venta-en-recoleta-y-barrio-norte-precios-plusva.md) → https://re.bercovich.com/articulos/departamentos-en-venta-en-recoleta-y-barrio-norte-precios-plusva

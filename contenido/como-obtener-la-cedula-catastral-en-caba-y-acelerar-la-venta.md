@@ -1,144 +1,201 @@
 ---
-title: "Cómo obtener la cédula catastral en CABA y acelerar la venta"
+title: "Cédula catastral en CABA: cómo se obtiene y cómo acelera la venta"
 canonical: "https://re.bercovich.com/articulos/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta"
 category: "mercado"
-date: "2026-10-15"
+date: "2026-11-26"
 robots: "index, follow"
 source: "Bercovich Real Estate — https://re.bercovich.com/articulos/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta"
 ---
 
 > Publicado originalmente en [https://re.bercovich.com/articulos/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta](https://re.bercovich.com/articulos/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta)
-# Cómo obtener la cédula catastral en CABA y acelerar la venta
+# Cédula catastral en CABA: cómo se obtiene y cómo acelera la venta
 
-Para sacar la cédula catastral en CABA necesitás la partida inmobiliaria, los datos del titular y la documentación del inmueble, y se tramita ante el catastro de la Ciudad. El plazo depende del tipo de solicitud. Tu inmobiliaria y el escribano la usan para validar superficie, linderos y seguridad jurídica antes de escriturar.
+La cédula catastral se tramita ante el Catastro de la Ciudad de Buenos Aires con la dirección o la nomenclatura catastral del inmueble. Reúne la ficha técnica de la parcela: ubicación, medidas, superficie y croquis. Tenerla antes de publicar permite a la inmobiliaria y al escribano verificar que lo que se vende coincide con el registro oficial.
 
-## ¿Qué es la cédula catastral y su importancia en la venta de inmuebles en CABA?
+## Qué es la cédula catastral y para qué sirve en CABA
 
-La **cédula catastral** es el documento oficial que contiene la descripción física y jurídica de tu inmueble: ubicación exacta, superficie construida, linderos, destinada al catastro municipal y número de partida inmobiliaria. En la Ciudad Autónoma de Buenos Aires, la cédula constituye la referencia mínima que cualquier comprador, agente inmobiliario y escribano exigen antes de cerrar una operación.
+La **cédula catastral** es el documento que emite el Catastro de la Ciudad de Buenos Aires con la "ficha técnica" de una parcela. Describe el terreno tal como figura en el registro oficial: dónde está, qué forma y medidas tiene y cómo se identifica dentro del catastro porteño. En la práctica, permite comprobar que lo que se vende coincide con lo que el Estado tiene registrado.
 
-### Por qué es imprescindible al vender
+Conviene no confundirla con el **certificado catastral**. La cédula es un documento informativo: la consultás para conocer los datos de la parcela, sin efectos específicos para la operación. El certificado, en cambio, lo solicita el escribano en la etapa previa a la escritura. Acredita el estado parcelario del inmueble al momento de la compraventa, tiene un plazo de vigencia acotado y forma parte de la documentación obligatoria para firmar. Dicho de forma simple: la cédula te sirve para preparar la venta y el certificado se usa para cerrarla.
 
-| Razón | Qué verifica la cédula | Impacto en la venta |
-|------|------------------------|---------------------|
-| **Superficie certificada** | Área construida y de terreno en m² | Evita reclamos posteriores y permite comparar el bien con el **USD 2.484/m²** medio del mercado (septiembre 2026, Zonaprop — Index CABA). |
-| **Datos catastrales actualizados** | Uso del predio, número de unidad funcional y código de sub‑zona | Facilita la correcta aplicación del **impuesto de sellos del 2,7 %** (exento para vivienda única de uso permanente hasta el tope vigente) (junio 2026, AGIP). |
-| **Seguridad jurídica** | Coincidencia entre cédula y escritura pública | Reduce la probabilidad de que la escritura sea rechazada por el Registro de la Propiedad. |
-| **Valoración realista** | Base para cálculo de precio según metros cuadrados | Permite sustentar precios como **USD 110 000** para un monoambiente de 40 m² o **USD 180 000** para un tres ambientes de 70 m² (septiembre 2026, Zonaprop — Index CABA). |
+### Qué datos contiene
 
-En la práctica, cuando la cédula respalda que la superficie declarada coincide con la real, el comprador se siente más confiado y el vendedor puede justificar un precio que refleje la **variación mensual del precio de venta del +0,3 %** (septiembre 2026, Zonaprop — Index CABA) y la **variación acumulada del +1,4 %** en el último año. Además, una cédula correcta evita que la operación quede “en riesgo” y acelera la tramitación con el escribano, evitando demoras que podrían impactar en los costos de cierre, como el impuesto de sellos. En resumen, sin la cédula catastral, la venta de tu departamento en CABA se vuelve más lenta, costosa y vulnerable a disputas posteriores.
+Según el registro catastral de CABA, la cédula suele incluir:
 
-## Cedula catastral como se obtiene: paso a paso en CABA
+- **Nomenclatura catastral**: circunscripción, sección, manzana y parcela, que identifican el lote de forma unívoca.
+- **Ubicación**: calle, numeración y, en general, las calles que delimitan la manzana.
+- **Medidas y superficie del terreno**: frente, fondo y metros cuadrados de la parcela.
+- **Croquis o esquema parcelario**: la forma del lote y su posición dentro de la manzana.
+- **Datos de referencia del plano o mensura** que dieron origen a la parcela, si existen.
 
-Para obtener la cédula catastral en la Ciudad Autónoma de Buenos Aires tenés que iniciar el trámite ante la Dirección General de Catastro y Gestión Territorial (DGCyGT). El proceso consta de cuatro fases claramente delimitadas:
+### Por qué se exige en una compraventa
 
-1. **Reunir la documentación** – necesitás presentar:
-   * Formulario “Solicitud de Cédula Catastral” (disponible en línea o en la sede de la DGCyGT).  
-   * Título de propiedad o contrato de alquiler vigente.  
-   * Plano locativo o croquis de la unidad, firmado por un arquitecto matriculado.  
-   * Identificación del titular (DNI) y, si corresponde, del representante legal.  
+El comprador, el escribano y el banco, si hay crédito, necesitan saber que el inmueble existe tal como se lo describe. Cualquier diferencia entre la realidad, el título y el catastro puede frenar la operación. Algunos ejemplos son metros que no coinciden, una unificación de lotes sin registrar o una nomenclatura mal consignada.
 
-2. **Presentar la solicitud** – podés hacerlo de forma presencial en la oficina de la DGCyGT (Av. Belgrano 1200) o a través del portal “Ciudad Online”. En el caso del trámite digital, cargás los archivos escaneados y completás la firma electrónica.
+Por eso conviene que tu inmobiliaria revise la cédula antes de publicar la propiedad. Si detecta una inconsistencia, tenés tiempo de corregirla con el escribano o el agrimensor antes de recibir una reserva. Así evitás que el problema aparezca recién en el pedido del certificado, cuando el comprador ya está esperando fecha de escritura.
 
-3. **Pagar el arancel correspondiente** – el pago se realiza mediante boleto de la AFIP, cuyo importe varía según la superficie y la tipología del inmueble. El comprobante debe adjuntarse al expediente o cargarse en la plataforma digital.
+## Cómo obtener la cédula catastral de un inmueble paso a paso
 
-4. **Esperar la emisión** – la DGCyGT dispone de un plazo estándar de 15 días hábiles para la emisión de la cédula, aunque en la práctica suele entregarse entre 10 y 20 días hábiles, salvo que se requieran aclaraciones documentales.
+En la Ciudad de Buenos Aires, la cédula catastral se gestiona a través de los canales oficiales del Gobierno porteño, principalmente la plataforma de Trámites a Distancia (TAD) y los servicios de la Dirección General de Registro de Obras y Catastro. El procedimiento, los requisitos y los eventuales aranceles pueden cambiar. Antes de iniciar, confirmá el paso a paso vigente en buenosaires.gob.ar.
 
-| **Documento**                     | **Observaciones**                                            |
-|-----------------------------------|--------------------------------------------------------------|
-| Formulario de solicitud           | Descargar o completar en “Ciudad Online”.                    |
-| Título de propiedad / contrato    | Copia fotocopia certificada; si es arrendamiento, incluir vencimiento. |
-| Plano locativo o croquis          | Debe estar firmado y sellado por arquitecto matriculado.     |
-| DNI del titular                   | Copia frontal y reverso; si es representación, poder notarial. |
+### Datos del inmueble que vas a necesitar
 
-Una vez obtenida la cédula catastral, tenés un documento oficial que brinda la información exacta del metraje y la destinación del inmueble, elemento indispensable para la escritura y para la valoración del bien – por ejemplo, un dos ambientes medio se cotiza en **USD 131.000 (50 m²) (septiembre 2026, Zonaprop — Index CABA)**. Con la cédula en mano, el trámite de escritura avanza sin contratiempos y la venta se acelera, evitando demoras que puedan impactar los costos notariales y los impuestos de sellos (2,7 % en CABA, exento bajo condiciones específicas).
+Para identificar correctamente la propiedad, tené a mano:
 
-## Documentación requerida para el trámite y la venta inmobiliaria en CABA
+- **Nomenclatura catastral:** circunscripción, sección, manzana y parcela (y unidad funcional, si es un departamento en propiedad horizontal).
+- **Número de partida inmobiliaria:** figura en la boleta de ABL que emite AGIP.
+- **Dirección exacta** del inmueble, con piso y unidad si corresponde.
 
-Para iniciar el trámite de la cédula catastral y, posteriormente, cerrar la venta de tu inmueble en la Ciudad de Buenos Aires, vas a necesitar dos paquetes de documentación claramente diferenciados. A continuación te los presento en una tabla práctica que podés usar como checklist:
+Un error en la nomenclatura es una de las causas más comunes de demora. Cruzá los datos de la boleta de ABL con los que figuran en tu escritura.
 
-| **Trámite** | **Documentación obligatoria** |
-|-------------|------------------------------|
-| **Obtención de la cédula catastral** | • DNI y CUIL del titular<br>• Certificado de dominio vigente (emitido por el Registro de la Propiedad)<br>• Plano de mensura o certificado de catastro actualizado<br>• Constancia de la AGIP de inexistencia de adeudos tributarios (incluye el impuesto de sellos del 2,7 % –exento para vivienda única de uso permanente– (junio 2026, AGIP))<br>• Boleta de pago de la tasa municipal correspondiente |
-| **Cierre de la venta inmobiliaria** | • Escritura pública firmada ante escribano y acompañada de la cédula catastral<br>• Certificado de libertad de gravamen (Registro de la Propiedad)<br>• Constancia de ANSES que acredite la situación familiar y eventual inexistencia de cargas (cargas familiares del vendedor)<br>• Constancia de CUIL de comprador y vendedor<br>• Certificado de AFIP (IVA y ganancias) que demuestre la regularidad fiscal<br>• Comprobante de pago del impuesto de sellos (2,7 % o exención) (AGIP, junio 2026) |
-| **Requisitos complementarios (inmobiliaria)** | • Poder de representación si actuás a través de una inmobiliaria<br>• Carta de estudio financiero del comprador (para la entidad bancaria) |
+### Documentación que conviene tener lista
 
-Tené presente que la correcta presentación de estos documentos no solo agiliza la obtención de la cédula catastral, sino que también evita retrasos en la escritura final. En un mercado donde el precio medio de un departamento de dos ambientes se ubica en **USD 131.000 (50 m²) (septiembre 2026, Zonaprop — Index CABA)**, cada día de demora puede significar una pérdida de oportunidad de venta. Con la documentación en regla, la inmobiliaria y el escribano podrán concentrarse en la parte contractual y en la liquidación del impuesto de sellos, garantizando una transferencia de dominio segura y sin sorpresas.
-
-## El rol del escribano y la inmobiliaria en la obtención de la cédula catastral
-
-El escribano y la inmobiliaria son los dos pilares que convierten la cédula catastral en un elemento vinculante de la escritura de compraventa.  
-
-**Escribano:**  es el profesional obligatoriamente interviniente en la formalización del contrato. Su responsabilidad incluye:  
-
-1. **Verificación documental** – coteja que la cédula coincida con los datos registrales del inmueble y con la información que la inmobiliaria haya recabado.  
-2. **Incorporación de la cédula** – redacta una cláusula que indique el número de cédula, su fecha de emisión y el valor fiscal, garantizando que quede plasmado en la escritura.  
-3. **Liquidación del impuesto de sellos** – calcula el 2,7 % (exento para vivienda única de uso permanente) (junio 2026, AGIP) y lo declara ante la AFIP.  
-4. **Inscripción en el Registro de la Propiedad** – una vez firmada la escritura, procede a la inscripción, dejando la cédula como referencia permanente.
-
-**Inmobiliaria:**  actúa como el nexo operativo que agiliza el trámite y aporta seguridad al vendedor y al comprador. Sus tareas son:  
-
-| Acción | Por qué es clave |
-|--------|-----------------|
-| Recopilación de la documentación requerida (títulos, planos, recibos) | Evita retrasos y permite al escribano trabajar con información completa |
-| Solicitud de la cédula catastral ante la Municipalidad | Acelera el proceso; la media de tiempo de emisión se redujo un 5 % frente al año anterior (cifras propias de la municipalidad) |
-| Coordinación de agenda entre las partes | Hace posible que la escritura se firme en el mismo día de la obtención de la cédula, reduciendo riesgos de desalineación |
-| Asesoramiento sobre la variación del mercado | Con un precio promedio de USD 2 484/m² (septiembre 2026, Zonaprop — Index CABA) y una variación mensual de +0,3 %, la inmobiliaria ayuda a fijar un valor realista que respalde la cédula. |
-
-Cuando el escribano incorpora la cédula en la escritura, el comprador adquiere un título plenamente respaldado por el catastro y el registro, lo que a su vez sustenta la recaudación del impuesto de sellos y la futura valorización del bien. En un contexto donde el volumen de escrituras cayó un 5 % interanual (septiembre 2026, Zonaprop — Index CABA), contar con ambos profesionales garantiza que tu operación se cierre sin sorpresas y con la documentación “a prueba de fuego”.
-
-## Beneficios de contar con la cédula catastral antes de publicar el inmueble
-
-Tener la cédula catastral en mano antes de publicar el inmueble te brinda tres palancas clave para cerrar la operación con mayor rapidez y confianza.
-
-**Ventajas inmediatas**
-
-- **Acelera la negociación** – Los compradores de CABA suelen solicitar la cédula como requisito previo a cualquier oferta. Contar con ella evita idas y venidas al registro y reduce el tiempo entre la visita y la firma de la promesa de venta.  
-- **Genera seguridad jurídica** – La cédula contiene la superficie exacta, la ubicación del dominio y los gravámenes vigentes. Con esa información el comprador puede cotejar el impuesto de sellos (2,7 % para operaciones distintas a la vivienda única de uso permanente, junio 2026, AGIP) y estar seguro de que no existen cargas ocultas.  
-- **Mejora la percepción de valor** – Al presentar datos oficiales (metros cuadrados, uso del predio y categoría fiscal) el inmueble se sitúa de forma transparente dentro del mercado. En septiembre 2026 el precio promedio de venta en CABA fue de **USD 2 484 /m²** (septiembre 2026, Zonaprop — Index CABA), con una variación mensual de **+0,3 %** y una acumulada anual de **+1,4 %**. Cuando podés demostrar que tu departamento está alineado (o supera) ese promedio, el comprador percibe un “valor añadido” que justifica tu precio de lista.  
-
-| Tipo de inmueble | Precio medio (USD) | Superficie (m²) | Precio €/m² |
-|------------------|--------------------|-----------------|-------------|
-| Monoambiente     | 110 000            | 40              | 2 750 |
-| Dos ambientes    | 131 000            | 50              | 2 620 |
-| Tres ambientes   | 180 000            | 70              | 2 571 |
-
-Estos rangos, más la certeza que brinda la cédula, reducen la fricción en la fase de tasación y hacen que la oferta sea evaluada como “lista para cerrar”. Además, al contar con la documentación completa, el escribano y la inmobiliaria pueden avanzar sin sorpresas, lo que se traduce en una venta más ágil y en una mejor posición negociadora para vos.
-
-## Costos y plazos estimados del trámite en CABA (tabla comparativa)
-
-En la práctica cotidiana, el costo total del trámite de la cédula catastral se compone de varios ítems que pueden variar según la característica del inmueble y la forma en que decidas gestionar el proceso. La tabla siguiente resume los conceptos habituales, indica dónde puedes encontrar los rangos de precios y ofrece una idea del tiempo que habitualmente tardan en resolverse los distintos pasos:
-
-| Concepto | Rango de costos (consultá la normativa vigente) | Tiempo de respuesta habitual |
-|----------|-------------------------------------------------|-------------------------------|
-| **Arancel municipal (cédula catastral)** | Depende de la superficie, la ubicación y la tipología del bien; los valores están publicados en la página oficial del Gobierno de la Ciudad. | Se procesa en el plazo que establece la Dirección de Catastro, generalmente una o dos semanas. |
-| **Gestión inmobiliaria** | El honorario del agente inmobiliario se pacta en función del valor del inmueble y del alcance del acompañamiento. La práctica del mercado lo sitúa dentro de un porcentaje del precio de venta, pero el monto exacto lo determina la inmobiliaria con la que trabajes. | La inmobiliaria suele completar su gestión administrativa en pocos días hábiles posteriores a la entrega de la documentación. |
-| **Honorario del escribano** | El arancel del profesional depende de la complejidad de la escritura y del valor declarado del bien; se encuentra regulado en la tabla de honorarios notariales. | El escribano entrega la escritura firmada y sellada en un plazo similar al de la gestión inmobiliaria. |
-| **Impuesto de sellos** | **2,7 %** del valor del inmueble (exento para vivienda única de uso permanente) (junio 2026, AGIP). | Se paga al momento de presentar la escritura ante la Inspección General de Justicia. |
-
-Tené en cuenta que, aunque los aranceles municipales y notariales son fijos por normativa, los honorarios de la inmobiliaria y del escribano pueden negociarse dentro de los rangos citados y repercuten directamente en el costo total del trámite. Asimismo, el impuesto de sellos del **2,7 %** representa la mayor carga fiscal cuando el inmueble no está exento, por lo que es conveniente considerarlo al calcular la rentabilidad neta de la operación. Con estos datos podés planificar con claridad los gastos y los tiempos necesarios para obtener la cédula catastral y avanzar con la venta de tu propiedad en CABA.
-
-## FAQ – Preguntas frecuentes sobre la cédula catastral en CABA
-
-| Pregunta | Respuesta breve |
+| Documento | Para qué sirve |
 |---|---|
-| **¿Se puede obtener la cédula sin estar al día con los impuestos?** | No. El trámite exige que tanto el impuesto a los Bienes Personales (ABL) como el impuesto a la Propiedad Inmueble estén pagados al momento de la solicitud. Si hay deudas, el Registro de la Propiedad no emitirá la cédula y la operación quedará paralizada. |
-| **¿Qué ocurre si la superficie declarada difiere de la real?** | La diferencia implica una rectificación obligatoria en el catastro. El escribano enviará la solicitud de ajuste y, de confirmarse la nueva medida, se recalculará el valor fiscal y el impuesto de sellos (2,7% – exento solo para vivienda única de uso permanente, junio 2026, AGIP). Además, podría generarse una multa por incongruencia y afectar la valoración de mercado; por ejemplo, con un precio medio de USD 2.484/m² (septiembre 2026, Zonaprop — Index CABA), una variación de ±5 m² significaría entre USD 12.420 y USD 12.420 de diferencia en el precio estimado. |
-| **¿Puede el comprador solicitar la cédula directamente?** | El comprador tiene derecho a exigir que el vendedor entregue la cédula antes de firmar la escritura, pero la iniciativa del trámite recae sobre el vendedor, quien lo gestiona a través del escribano y la inmobiliaria. La normativa inmobiliaria obliga a que la cédula sea entregada antes del cierre, por lo que el comprador no la solicita directamente al catastro. |
-| **¿Qué pasa si el vendedor no la entrega?** | La ausencia de la cédula impide la firma de la escritura y la inscripción del comprador. En la práctica, la inmobiliaria y el escribano intervendrán para bloquear la transacción hasta regularizarla. |
+| Escritura o título de propiedad | Acredita tu titularidad y aporta los datos registrales |
+| Última boleta de ABL | Confirma partida y nomenclatura |
+| DNI del titular (o poder, si actúa un apoderado) | Valida la identidad de quien solicita |
+| Clave Ciudad (nivel requerido por TAD) | Permite iniciar el trámite online |
+| Planos aprobados o de mensura, si los tenés | Facilitan cotejar superficies y unidades |
 
-### Tips rápidos
-- **Mantén tus impuestos al día**: evita retrasos y multas.
-- **Verifica la superficie**: una medición precisa agiliza la rectificación y evita discrepancias en el cálculo del impuesto de sellos.
-- **Comunicación clara con la inmobiliaria**: ellos coordinan al escribano y garantizan que la cédula llegue al comprador en el momento oportuno.
+### Paso a paso general
+
+1. Ingresá a TAD con tu Clave Ciudad.
+2. Buscá el trámite de solicitud de cédula o certificado catastral.
+3. Completá los datos del inmueble y adjuntá la documentación.
+4. Aboná el arancel, si corresponde según la normativa vigente.
+5. Hacé el seguimiento desde la misma plataforma hasta recibir el documento.
+
+### Coordinalo con tu inmobiliaria y tu escribano
+
+Si estás por vender, sumá este trámite al resto de la documentación desde el primer día. Tu inmobiliaria puede ordenar los papeles para que el inmueble salga a publicación sin observaciones. El escribano, por su parte, va a verificar que la información catastral coincida con la registral antes de la firma. Tener la cédula al día evita que una diferencia de superficies o de nomenclatura frene la operación cuando ya tenés un comprador interesado.
+
+## Certificado catastral en CABA: cuándo lo pide el escribano para escriturar
+
+Sí: para escriturar en CABA el escribano necesita la información catastral del inmueble. La cédula catastral sirve como referencia para identificar la parcela. Lo que el escribano tramita es el **certificado catastral**, que acredita el estado parcelario vigente: nomenclatura, medidas y linderos, y si existen planos registrados, modificaciones o unificaciones. Ese dato tiene que coincidir con el título y con lo que figura en el Registro de la Propiedad Inmueble. Si no coincide, la escritura se frena hasta resolver la diferencia.
+
+### En qué momento lo pide
+
+El escribano solicita los certificados **una vez firmada la reserva o el boleto**, cuando ya existe una fecha tentativa de escritura. No conviene pedirlos antes, porque tienen **vigencia limitada**. Si la firma se posterga, pueden vencer y hay que volver a tramitarlos. Por eso tu inmobiliaria y el escribano coordinan el calendario de la operación para que todos los certificados estén vigentes el día de la firma.
+
+### Cómo se coordina con el resto de la documentación
+
+El certificado catastral es una pieza más del "paquete" previo a la escritura. En general, el escribano reúne:
+
+- **Certificado catastral**: estado parcelario del inmueble.
+- **Certificado de dominio**: titularidad, hipotecas, embargos y otras restricciones.
+- **Certificado de inhibiciones**: confirma que el vendedor puede disponer de sus bienes.
+- **Libre deuda de ABL (AGIP)** y de servicios como AySA.
+- **Certificado de deuda de expensas**, firmado por la administración del consorcio, si es propiedad horizontal.
+
+Con esa información, el escribano también calcula los costos de la escritura. Entre ellos está el impuesto de sellos: 2,7%, con exención para vivienda única de uso permanente hasta el tope vigente (junio 2026, AGIP).
+
+### Qué podés hacer vos para acelerar
+
+Tené a mano la cédula catastral, el título y las últimas boletas de ABL apenas pongas la propiedad en venta. Si hubo reformas o ampliaciones sin plano registrado, avisale a tu inmobiliaria desde el inicio. Esas diferencias aparecen justamente en el certificado catastral, y detectarlas temprano evita demoras cuando el comprador ya está listo para firmar.
+
+## Cuánto cuesta la cédula catastral y cuánto tarda el trámite
+
+No hay un precio único para la cédula catastral. Lo que pagás se compone de partes que dependen de quién haga el trámite y de qué documentación necesites. Por eso no vas a encontrar acá una cifra cerrada. Lo correcto es que consultes los valores vigentes en la fuente oficial y que pidas presupuesto a tu escribano.
+
+### De qué depende el costo
+
+- **Tasas oficiales:** son los aranceles que fija el Gobierno de la Ciudad para emitir la documentación catastral. Se actualizan periódicamente, así que conviene verificarlos en el sitio oficial del GCBA o de la Dirección General de Registro de Obras y Catastro antes de iniciar el trámite.
+- **Honorarios profesionales:** si el escribano o un gestor matriculado se encarga de pedir y retirar la documentación, sus honorarios se suman a las tasas. Varían según el profesional y la complejidad del caso.
+- **Documentación complementaria:** si el inmueble tiene planos desactualizados, ampliaciones sin registrar o diferencias entre lo construido y lo declarado, puede hacer falta un profesional (agrimensor o arquitecto). Eso suma tiempo y costo.
+
+### Cuánto tarda
+
+El plazo depende de la vía de solicitud, de la demanda del organismo y de que la documentación esté en orden. Una partida sin observaciones suele resolverse más rápido que una con planos por regularizar. Para tener una referencia confiable, consultá los plazos informados por el organismo y preguntale a tu escribano cuánto viene demorando en la práctica.
+
+### Por qué anticiparlo acelera la venta
+
+El costo de la cédula es menor si lo comparás con el valor de la operación. Como referencia, un dos ambientes medio en CABA se publica en USD 132.000 (octubre 2026, Zonaprop — Index CABA). Lo que sí puede pesar es la demora: si la documentación aparece tarde, la firma se posterga y el comprador puede enfriarse.
+
+Lo recomendable es que, apenas decidas vender, coordines con tu inmobiliaria y tu escribano el pedido de la documentación catastral. Así detectás a tiempo cualquier observación y llegás a la escritura con todo resuelto.
+
+## Problemas frecuentes con el catastro de CABA y cómo resolverlos
+
+Cuando la cédula catastral, los planos aprobados y el inmueble real no coinciden, el escribano lo detecta en el estudio de títulos y la operación se frena. Conviene que lo revises antes de publicar, no cuando ya tenés un comprador con la seña en la mano.
+
+Estas son las inconsistencias más habituales y cómo se suelen resolver:
+
+| Problema | Cómo se manifiesta | Cómo se regulariza |
+|---|---|---|
+| **Ampliaciones no declaradas** | Un balcón cerrado, una habitación en la terraza o un quincho que no figura en los planos aprobados | Un arquitecto o maestro mayor de obras releva lo construido y tramita los planos de obra ejecutada (empadronamiento) ante el organismo de la Ciudad |
+| **Diferencias de superficie** | Los metros de la cédula no coinciden con los del título ni con los del plano de mensura | Un agrimensor hace una nueva mensura y se rectifica la registración catastral |
+| **Unidades funcionales mal registradas** | En un PH, la UF tiene asignada una superficie, un porcentual o un destino que no corresponde (por ejemplo, una baulera o una cochera mal identificada) | Se revisa el reglamento de propiedad horizontal y se tramita la modificación del plano de PH, muchas veces con aprobación del consorcio |
+| **Datos desactualizados** | Nomenclatura, partida o titularidad que no reflejan cambios anteriores | El profesional pide la actualización de la información parcelaria |
+
+## Por qué conviene resolverlo antes de vender
+
+Una diferencia de superficie impacta directamente en el precio. Con un m² usado de 2 ambientes que promedia USD 2.343 en CABA (agosto 2026, Estadística Ciudad (IEyC GCBA) sobre avisos de Argenprop), cada metro que no podés acreditar es valor que el comprador va a querer descontar en la negociación. Además, muchos bancos no otorgan crédito hipotecario sobre inmuebles con construcciones sin declarar, y eso achica el universo de compradores.
+
+## Cómo encararlo
+
+1. **Pedile a tu inmobiliaria una revisión documental previa.** Una inmobiliaria con experiencia compara la cédula, el título y la visita al inmueble, y detecta las discrepancias desde la tasación.
+2. **Convocá al profesional matriculado que corresponda**: agrimensor para mensuras y arquitecto para obra no declarada.
+3. **Coordiná con el escribano** para saber qué documentación va a exigir y en qué plazos.
+
+Llegar a la publicación con la situación catastral ordenada te da previsibilidad en la negociación y evita que la operación se caiga en la etapa de escritura.
+
+## Cómo tener la cédula catastral lista ayuda a acelerar la venta de tu departamento
+
+Cuando aparece un comprador interesado, cada día de espera cuenta. Si recién en ese momento salís a buscar la cédula catastral, podés frenar la reserva o estirar los plazos del boleto, y en un mercado donde el precio publicado del m² en venta ronda los USD 2.493/m² (octubre 2026, Zonaprop — Index CABA), con una variación mensual de +0,4% (octubre 2026, Zonaprop — Index CABA), el comprador compara opciones y suele inclinarse por la que tiene los papeles en orden.
+
+### Prepará la documentación antes de publicar
+
+Lo ideal es que, al firmar la autorización de venta con la inmobiliaria, ya tengas encaminado el tema catastral. Así, tu asesor puede revisar que la superficie, la nomenclatura y los datos de la cédula coincidan con el título y con lo que se va a publicar en el aviso. Si hay diferencias, se detectan a tiempo y no en la mesa de firma.
+
+Un circuito ordenado suele verse así:
+
+1. **Antes de publicar:** reunís título, cédula catastral y planos, y la inmobiliaria los revisa junto con la tasación.
+2. **En la reserva:** el comprador recibe información consistente y no hay sorpresas que lo hagan dudar.
+3. **Antes del boleto:** el escribano designado chequea la documentación y anticipa qué certificados va a solicitar.
+4. **Para la escritura:** con la base catastral resuelta, el escribano pide los certificados actualizados sin trabas y se cumple la fecha pactada.
+
+### Por qué genera confianza
+
+Un comprador que invierte, por ejemplo, en un dos ambientes medio valuado en USD 132.000 (octubre 2026, Zonaprop — Index CABA) quiere certezas. Que la inmobiliaria pueda mostrarle desde el primer contacto que el inmueble está regularizado transmite seriedad y reduce las contraofertas basadas en "riesgos" documentales.
+
+Además, coordinar con el escribano desde temprano te permite conocer de antemano los costos de la operación, como el impuesto de sellos en CABA del 2,7% (exento para vivienda única de uso permanente hasta el tope vigente) (junio 2026, AGIP), y acordar con claridad cómo se reparten entre las partes.
+
+Tener la cédula lista no es un trámite aislado: es parte de una estrategia de venta profesional, donde inmobiliaria y escribano trabajan con vos para que la operación avance sin demoras evitables.
+
+## Preguntas frecuentes sobre la cédula catastral en CABA
+
+Es el documento que identifica tu inmueble ante el Catastro de la Ciudad. Contiene la nomenclatura (circunscripción, sección, manzana y parcela), las medidas del lote y las superficies registradas. Es la "ficha técnica" oficial de la propiedad.
+
+**¿Cómo obtengo la de mi inmueble?**
+Se gestiona ante la Dirección General de Registro de Obras y Catastro (DGROC) del Gobierno de la Ciudad, en general por vía web. Necesitás los datos de la parcela, que figuran en la escritura o en la boleta de ABL. Si no los tenés a mano, tu inmobiliaria o tu escribano te ayudan a ubicarlos.
+
+**¿Es lo mismo que el certificado catastral?**
+No. La cédula describe el inmueble. El certificado catastral es el documento que el escribano solicita antes de escriturar para acreditar el estado parcelario vigente de la propiedad. Están relacionados, pero cumplen funciones distintas.
+
+**¿Es obligatoria para escriturar?**
+El certificado catastral es parte de la documentación que el escribano reúne antes de la firma. Tener la cédula al día y sin diferencias evita que ese paso se trabe y demore la escritura.
+
+**¿Cuánto cuesta?**
+El arancel lo fija el Gobierno de la Ciudad y se actualiza periódicamente. Consultalo en el sitio oficial o con tu escribano antes de iniciar el trámite. En este artículo no damos un monto para no citar un valor desactualizado.
+
+**¿Quién la tramita en una compraventa?**
+El reparto habitual de tareas es este:
+
+- **Inmobiliaria:** revisa la documentación al tomar la propiedad y detecta faltantes antes de publicar.
+- **Escribano:** pide el certificado catastral y los demás informes previos a la escritura.
+- **Vendedor:** aporta la escritura, las boletas y, si hace falta, los planos.
+
+**¿Qué pasa si los datos no coinciden con la realidad?**
+Si hay metros sin declarar, ampliaciones o cambios de destino, corresponde regularizar con planos de mensura o conforme a obra, firmados por un profesional matriculado. Conviene resolverlo antes de salir a la venta. En un mercado donde un dos ambientes medio vale USD 132.000 (octubre 2026, Zonaprop — Index CABA), una diferencia de superficie puede abrir una discusión de precio o frenar la firma.
 
 ## Fuentes y fecha de actualización
 
-Actualizado: 2026-10-15.
+Actualizado: 2026-11-26.
 
 - [ARCA (ex AFIP) — ITI / Ganancias / Bienes Personales](https://www.arca.gob.ar)
 - [AGIP (CABA) — ABL / valuación / Sellos](https://www.agip.gob.ar)
 - [Registro de la Propiedad Inmueble (DNRPI)](https://www.dnrpi.jus.gob.ar)
 - [InfoLEG / SAIJ](https://www.infoleg.gob.ar)
 - [Código Urbanístico CABA](https://www.buenosaires.gob.ar)
-- [https://re.bercovich.com/propiedades](https://re.bercovich.com/propiedades)
-- [https://re.bercovich.com/articulos](https://re.bercovich.com/articulos)
+- [Propiedades en venta de Bercovich Real Estate](https://re.bercovich.com/propiedades)
+- [Más artículos de Bercovich Real Estate](https://re.bercovich.com/articulos)
