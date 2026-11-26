@@ -4,6 +4,7 @@ Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.ber
 
 - [como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta](contenido/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta.md) → https://re.bercovich.com/articulos/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta
 - [cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026](contenido/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026.md) → https://re.bercovich.com/articulos/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026
+- [que-gastos-implica-comprar-un-departamento-en-caba-y-como-calcul](contenido/que-gastos-implica-comprar-un-departamento-en-caba-y-como-calcul.md) → https://re.bercovich.com/articulos/que-gastos-implica-comprar-un-departamento-en-caba-y-como-calcul
 - [permisos-para-remodelar-un-departamento-en-caba-2026-aviso-de-ob](contenido/permisos-para-remodelar-un-departamento-en-caba-2026-aviso-de-ob.md) → https://re.bercovich.com/articulos/permisos-para-remodelar-un-departamento-en-caba-2026-aviso-de-ob
 - [monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar](contenido/monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar.md) → https://re.bercovich.com/articulos/monoambiente-en-venta-en-caba-en-2026-cuanto-cuesta-el-m-por-bar
 - [reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026](contenido/reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026.md) → https://re.bercovich.com/articulos/reforma-de-un-departamento-antiguo-en-caba-para-revender-en-2026
