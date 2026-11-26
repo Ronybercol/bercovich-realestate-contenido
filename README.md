@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [departamentos-a-estrenar-en-caba-2026-cuanto-cuesta-el-m-y-como](contenido/departamentos-a-estrenar-en-caba-2026-cuanto-cuesta-el-m-y-como.md) → https://re.bercovich.com/articulos/departamentos-a-estrenar-en-caba-2026-cuanto-cuesta-el-m-y-como
+- [precio-del-m-en-puerto-madero-2026-cuanto-cuesta-el-metro-premiu](contenido/precio-del-m-en-puerto-madero-2026-cuanto-cuesta-el-metro-premiu.md) → https://re.bercovich.com/articulos/precio-del-m-en-puerto-madero-2026-cuanto-cuesta-el-metro-premiu
 - [como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta](contenido/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta.md) → https://re.bercovich.com/articulos/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta
 - [cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026](contenido/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026.md) → https://re.bercovich.com/articulos/cuanto-cuesta-una-escritura-en-caba-tras-rdley-26-2026
 - [que-gastos-implica-comprar-un-departamento-en-caba-y-como-calcul](contenido/que-gastos-implica-comprar-un-departamento-en-caba-y-como-calcul.md) → https://re.bercovich.com/articulos/que-gastos-implica-comprar-un-departamento-en-caba-y-como-calcul
