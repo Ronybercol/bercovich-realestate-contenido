@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [impuesto-de-sellos-en-caba-2026-cuanto-pagas-al-escriturar-y-cua](contenido/impuesto-de-sellos-en-caba-2026-cuanto-pagas-al-escriturar-y-cua.md) → https://re.bercovich.com/articulos/impuesto-de-sellos-en-caba-2026-cuanto-pagas-al-escriturar-y-cua
+- [locales-en-venta-en-palermo-2026-cuanto-cuesta-el-m-y-cuanto-ren](contenido/locales-en-venta-en-palermo-2026-cuanto-cuesta-el-m-y-cuanto-ren.md) → https://re.bercovich.com/articulos/locales-en-venta-en-palermo-2026-cuanto-cuesta-el-m-y-cuanto-ren
 - [departamentos-a-estrenar-en-caba-2026-cuanto-cuesta-el-m-y-como](contenido/departamentos-a-estrenar-en-caba-2026-cuanto-cuesta-el-m-y-como.md) → https://re.bercovich.com/articulos/departamentos-a-estrenar-en-caba-2026-cuanto-cuesta-el-m-y-como
 - [precio-del-m-en-puerto-madero-2026-cuanto-cuesta-el-metro-premiu](contenido/precio-del-m-en-puerto-madero-2026-cuanto-cuesta-el-metro-premiu.md) → https://re.bercovich.com/articulos/precio-del-m-en-puerto-madero-2026-cuanto-cuesta-el-metro-premiu
 - [como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta](contenido/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta.md) → https://re.bercovich.com/articulos/como-obtener-la-cedula-catastral-en-caba-y-acelerar-la-venta
