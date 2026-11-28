@@ -2,6 +2,8 @@
 
 Mercado inmobiliario de Buenos Aires. Canonical de cada pieza → https://re.bercovich.com.
 
+- [cuanto-cobra-un-escribano-en-caba-en-2026-honorarios-aranceles](contenido/cuanto-cobra-un-escribano-en-caba-en-2026-honorarios-aranceles.md) → https://re.bercovich.com/articulos/cuanto-cobra-un-escribano-en-caba-en-2026-honorarios-aranceles
+- [cuanto-vale-mi-local-comercial-en-caba-en-2026-como-tasarlo-pas](contenido/cuanto-vale-mi-local-comercial-en-caba-en-2026-como-tasarlo-pas.md) → https://re.bercovich.com/articulos/cuanto-vale-mi-local-comercial-en-caba-en-2026-como-tasarlo-pas
 - [impuesto-de-sellos-en-caba-2026-cuanto-pagas-al-escriturar-y-cua](contenido/impuesto-de-sellos-en-caba-2026-cuanto-pagas-al-escriturar-y-cua.md) → https://re.bercovich.com/articulos/impuesto-de-sellos-en-caba-2026-cuanto-pagas-al-escriturar-y-cua
 - [locales-en-venta-en-palermo-2026-cuanto-cuesta-el-m-y-cuanto-ren](contenido/locales-en-venta-en-palermo-2026-cuanto-cuesta-el-m-y-cuanto-ren.md) → https://re.bercovich.com/articulos/locales-en-venta-en-palermo-2026-cuanto-cuesta-el-m-y-cuanto-ren
 - [departamentos-a-estrenar-en-caba-2026-cuanto-cuesta-el-m-y-como](contenido/departamentos-a-estrenar-en-caba-2026-cuanto-cuesta-el-m-y-como.md) → https://re.bercovich.com/articulos/departamentos-a-estrenar-en-caba-2026-cuanto-cuesta-el-m-y-como
